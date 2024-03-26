@@ -10,10 +10,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "json-server": "^1.0.0-alpha.23"
-  },
   "devDependencies": {
     "@faker-js/faker": "^8.4.1"
+  },
+  "dependencies": {
+    "json-server": "^0.17.4"
   }
 }
