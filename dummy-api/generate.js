@@ -29,7 +29,7 @@ const generateOrder = () => ({
     fractionDigits: 2,
   }),
   status: Math.round(Math.random() * 3),
-  orderDate: faker.date.anytime().toISOString().split("T")[0],
+  unixSecDate:  Math.floor(faker.date.anytime().getTime() / 1000),
   saleName: sales.at(Math.round(Math.random() * (slaesNum - 1))),
 });
 

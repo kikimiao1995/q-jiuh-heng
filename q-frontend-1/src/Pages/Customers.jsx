@@ -13,6 +13,7 @@ import {
   Space,
 } from "antd";
 import { Content } from "antd/es/layout/layout";
+import Orders from "./Orders";
 
 const data = [
   {
@@ -92,7 +93,7 @@ const columns = [
   },
 ];
 
-function Customers() {
+export default function Customers() {
   const [search, setSearch] = useState({
     id: "",
     name: "",
@@ -120,6 +121,7 @@ function Customers() {
       <Layout style={{ padding: "40px" }}>
         <Content>
           <Card>
+            {/* <Orders></Orders> */}
             <p>只顯示 Status = Active 的客戶</p>
             <p>
               Customer.ID, Name, Country, State, City, Address, Zip
@@ -163,5 +165,3 @@ function Customers() {
     </>
   );
 }
-
-export default Customers;
