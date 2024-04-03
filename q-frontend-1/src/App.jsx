@@ -4,7 +4,7 @@ import Customers from "./Pages/Customers";
 function App() {
   return (
     <>
-      <Customers></Customers>
+      <Customers />
     </>
   );
 }

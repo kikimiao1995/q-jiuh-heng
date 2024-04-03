@@ -1,1 +1,3519 @@
-{"sales":["Giovanna","Jordan","Lelia","Simeon","Markus","Mckayla","Monique","Donnell","Raoul","Talon","Ines","Nettie","Mafalda","Eleonore","Eliseo","Kari","Anissa","Georgette","Barrett","Lulu"],"customers":[{"id":"e-ST59iyI8BGL2wXFwaI","name":"Mr. Devin Littel","country":"KEN","city":"Canton","state":"MS","address":"3660 Leuschke Islands Apt. 704","zip":"03115","status":1},{"id":"mXuNwO1JtUHHy1FDasGz","name":"Kimberly Grimes","country":"MLT","city":"North Dave","state":"OH","address":"38046 Giovani Views Apt. 749","zip":"59549-7947","status":1},{"id":"JiYScuEsqmnHgblT-fCT","name":"Chris Altenwerth","country":"LUX","city":"Jeraldberg","state":"AK","address":"4461 Bosco Falls Apt. 832","zip":"51792-2852","status":0},{"id":"hn5NIMynJhqjVwc0Xr1u","name":"Linda Hoeger","country":"GEO","city":"South Elliot","state":"NY","address":"9021 Roob Underpass Suite 531","zip":"38214-1472","status":1},{"id":"WaWFh8T3tvmM3ZLyKkDf","name":"Blake Rolfson","country":"SPM","city":"North Elliot","state":"NY","address":"13829 Cremin Summit Apt. 806","zip":"00041-5477","status":1},{"id":"aS-TfrneJIPetdVQJl8J","name":"Terry Fadel","country":"VIR","city":"Kaylahstad","state":"AK","address":"13502 Dietrich Way Apt. 104","zip":"76920","status":1},{"id":"Ue0cz0nlAGPbHGf76fUF","name":"Marion Erdman","country":"BEN","city":"Hagenesfort","state":"NV","address":"922 Enos Parkway Suite 657","zip":"21217-1408","status":1},{"id":"biCI4uglddtdxtp8xUID","name":"Milton Hintz","country":"PRT","city":"Cleveland Heights","state":"TN","address":"151 Jones Field Apt. 926","zip":"22411","status":1},{"id":"XX1rkMGZnHvQ8LIobSdR","name":"Bryant Yost","country":"CMR","city":"Ames","state":"IA","address":"94902 Collins Spur Apt. 749","zip":"28667-3847","status":0},{"id":"kfp1yN9tezYvYdEE_RK9","name":"Kristie Buckridge","country":"WLF","city":"North Audrey","state":"NJ","address":"89248 Parker Centers Suite 281","zip":"95919-4035","status":0},{"id":"0oYIc0JPxNReKe4L_Dmr","name":"Dr. Tommy Haag-Schultz III","country":"ARE","city":"Strongsville","state":"NC","address":"36807 N 4th Street Apt. 575","zip":"45621-5345","status":1},{"id":"gGndv-H2nxQCHRGDKWgP","name":"Guillermo Fahey","country":"AZE","city":"Metzville","state":"NE","address":"14888 Avery Valleys Suite 504","zip":"66074-7660","status":1},{"id":"QBXmGbKqqcpwmJtlH-qb","name":"Allen Hahn","country":"ASM","city":"North Monserratestead","state":"NC","address":"762 Zora Lakes Suite 374","zip":"60776","status":1},{"id":"m-aCWBCh_Tn3sfWdV_09","name":"Brooke Champlin","country":"BLM","city":"West Darbystead","state":"OH","address":"59706 Senger Spring Suite 839","zip":"13102-5368","status":0},{"id":"31SHGqCWRgvzwyS8IA6T","name":"Dr. Amanda Fritsch","country":"LBY","city":"Gusikowskifort","state":"NC","address":"86052 Elvera Neck Apt. 611","zip":"85713","status":0},{"id":"I5fD612sFxkzP9BV98b5","name":"Darnell Hoppe III","country":"ZWE","city":"Carolyneburgh","state":"AL","address":"74409 Upton Estates Apt. 138","zip":"49075-5513","status":1},{"id":"ZZF4NecWnnj4CGIO_hcT","name":"Tanya Armstrong","country":"ARE","city":"Killeen","state":"MT","address":"95648 Hazel Close Suite 319","zip":"23763","status":0},{"id":"4F5rdfgzqNFQ2E2-THX-","name":"Virginia Cummerata-Quigley","country":"NIC","city":"Salmatown","state":"ID","address":"787 Kunze Drives Apt. 790","zip":"37828","status":1},{"id":"H2fBWJ9d1SKpSOQEpMEh","name":"Jasmine Durgan","country":"IMN","city":"Salt Lake City","state":"NV","address":"2947 Bogisich Motorway Apt. 323","zip":"33432-4006","status":1},{"id":"RbW23xO70NkYXEOj6ICH","name":"Dr. Mildred Raynor","country":"GIN","city":"West Rodgerborough","state":"MT","address":"402 Funk Gardens Apt. 251","zip":"48039","status":1},{"id":"fZpya23cBoFjT0oLP89a","name":"Bethany Jones","country":"KHM","city":"Medafield","state":"KS","address":"271 Victoria Street Suite 412","zip":"37056","status":1},{"id":"j24vaf1ldEy9fFms1Bfa","name":"Denise Huels","country":"HUN","city":"Gilbertberg","state":"AK","address":"611 Miller Ports Apt. 565","zip":"94476","status":0},{"id":"XiZ7omEEehzBoyJ93RQ7","name":"Inez Langosh","country":"BEN","city":"Zulaufcester","state":"CT","address":"3593 Reggie Lakes Suite 394","zip":"31650-8955","status":1},{"id":"QrIfEl-vqX5T5-lw40A0","name":"Guillermo Bergstrom","country":"KWT","city":"Dunwoody","state":"OR","address":"53271 Rodriguez Pine Suite 874","zip":"33935-9494","status":0},{"id":"oN-Cj9pik2oO46y5r9Ck","name":"Jesus Fay","country":"REU","city":"Auerport","state":"IL","address":"5399 Windsor Avenue Suite 988","zip":"94341","status":1},{"id":"GPsAwPN8wownxBoGWoxY","name":"Jackie Mann III","country":"ZWE","city":"Aubreyport","state":"TN","address":"222 Alvah Garden Suite 432","zip":"98579-2809","status":0},{"id":"var9VF11onIW2NxA-uMb","name":"Orville Bogan","country":"BHR","city":"Port Juneview","state":"OH","address":"29047 University Avenue Apt. 284","zip":"76994","status":1},{"id":"E2etLhGyEg14hzB-g66z","name":"Sherri Bergnaum","country":"BGR","city":"Bloomington","state":"CA","address":"855 Spring Street Suite 356","zip":"01011","status":0},{"id":"mmlhmnQYI23o9lWUExhS","name":"Mrs. Natalie Goldner","country":"CAN","city":"North Maribelton","state":"DE","address":"21101 Otis Plain Apt. 150","zip":"46032-9945","status":0},{"id":"rvv_Asm6afP8_9qdPoLY","name":"Brian Langworth Sr.","country":"USA","city":"Lake Jaiden","state":"VT","address":"13441 The Dell Apt. 790","zip":"32729-3224","status":1},{"id":"H-95JryGidkV1345dOpw","name":"Bill Crooks DDS","country":"CUB","city":"Joshuaton","state":"ND","address":"9643 Hilpert Turnpike Suite 295","zip":"55829-9483","status":0},{"id":"BQPf38IHlWniDIlu3Bh2","name":"Molly Ankunding","country":"DOM","city":"North Rashadshire","state":"MS","address":"2559 Freddie Lodge Suite 564","zip":"04608","status":0},{"id":"7iXRzKXWCwiq2VPyRMIN","name":"Ernest Block","country":"BEN","city":"Jackson","state":"MT","address":"93165 Stiedemann Mountain Suite 775","zip":"08629","status":1},{"id":"KxueeX-B--l1TCEIv6aq","name":"Ms. Marian Daniel","country":"COG","city":"Goldnerchester","state":"IL","address":"175 Nicolas Mountains Apt. 235","zip":"26313-6899","status":1},{"id":"yZl6JmB5ZC4OTyF4yKMP","name":"Dana Rosenbaum","country":"MDG","city":"Fort Kendraboro","state":"MT","address":"7740 Dawn Vista Apt. 214","zip":"74520-7476","status":0},{"id":"W2E8Ax-5imdFIXGPdqi5","name":"Dolores Bartell-Jerde","country":"GIB","city":"Toycester","state":"GA","address":"23693 St Andrews Close Apt. 364","zip":"94217","status":1},{"id":"7hZErXwXFj6XEgeC3umW","name":"Lynn Emard Jr.","country":"CUW","city":"Rebekahstead","state":"ND","address":"81241 Heath Road Apt. 922","zip":"79406","status":0},{"id":"jdWztsYo2NexjSlvjueU","name":"Lucille Runolfsson Sr.","country":"RWA","city":"Millerfurt","state":"NJ","address":"76972 Sporer Flat Suite 456","zip":"44203-5588","status":1},{"id":"wAOwDJksJuir9kNujrjk","name":"Chelsea Deckow","country":"JPN","city":"West Stuartton","state":"WA","address":"546 Schmidt Crossing Apt. 526","zip":"65966-4240","status":1},{"id":"yHmhBC1zDWHEQD-stqPU","name":"Kay Nicolas","country":"IRQ","city":"Logan","state":"WY","address":"67482 Milton Avenue Apt. 329","zip":"77526","status":1},{"id":"WQ3AF0OGOJjoKPSer7K0","name":"Alfonso Hahn V","country":"SLE","city":"Raleigh","state":"NY","address":"4695 Franey Walk Apt. 652","zip":"90444-1055","status":0},{"id":"0zkXBFaiBHlo8yqRAdqK","name":"Brooke Stroman","country":"SXM","city":"Kubstad","state":"TN","address":"6716 Woodland Close Apt. 149","zip":"31260-7758","status":1},{"id":"FDvRHd9STBxcTpeILSCd","name":"Kenneth Aufderhar","country":"PRI","city":"Tristonshire","state":"GA","address":"8416 Keebler Centers Suite 466","zip":"78931-1680","status":1},{"id":"z21oRF0qzZM7r_BaN8-e","name":"Sheila Gerlach","country":"SYR","city":"Port Elvisworth","state":"MA","address":"4464 Lemke Via Suite 764","zip":"31628","status":0},{"id":"DfPHRTrUgndRYqZedb6-","name":"Cory Runolfsdottir","country":"AFG","city":"Berniceberg","state":"NC","address":"77511 Emmerich Islands Suite 626","zip":"56006","status":1},{"id":"taQ2J0pDq6XockUIW01n","name":"Dr. Gary Thiel Sr.","country":"ARE","city":"New Rooseveltmouth","state":"WV","address":"6470 Trantow Pines Apt. 480","zip":"33828-3464","status":0},{"id":"vZeUcpro0wNPv95r0Qjv","name":"Sherri McLaughlin","country":"CPV","city":"Antioch","state":"AK","address":"12339 Keeling Haven Suite 523","zip":"34695-4399","status":1},{"id":"eDGyllEsiY7DgOElP5_i","name":"Chelsea Rohan","country":"WLF","city":"Bozeman","state":"MS","address":"27283 Susan Points Apt. 159","zip":"67664-5319","status":0},{"id":"N8FXcBv9byGSI7RnRHhR","name":"Lillie Hermann II","country":"SVK","city":"North Lon","state":"NM","address":"655 E 5th Street Apt. 368","zip":"61084","status":1},{"id":"FRKQArw0q18ND6kGKx2E","name":"Caroline Ortiz","country":"TGO","city":"Felicityfurt","state":"MI","address":"3149 Willow Road Suite 892","zip":"67541-2188","status":0},{"id":"xNINJFiGeGNbYBWI9S9Q","name":"Michael Murray","country":"SAU","city":"Turnerville","state":"IL","address":"8057 First Street Apt. 375","zip":"43044","status":0},{"id":"lRrkA_E_u5rmakVQV-aQ","name":"Devin Herzog","country":"JAM","city":"Lake Kasandra","state":"IL","address":"38492 Milton Road Apt. 693","zip":"35440","status":1},{"id":"V2OuUChpJ9cd1pZu9V-5","name":"Jonathon Kub","country":"MUS","city":"Luciennehaven","state":"MA","address":"9146 Mikayla Point Apt. 177","zip":"10498","status":1},{"id":"DLCXBnYA_p6xMQ3cNr4s","name":"Miss Lana Lebsack","country":"LSO","city":"Mosesworth","state":"CA","address":"702 E 10th Street Apt. 188","zip":"41483","status":1},{"id":"SAujjKGjErr-4D_MMScx","name":"Nick Ebert Sr.","country":"JPN","city":"Marksburgh","state":"CA","address":"43366 Effie Wall Suite 842","zip":"06451","status":1},{"id":"xX9-9r0V01nuUj9Fy0hf","name":"Steve Schuster MD","country":"PHL","city":"South Salvatore","state":"ME","address":"134 Old State Road Apt. 604","zip":"24007-0721","status":1},{"id":"DX8vITJJq6oMBfwe-8OC","name":"Simon Ullrich","country":"MTQ","city":"Kautzerborough","state":"UT","address":"68797 Wilkinson Islands Apt. 530","zip":"44584","status":0},{"id":"Pxgcl9_9wch1WPfya4gt","name":"Nathaniel Stokes","country":"SYC","city":"West Mona","state":"NC","address":"299 Meadow View Suite 955","zip":"75522","status":0},{"id":"-qh7q0rRr9ZVs_uEyzW9","name":"Holly Connelly","country":"MSR","city":"Shaniyaborough","state":"MD","address":"903 Alma Street Suite 810","zip":"93337","status":0},{"id":"Gwqff0jQUafPorAXv2FC","name":"Ramiro Veum-Emmerich","country":"REU","city":"Zachariahcester","state":"HI","address":"30887 Johnson Street Apt. 265","zip":"85999-8756","status":0},{"id":"-8MLDlSWRCrqR9A5WlmT","name":"Gene Ankunding","country":"KAZ","city":"Port Jaden","state":"NM","address":"82976 Hillside Close Apt. 536","zip":"25910-2126","status":1},{"id":"-EwIFiTqZlxiWeo6DBbs","name":"Delores Goldner Sr.","country":"CRI","city":"Lavernechester","state":"RI","address":"75165 Elliott Club Suite 689","zip":"57701-3968","status":0},{"id":"P74z2Z5dmJpyY3YY368C","name":"Mr. Justin Rempel-Bruen","country":"BOL","city":"New Aliview","state":"NE","address":"65593 W Union Street Suite 321","zip":"42971","status":0},{"id":"a8OTaKTpmwnYI7itG4yN","name":"Alexis Reinger V","country":"POL","city":"Waterbury","state":"PA","address":"729 N Chestnut Street Suite 236","zip":"51581-5760","status":1},{"id":"_jyYA2TJ5FNPiZ8RRZBM","name":"Valerie Heaney","country":"DNK","city":"Highlands Ranch","state":"ME","address":"47387 Donnelly Spring Suite 117","zip":"75779-0079","status":1},{"id":"xcLrpr7JyoLu-Yi2qgVd","name":"Carole Sawayn","country":"GRD","city":"South Yolandahaven","state":"OH","address":"3821 Lemke Throughway Apt. 292","zip":"67331","status":1},{"id":"eBacuNe_R9zGOWrn8dG_","name":"Darryl Kreiger DDS","country":"TKM","city":"Randallcester","state":"AR","address":"7974 Lavon Manor Apt. 441","zip":"70812-6376","status":1},{"id":"AQMSOO49A_TrMBZQCJXK","name":"Stewart Tremblay-White","country":"AZE","city":"Savannah","state":"RI","address":"51209 Coronation Road Suite 550","zip":"34581","status":0},{"id":"HdRv7OzB2lgNnmKNP2vq","name":"Freda Hammes","country":"BGD","city":"South Gracieside","state":"PA","address":"4898 Jammie Crossing Apt. 635","zip":"71265-5790","status":0},{"id":"4nPDL5C2uXa8GA-daCEl","name":"Lorene Botsford","country":"BTN","city":"South Dale","state":"MS","address":"7107 Lonie Extensions Suite 143","zip":"02037-0492","status":1},{"id":"gI8fMD6SlvygUcQP4bxm","name":"Mack Bahringer","country":"CUW","city":"Hellerborough","state":"NH","address":"6829 Archibald Circle Suite 407","zip":"01275-7216","status":0},{"id":"XiK-e27uhQYlJuDVQncK","name":"Evan Prohaska","country":"UGA","city":"New Marguerite","state":"AK","address":"43598 N Franklin Street Apt. 757","zip":"46588","status":0},{"id":"ahRSQc5SZ546nsHMm-yR","name":"Beth Bode","country":"VGB","city":"South Romaineborough","state":"OH","address":"7014 Mya Orchard Apt. 678","zip":"93449","status":0},{"id":"FD6w7Th3QbsQR4KcwIu3","name":"Randolph Turcotte","country":"DNK","city":"East Lauriane","state":"VT","address":"460 Main Apt. 461","zip":"95641","status":1},{"id":"Joh0b74seMdPyfKuQy9n","name":"Dixie Kuhn","country":"CRI","city":"South Albinberg","state":"KY","address":"5176 Maximilian Shoals Suite 831","zip":"37402-5073","status":1},{"id":"wUS2l1hEu_HR_GpfbTCF","name":"Michelle Prosacco","country":"CHE","city":"New Wilfred","state":"OH","address":"4138 Ethelyn Views Apt. 270","zip":"37179","status":1},{"id":"W71MsLukMaE-cgCqHGmy","name":"Derrick Kirlin","country":"TON","city":"Taunton","state":"MN","address":"1039 S Elm Street Suite 134","zip":"14850","status":1},{"id":"7BejlQLKbefc4C8s72E5","name":"Ruben Upton-Howell","country":"SLV","city":"Fort Greyson","state":"TX","address":"291 Myrtie Unions Apt. 981","zip":"83518","status":1},{"id":"ohaoeLFCAC-n2MMe7v1D","name":"Mr. Jean Reilly-Windler PhD","country":"HKG","city":"Wisozkport","state":"AR","address":"9122 Toy Stravenue Suite 157","zip":"53413-3818","status":0},{"id":"kw1yEU_PVPEB_KlMS_Ew","name":"Teri Johnston","country":"NAM","city":"National City","state":"MT","address":"67441 Margarete Path Suite 138","zip":"28369","status":0},{"id":"tID16jCCKi1GHPA6cltA","name":"Shawna Rau","country":"POL","city":"Spring Hill","state":"ND","address":"900 London Road Apt. 368","zip":"59205","status":0},{"id":"fQqU5igej1cvbPLd3sFy","name":"Heidi Schinner","country":"IRQ","city":"North Carolinehaven","state":"UT","address":"4084 Terry Walks Suite 272","zip":"53419-0426","status":1},{"id":"Nd_rYUSOndaPN-Pj2m4O","name":"Sally Waters IV","country":"HUN","city":"Fort Tierra","state":"OK","address":"283 Third Avenue Suite 374","zip":"80425-8196","status":1},{"id":"mt-GkGkphGBz5Td-F0nW","name":"Dr. Gregory Bechtelar","country":"NPL","city":"El Cajon","state":"OK","address":"41753 Rohan Centers Suite 970","zip":"64633","status":1},{"id":"ATWzvTEdLsjcFjVSrjOI","name":"Eduardo Connelly","country":"NPL","city":"Port Rogeliostad","state":"NJ","address":"79685 Rogahn Mews Suite 306","zip":"81972-1484","status":1},{"id":"W9CdaK_pfGf8pC9E0lPg","name":"Tommie Corwin","country":"BTN","city":"Steuberland","state":"ID","address":"9445 Strosin Greens Apt. 189","zip":"48795-6119","status":1},{"id":"9yF7tFfUKhpGuPUETOjG","name":"Alexandra Jacobs","country":"BVT","city":"Willowberg","state":"IA","address":"827 Celine Stream Apt. 248","zip":"17777-6605","status":0},{"id":"j9C6QaK12m8XK-fJBov5","name":"Michael Ledner","country":"MMR","city":"Hartmannhaven","state":"KS","address":"342 Veum Greens Apt. 625","zip":"85352-3550","status":0},{"id":"v4Bmv-2KdVFTc9H0-FUu","name":"Stephen Hane I","country":"NOR","city":"Lake Kylatown","state":"WA","address":"391 Jessika Mall Apt. 697","zip":"96480-9899","status":0},{"id":"_fW2ctNl88kVzy3pdyFL","name":"Harvey Anderson","country":"UZB","city":"Port Rubie","state":"NH","address":"99255 Schneider Grove Suite 561","zip":"31523","status":0},{"id":"WLZz-8hZ4FdY3mvwIoI_","name":"Mrs. Helen Pollich","country":"HRV","city":"Nathanaelfort","state":"SD","address":"5990 Herta Mount Apt. 946","zip":"65009-5960","status":1},{"id":"tuH0Mls8R2ANx5_FDrub","name":"Mr. Louis Upton","country":"VCT","city":"South Tatummouth","state":"NE","address":"79049 Heron Close Suite 808","zip":"73867","status":1},{"id":"iHxtdOHMY-uVmzQxfrdD","name":"Noel Mohr","country":"DEU","city":"Adamstown","state":"WV","address":"174 George Street Apt. 490","zip":"34011-9104","status":1},{"id":"mLat3Ta2CWJ6hX-6it_2","name":"Mrs. Dolores Grady","country":"GIN","city":"Aliso Viejo","state":"ME","address":"183 Ortiz Dale Suite 302","zip":"75498","status":0},{"id":"zplBhyPe3wHN07YufbHX","name":"Jan Adams","country":"SEN","city":"Fort Kipshire","state":"MI","address":"304 Melba Freeway Apt. 932","zip":"17728","status":1},{"id":"8pGNGTAmGpyiWcw79qss","name":"Dana Mosciski","country":"PSE","city":"Trenton","state":"AL","address":"166 Ronny Valley Apt. 833","zip":"14123","status":0},{"id":"Z0Q6yKec2IG_0dp0Jx9V","name":"Elmer Quitzon","country":"UZB","city":"Berkeley","state":"IA","address":"407 Crescent Road Suite 336","zip":"73482","status":0},{"id":"QkKaeqBocM44iHgbOm58","name":"Joyce Bernier","country":"NRU","city":"Gertrudeport","state":"AR","address":"84604 Cassin Valley Apt. 339","zip":"90163-4020","status":0},{"id":"RBQJa8CxBQI3ji74sdgP","name":"Dr. Patti Krajcik","country":"HRV","city":"South Angus","state":"MA","address":"76367 McKenzie Shoal Suite 832","zip":"53306-7005","status":0},{"id":"r5W30BTJQFEVqIE3YxBd","name":"Bridget Collins","country":"MAF","city":"West Haven","state":"UT","address":"49026 Broadway Avenue Apt. 617","zip":"21733","status":0}],"orders":[{"id":"Qi38ZF1En5tJxlfGvEU2","customerID":"DX8vITJJq6oMBfwe-8OC","totalAmount":5029.64,"status":2,"unixSecDate":1694659365,"saleName":"Simeon"},{"id":"oPTNFGIlGk2xHGQOHOpb","customerID":"ZZF4NecWnnj4CGIO_hcT","totalAmount":8895.26,"status":0,"unixSecDate":1698174680,"saleName":"Markus"},{"id":"fotvRpSH-KMEbZuLzkaI","customerID":"Ue0cz0nlAGPbHGf76fUF","totalAmount":9772.65,"status":2,"unixSecDate":1724304987,"saleName":"Mafalda"},{"id":"MnIolX-RAsy6UPa5_HpB","customerID":"RbW23xO70NkYXEOj6ICH","totalAmount":6107.69,"status":1,"unixSecDate":1707187192,"saleName":"Donnell"},{"id":"Qah2Iq3Ng5WxV56omg0L","customerID":"Nd_rYUSOndaPN-Pj2m4O","totalAmount":7156.08,"status":0,"unixSecDate":1695108110,"saleName":"Anissa"},{"id":"3R6N-trCclnFH1Nm9KKd","customerID":"DfPHRTrUgndRYqZedb6-","totalAmount":6977.88,"status":3,"unixSecDate":1685678117,"saleName":"Anissa"},{"id":"N6duWOUu-jnYDa-PhjT-","customerID":"XX1rkMGZnHvQ8LIobSdR","totalAmount":8694.65,"status":2,"unixSecDate":1693602633,"saleName":"Barrett"},{"id":"IyPJTT3JPpSM_HgHXD2n","customerID":"DfPHRTrUgndRYqZedb6-","totalAmount":4581.4,"status":1,"unixSecDate":1731472034,"saleName":"Georgette"},{"id":"2ZM890U53Mx0wqxZcdPL","customerID":"oN-Cj9pik2oO46y5r9Ck","totalAmount":4598.91,"status":2,"unixSecDate":1738464068,"saleName":"Talon"},{"id":"ylSmcKD6ACJw6jCrU9hK","customerID":"XX1rkMGZnHvQ8LIobSdR","totalAmount":9058.99,"status":2,"unixSecDate":1739007177,"saleName":"Barrett"},{"id":"ljWGuEC15EDyeXPzmJpg","customerID":"W9CdaK_pfGf8pC9E0lPg","totalAmount":1449.42,"status":1,"unixSecDate":1727725748,"saleName":"Lulu"},{"id":"Xqu0GhUUIgbKZ3pLVExv","customerID":"mmlhmnQYI23o9lWUExhS","totalAmount":1902.92,"status":2,"unixSecDate":1692522325,"saleName":"Mafalda"},{"id":"EhD3XMsVgfH378KCknbE","customerID":"_fW2ctNl88kVzy3pdyFL","totalAmount":5738.89,"status":1,"unixSecDate":1712221664,"saleName":"Jordan"},{"id":"xpLp9FCRLjsoxjUNJhox","customerID":"biCI4uglddtdxtp8xUID","totalAmount":7549.43,"status":1,"unixSecDate":1726382484,"saleName":"Kari"},{"id":"BL-FKeUdBOjvPM8JnFOc","customerID":"fQqU5igej1cvbPLd3sFy","totalAmount":9143.4,"status":0,"unixSecDate":1719559947,"saleName":"Lelia"},{"id":"dksHtOEPDtlYLRLoU2OV","customerID":"N8FXcBv9byGSI7RnRHhR","totalAmount":4203.55,"status":1,"unixSecDate":1730899197,"saleName":"Barrett"},{"id":"NKoW2A6iIaRBE7506k0v","customerID":"mLat3Ta2CWJ6hX-6it_2","totalAmount":7668.79,"status":1,"unixSecDate":1701424161,"saleName":"Talon"},{"id":"5HlpZKGHQqx9_cGdEibf","customerID":"XX1rkMGZnHvQ8LIobSdR","totalAmount":8774.61,"status":0,"unixSecDate":1686925776,"saleName":"Georgette"},{"id":"tDvC34zsWIBUxsKh9XeX","customerID":"7iXRzKXWCwiq2VPyRMIN","totalAmount":4790.15,"status":3,"unixSecDate":1722683369,"saleName":"Anissa"},{"id":"Kr_Bjdr0jANqGQCtToCU","customerID":"WLZz-8hZ4FdY3mvwIoI_","totalAmount":5421.81,"status":0,"unixSecDate":1710582870,"saleName":"Mafalda"},{"id":"HQknQhwXl3wQVsuAw3pv","customerID":"HdRv7OzB2lgNnmKNP2vq","totalAmount":1840.07,"status":2,"unixSecDate":1743344897,"saleName":"Nettie"},{"id":"y_aAGt184wfjCh41u7fa","customerID":"H2fBWJ9d1SKpSOQEpMEh","totalAmount":7894.41,"status":0,"unixSecDate":1730220302,"saleName":"Jordan"},{"id":"4GowcgjKIznIv6bFsP8f","customerID":"N8FXcBv9byGSI7RnRHhR","totalAmount":9432.67,"status":3,"unixSecDate":1706232356,"saleName":"Jordan"},{"id":"ySseFd-YUAMTdCxL6JPe","customerID":"eDGyllEsiY7DgOElP5_i","totalAmount":6657.77,"status":3,"unixSecDate":1717344488,"saleName":"Nettie"},{"id":"vG8rvJcRKCRqkaJzPtqj","customerID":"eDGyllEsiY7DgOElP5_i","totalAmount":7097.16,"status":2,"unixSecDate":1704676943,"saleName":"Georgette"},{"id":"-VXjOOCWMGPlyjaD5OXy","customerID":"mLat3Ta2CWJ6hX-6it_2","totalAmount":8670.12,"status":2,"unixSecDate":1700264608,"saleName":"Markus"},{"id":"LoIcetjCpxA1ch89mSNB","customerID":"jdWztsYo2NexjSlvjueU","totalAmount":3471.52,"status":3,"unixSecDate":1722751538,"saleName":"Simeon"},{"id":"V7AxYE8-mgQ0zYxTxcO0","customerID":"Ue0cz0nlAGPbHGf76fUF","totalAmount":9365.47,"status":1,"unixSecDate":1741092092,"saleName":"Lulu"},{"id":"VYMPou93WUMAEdcZMJah","customerID":"gGndv-H2nxQCHRGDKWgP","totalAmount":1703.48,"status":1,"unixSecDate":1732004553,"saleName":"Markus"},{"id":"cIAI6W_fn7HKzOzqjc9i","customerID":"rvv_Asm6afP8_9qdPoLY","totalAmount":2305.46,"status":3,"unixSecDate":1711069252,"saleName":"Barrett"},{"id":"B0ybcY_Ehjmsc6rkhvxA","customerID":"FD6w7Th3QbsQR4KcwIu3","totalAmount":8842,"status":1,"unixSecDate":1724385038,"saleName":"Eliseo"},{"id":"jQdcbMxBfR7bVpis59wc","customerID":"HdRv7OzB2lgNnmKNP2vq","totalAmount":1184.91,"status":3,"unixSecDate":1697497056,"saleName":"Talon"},{"id":"ozPkB1dVTfayiC9zxNXk","customerID":"hn5NIMynJhqjVwc0Xr1u","totalAmount":960.65,"status":3,"unixSecDate":1686290060,"saleName":"Raoul"},{"id":"v8vgF8gU1-gwzqpBYq4r","customerID":"WQ3AF0OGOJjoKPSer7K0","totalAmount":8440.12,"status":2,"unixSecDate":1694504346,"saleName":"Barrett"},{"id":"TBUdbQoiSlw3l1r5DIFx","customerID":"kw1yEU_PVPEB_KlMS_Ew","totalAmount":103.16,"status":0,"unixSecDate":1719453922,"saleName":"Raoul"},{"id":"aY8mxHkmBNxv8ApzAuwe","customerID":"ATWzvTEdLsjcFjVSrjOI","totalAmount":8841.41,"status":2,"unixSecDate":1737547976,"saleName":"Ines"},{"id":"i1ytlqiC7DFcVxquMf-A","customerID":"0zkXBFaiBHlo8yqRAdqK","totalAmount":4234.01,"status":1,"unixSecDate":1711962908,"saleName":"Mckayla"},{"id":"zml7Zn0srqTX3u9cgroJ","customerID":"H-95JryGidkV1345dOpw","totalAmount":9950.61,"status":3,"unixSecDate":1736362390,"saleName":"Donnell"},{"id":"o4RKsy5CWLO0BlViue_x","customerID":"N8FXcBv9byGSI7RnRHhR","totalAmount":3662.39,"status":3,"unixSecDate":1713770340,"saleName":"Georgette"},{"id":"_MyTqeIEFbl5S8ZULQip","customerID":"rvv_Asm6afP8_9qdPoLY","totalAmount":1208.4,"status":2,"unixSecDate":1695547590,"saleName":"Talon"},{"id":"NLub7dcmhXFyAfAdW2G6","customerID":"eBacuNe_R9zGOWrn8dG_","totalAmount":344.09,"status":2,"unixSecDate":1735224435,"saleName":"Eleonore"},{"id":"HZfrHuTAR8AhdVCXDeZe","customerID":"FDvRHd9STBxcTpeILSCd","totalAmount":9892.77,"status":2,"unixSecDate":1698427201,"saleName":"Georgette"},{"id":"krd06xeK8RjQx_SQSUCJ","customerID":"7iXRzKXWCwiq2VPyRMIN","totalAmount":6589.19,"status":0,"unixSecDate":1691766484,"saleName":"Markus"},{"id":"katjrFgeOZlst6UfPiaz","customerID":"KxueeX-B--l1TCEIv6aq","totalAmount":5486.2,"status":2,"unixSecDate":1699917525,"saleName":"Raoul"},{"id":"KQWrzwPv88r0ziJlqaSK","customerID":"WLZz-8hZ4FdY3mvwIoI_","totalAmount":4975.36,"status":1,"unixSecDate":1711387009,"saleName":"Jordan"},{"id":"BNUJntSg-hmuk_iz_9Do","customerID":"KxueeX-B--l1TCEIv6aq","totalAmount":9248.61,"status":2,"unixSecDate":1726604635,"saleName":"Monique"},{"id":"8YCaN0rjcyfJ55IUBTA3","customerID":"a8OTaKTpmwnYI7itG4yN","totalAmount":9653.7,"status":1,"unixSecDate":1739682247,"saleName":"Simeon"},{"id":"uCMHA3Na1kLvdOMtKZft","customerID":"wAOwDJksJuir9kNujrjk","totalAmount":4677.59,"status":2,"unixSecDate":1680649437,"saleName":"Talon"},{"id":"-r0xelMxVC0NhdexfUz6","customerID":"jdWztsYo2NexjSlvjueU","totalAmount":7174.72,"status":1,"unixSecDate":1714624484,"saleName":"Barrett"},{"id":"vD-1GhxNWUmRqKAjDeAo","customerID":"ATWzvTEdLsjcFjVSrjOI","totalAmount":6207.14,"status":0,"unixSecDate":1708858251,"saleName":"Simeon"},{"id":"PAfUobcg5asjseTG6QGx","customerID":"DLCXBnYA_p6xMQ3cNr4s","totalAmount":2751.59,"status":0,"unixSecDate":1689838993,"saleName":"Kari"},{"id":"DVJGto2rfVCENR5MpoF-","customerID":"Joh0b74seMdPyfKuQy9n","totalAmount":5077.12,"status":2,"unixSecDate":1704586219,"saleName":"Jordan"},{"id":"07QQ5fhVWr9bXSlrSioJ","customerID":"QrIfEl-vqX5T5-lw40A0","totalAmount":2044.09,"status":2,"unixSecDate":1735131846,"saleName":"Georgette"},{"id":"9ClaJp1Y5wpE9GS7LOiF","customerID":"v4Bmv-2KdVFTc9H0-FUu","totalAmount":4110.39,"status":3,"unixSecDate":1708888221,"saleName":"Kari"},{"id":"xetRn77AjKciRBYloA0_","customerID":"H-95JryGidkV1345dOpw","totalAmount":6214.21,"status":1,"unixSecDate":1697459509,"saleName":"Lelia"},{"id":"KPaw2NtkboxgxqWZ54iP","customerID":"RBQJa8CxBQI3ji74sdgP","totalAmount":9513.16,"status":2,"unixSecDate":1688368077,"saleName":"Nettie"},{"id":"9sLkgzUaNANmKS4HuLr1","customerID":"JiYScuEsqmnHgblT-fCT","totalAmount":1906.86,"status":0,"unixSecDate":1711421508,"saleName":"Eleonore"},{"id":"60j-0lbTl-gNxPNOZyzM","customerID":"DX8vITJJq6oMBfwe-8OC","totalAmount":175.64,"status":1,"unixSecDate":1715160764,"saleName":"Mafalda"},{"id":"31w_BHPcM4BARp0A8f7K","customerID":"lRrkA_E_u5rmakVQV-aQ","totalAmount":8916.41,"status":1,"unixSecDate":1737749007,"saleName":"Lelia"},{"id":"FbCqt5tJQtLEJuB-ROSn","customerID":"P74z2Z5dmJpyY3YY368C","totalAmount":8915.02,"status":1,"unixSecDate":1726219970,"saleName":"Anissa"},{"id":"Mlbd2raHKFsxXADEOwBH","customerID":"tID16jCCKi1GHPA6cltA","totalAmount":1605.27,"status":2,"unixSecDate":1690644739,"saleName":"Mafalda"},{"id":"tQph3ZqVIsgA4cMc0ZS9","customerID":"RBQJa8CxBQI3ji74sdgP","totalAmount":5440.63,"status":0,"unixSecDate":1732885040,"saleName":"Ines"},{"id":"jThC7EekNvIJ1ru8vAWy","customerID":"P74z2Z5dmJpyY3YY368C","totalAmount":8951.87,"status":1,"unixSecDate":1700000772,"saleName":"Mafalda"},{"id":"KWeKTXh9RogrkVECqKAp","customerID":"zplBhyPe3wHN07YufbHX","totalAmount":6744.42,"status":3,"unixSecDate":1731681039,"saleName":"Eleonore"},{"id":"mV6moAbRBs1YtrcSQgau","customerID":"JiYScuEsqmnHgblT-fCT","totalAmount":9645.86,"status":3,"unixSecDate":1728037006,"saleName":"Eliseo"},{"id":"gKRfmVp8B8SJ56wC89pv","customerID":"taQ2J0pDq6XockUIW01n","totalAmount":427.39,"status":0,"unixSecDate":1713723701,"saleName":"Monique"},{"id":"gpYAjjdgzyz1zkESsrTx","customerID":"DfPHRTrUgndRYqZedb6-","totalAmount":1563.36,"status":1,"unixSecDate":1724695855,"saleName":"Ines"},{"id":"gCXcAzHh7c998YO9aay7","customerID":"_fW2ctNl88kVzy3pdyFL","totalAmount":3246.25,"status":1,"unixSecDate":1713762564,"saleName":"Mafalda"},{"id":"tp24-8h4iKwq74WwyuGk","customerID":"ATWzvTEdLsjcFjVSrjOI","totalAmount":5598.33,"status":1,"unixSecDate":1724449199,"saleName":"Kari"},{"id":"pyQRMS3r7cOi0kYus8F3","customerID":"z21oRF0qzZM7r_BaN8-e","totalAmount":855.97,"status":1,"unixSecDate":1704329906,"saleName":"Jordan"},{"id":"xAQ8caWm-w0Dw1lW100j","customerID":"rvv_Asm6afP8_9qdPoLY","totalAmount":4771.94,"status":2,"unixSecDate":1707824128,"saleName":"Kari"},{"id":"Gl-nEPFQPRYBvYaZySny","customerID":"kw1yEU_PVPEB_KlMS_Ew","totalAmount":8192.76,"status":2,"unixSecDate":1706449432,"saleName":"Mafalda"},{"id":"3cAZDTpWKu1V5UFRuyxj","customerID":"BQPf38IHlWniDIlu3Bh2","totalAmount":4545.01,"status":0,"unixSecDate":1687839245,"saleName":"Lulu"},{"id":"bcigfdKmHh4Zae4uHKyx","customerID":"Joh0b74seMdPyfKuQy9n","totalAmount":5238.66,"status":0,"unixSecDate":1697024818,"saleName":"Ines"},{"id":"7kME2AjMn0HtpfzubHMv","customerID":"var9VF11onIW2NxA-uMb","totalAmount":6177.7,"status":3,"unixSecDate":1681942308,"saleName":"Lelia"},{"id":"Umi1Tu4EVEQBtUdxyRqg","customerID":"vZeUcpro0wNPv95r0Qjv","totalAmount":5756.38,"status":0,"unixSecDate":1719557820,"saleName":"Jordan"},{"id":"T97iEwFHyhNWTfy8OEGk","customerID":"Pxgcl9_9wch1WPfya4gt","totalAmount":667.64,"status":3,"unixSecDate":1693810232,"saleName":"Ines"},{"id":"p08tws-vL99FUzm6McQn","customerID":"9yF7tFfUKhpGuPUETOjG","totalAmount":3795.65,"status":2,"unixSecDate":1702016098,"saleName":"Monique"},{"id":"qPdw7L9tOGhLxbFPudLn","customerID":"Joh0b74seMdPyfKuQy9n","totalAmount":8106.76,"status":1,"unixSecDate":1680575819,"saleName":"Monique"},{"id":"-AsTsMv_Mcy7w8dM3bvI","customerID":"_fW2ctNl88kVzy3pdyFL","totalAmount":5711.09,"status":1,"unixSecDate":1700855648,"saleName":"Eleonore"},{"id":"ACQdrynnHt5QMWSjswg3","customerID":"var9VF11onIW2NxA-uMb","totalAmount":3370.65,"status":1,"unixSecDate":1726529410,"saleName":"Mckayla"},{"id":"kMkD4-gn05eWrVQdI8IJ","customerID":"aS-TfrneJIPetdVQJl8J","totalAmount":2095.43,"status":1,"unixSecDate":1708960033,"saleName":"Ines"},{"id":"OGPtD5zl7GFXAkdVGgO6","customerID":"vZeUcpro0wNPv95r0Qjv","totalAmount":9247.37,"status":0,"unixSecDate":1709373173,"saleName":"Donnell"},{"id":"ZPeCyeXCxv4IowhlexW4","customerID":"N8FXcBv9byGSI7RnRHhR","totalAmount":7357.86,"status":3,"unixSecDate":1695416643,"saleName":"Eliseo"},{"id":"sysD1Uzmt7yf3ws07JHD","customerID":"4nPDL5C2uXa8GA-daCEl","totalAmount":8693,"status":2,"unixSecDate":1703609580,"saleName":"Georgette"},{"id":"YMqq9umQyfEGSoUt4wHA","customerID":"WLZz-8hZ4FdY3mvwIoI_","totalAmount":2549.28,"status":3,"unixSecDate":1702759083,"saleName":"Mckayla"},{"id":"lRjoABkybIDB3-aDiydX","customerID":"oN-Cj9pik2oO46y5r9Ck","totalAmount":8670,"status":2,"unixSecDate":1736290091,"saleName":"Nettie"},{"id":"xpXUpOBO8C2TFDZSkpZt","customerID":"_jyYA2TJ5FNPiZ8RRZBM","totalAmount":6916.08,"status":2,"unixSecDate":1699965036,"saleName":"Nettie"},{"id":"JQ7naFmDw6S9HpZ8yGQ_","customerID":"zplBhyPe3wHN07YufbHX","totalAmount":5136.66,"status":1,"unixSecDate":1726962209,"saleName":"Mckayla"},{"id":"bXittpZ687Aex5ndJXzK","customerID":"jdWztsYo2NexjSlvjueU","totalAmount":8354.07,"status":2,"unixSecDate":1714179502,"saleName":"Donnell"},{"id":"_NF1DrU3_G0l8t8kItli","customerID":"v4Bmv-2KdVFTc9H0-FUu","totalAmount":9529.06,"status":0,"unixSecDate":1715141680,"saleName":"Monique"},{"id":"0hRIdUfM5p4CHVqNgNFs","customerID":"WLZz-8hZ4FdY3mvwIoI_","totalAmount":7719.19,"status":0,"unixSecDate":1732464038,"saleName":"Kari"},{"id":"PBUNZYc9o7fPjmw3hfgd","customerID":"a8OTaKTpmwnYI7itG4yN","totalAmount":4390.9,"status":1,"unixSecDate":1739181506,"saleName":"Eliseo"},{"id":"9PbtfjiAvosAOy2fyf1p","customerID":"mLat3Ta2CWJ6hX-6it_2","totalAmount":6259.14,"status":2,"unixSecDate":1742509914,"saleName":"Markus"},{"id":"CrqnYHOSEs-AcPDOeS_v","customerID":"QBXmGbKqqcpwmJtlH-qb","totalAmount":9254.83,"status":1,"unixSecDate":1735206969,"saleName":"Mafalda"},{"id":"0CbHB9Up--4cA1aUmi7w","customerID":"BQPf38IHlWniDIlu3Bh2","totalAmount":303.18,"status":0,"unixSecDate":1731833367,"saleName":"Lelia"},{"id":"YdXKkCta1apDJlZdyGag","customerID":"mt-GkGkphGBz5Td-F0nW","totalAmount":1370.09,"status":1,"unixSecDate":1741294376,"saleName":"Markus"},{"id":"WIIALj3T2ImqO0bHW-1p","customerID":"DfPHRTrUgndRYqZedb6-","totalAmount":8462.58,"status":0,"unixSecDate":1730954718,"saleName":"Mafalda"},{"id":"5Vrk-OWOLVHmCazYGge5","customerID":"mmlhmnQYI23o9lWUExhS","totalAmount":4473.58,"status":3,"unixSecDate":1740826562,"saleName":"Jordan"},{"id":"l55kHSigKxdgGdI09dOt","customerID":"4F5rdfgzqNFQ2E2-THX-","totalAmount":6754.18,"status":2,"unixSecDate":1696347013,"saleName":"Barrett"},{"id":"kQkJ_hqrn_AbowIhWHEd","customerID":"SAujjKGjErr-4D_MMScx","totalAmount":8347.93,"status":1,"unixSecDate":1684742597,"saleName":"Monique"},{"id":"roEo-lfhzV65z_XdVgzK","customerID":"SAujjKGjErr-4D_MMScx","totalAmount":5700.63,"status":3,"unixSecDate":1737624663,"saleName":"Markus"},{"id":"ZrTz1XMbXhBnNbt-MXR3","customerID":"kfp1yN9tezYvYdEE_RK9","totalAmount":8742.37,"status":1,"unixSecDate":1696119532,"saleName":"Eleonore"},{"id":"mDnbAmq83Bqz5G-aFnmc","customerID":"ohaoeLFCAC-n2MMe7v1D","totalAmount":3817.03,"status":2,"unixSecDate":1734425549,"saleName":"Barrett"},{"id":"IDtpKKpO2g47ushKLzVe","customerID":"Z0Q6yKec2IG_0dp0Jx9V","totalAmount":630.08,"status":3,"unixSecDate":1703901227,"saleName":"Kari"},{"id":"rTyyRaf7vym21jLj1CmL","customerID":"N8FXcBv9byGSI7RnRHhR","totalAmount":6652.51,"status":1,"unixSecDate":1710413632,"saleName":"Talon"},{"id":"suzPlU8ZLWZzwaXgMHLB","customerID":"ATWzvTEdLsjcFjVSrjOI","totalAmount":1045.76,"status":2,"unixSecDate":1740570975,"saleName":"Jordan"},{"id":"wG05fXDpKvBWdiveiXNl","customerID":"eBacuNe_R9zGOWrn8dG_","totalAmount":9499.34,"status":0,"unixSecDate":1716646015,"saleName":"Lelia"},{"id":"b3Z9H7qDKWBe3UfpEnGU","customerID":"lRrkA_E_u5rmakVQV-aQ","totalAmount":6425.34,"status":0,"unixSecDate":1683723969,"saleName":"Georgette"},{"id":"HJja8d4sVNHc8qLLopVY","customerID":"DfPHRTrUgndRYqZedb6-","totalAmount":1903.8,"status":1,"unixSecDate":1743564570,"saleName":"Eliseo"},{"id":"GuerPm5B_PcfOaiq9han","customerID":"W9CdaK_pfGf8pC9E0lPg","totalAmount":3352.48,"status":2,"unixSecDate":1695245521,"saleName":"Giovanna"},{"id":"-dteDsQTuLWjvgMQ2L1V","customerID":"lRrkA_E_u5rmakVQV-aQ","totalAmount":285.3,"status":0,"unixSecDate":1737587182,"saleName":"Anissa"},{"id":"o2no54Mnfp8Vt-JLpM2Z","customerID":"HdRv7OzB2lgNnmKNP2vq","totalAmount":7380.04,"status":3,"unixSecDate":1729079166,"saleName":"Lelia"},{"id":"Xfy2smZOfgbNwi9Z3KzO","customerID":"gI8fMD6SlvygUcQP4bxm","totalAmount":7342.06,"status":1,"unixSecDate":1703429630,"saleName":"Eleonore"},{"id":"2YoaT-dljt0pSRbq4SCs","customerID":"V2OuUChpJ9cd1pZu9V-5","totalAmount":1420.32,"status":2,"unixSecDate":1727609881,"saleName":"Markus"},{"id":"wxCHoE2EhXE8B3QGcVbg","customerID":"BQPf38IHlWniDIlu3Bh2","totalAmount":5593,"status":2,"unixSecDate":1726455096,"saleName":"Nettie"},{"id":"MpCyJSOLp5LpC48NSLWO","customerID":"r5W30BTJQFEVqIE3YxBd","totalAmount":8144.15,"status":2,"unixSecDate":1693365714,"saleName":"Ines"},{"id":"13AeLPIOPIpji6tYM96c","customerID":"XX1rkMGZnHvQ8LIobSdR","totalAmount":6199.32,"status":0,"unixSecDate":1734866571,"saleName":"Anissa"},{"id":"vuc-bJ5cTemltG58KLU2","customerID":"XiK-e27uhQYlJuDVQncK","totalAmount":6314.75,"status":1,"unixSecDate":1731132743,"saleName":"Eliseo"},{"id":"VmVPwK1NKyTfQHs6TJVW","customerID":"KxueeX-B--l1TCEIv6aq","totalAmount":2690.96,"status":3,"unixSecDate":1743482849,"saleName":"Markus"},{"id":"mv_N-17rsc3DslqKoNww","customerID":"hn5NIMynJhqjVwc0Xr1u","totalAmount":6202.15,"status":3,"unixSecDate":1689046701,"saleName":"Georgette"},{"id":"78GxuKkSCvDLPy-pJJ6F","customerID":"taQ2J0pDq6XockUIW01n","totalAmount":8397.96,"status":1,"unixSecDate":1735492907,"saleName":"Mafalda"},{"id":"Q3vfFHKi1_MFAyq9xzi9","customerID":"7hZErXwXFj6XEgeC3umW","totalAmount":1086.19,"status":1,"unixSecDate":1735789213,"saleName":"Talon"},{"id":"QwwClDsEROHbu2D7ZFP5","customerID":"kfp1yN9tezYvYdEE_RK9","totalAmount":4415.14,"status":3,"unixSecDate":1741488563,"saleName":"Lulu"},{"id":"HkCqOYiQsu3jt_lpx6P2","customerID":"yHmhBC1zDWHEQD-stqPU","totalAmount":818.67,"status":2,"unixSecDate":1694920173,"saleName":"Giovanna"},{"id":"v1mCTMGmxyYovPC_9lRr","customerID":"j9C6QaK12m8XK-fJBov5","totalAmount":2206.31,"status":0,"unixSecDate":1741303082,"saleName":"Eliseo"},{"id":"zY1MwRq_f2kxPn1_ZuJd","customerID":"fZpya23cBoFjT0oLP89a","totalAmount":9568.62,"status":2,"unixSecDate":1719367954,"saleName":"Talon"},{"id":"DqURj0Z0jVwBPrpADKw4","customerID":"iHxtdOHMY-uVmzQxfrdD","totalAmount":1805.88,"status":3,"unixSecDate":1712451515,"saleName":"Giovanna"},{"id":"18ioW9pNbm1M_lvl7c6r","customerID":"XiK-e27uhQYlJuDVQncK","totalAmount":8340.66,"status":2,"unixSecDate":1716768771,"saleName":"Mafalda"},{"id":"migF7GLZDVINaX83ZrZr","customerID":"V2OuUChpJ9cd1pZu9V-5","totalAmount":9283.88,"status":3,"unixSecDate":1727225568,"saleName":"Georgette"},{"id":"1Ibo_p3iLlsxkqWL1cob","customerID":"vZeUcpro0wNPv95r0Qjv","totalAmount":431.9,"status":2,"unixSecDate":1711613916,"saleName":"Mckayla"},{"id":"fLPG5k57YaN8Tu7USZE3","customerID":"_jyYA2TJ5FNPiZ8RRZBM","totalAmount":1261.05,"status":0,"unixSecDate":1718614705,"saleName":"Markus"},{"id":"kyoAwmnY6vEyjA1pYg9U","customerID":"JiYScuEsqmnHgblT-fCT","totalAmount":1069.95,"status":2,"unixSecDate":1689462164,"saleName":"Ines"},{"id":"dvSA36qCiIVc9UTqiz34","customerID":"zplBhyPe3wHN07YufbHX","totalAmount":5405.75,"status":1,"unixSecDate":1715249300,"saleName":"Lelia"},{"id":"mEhZQBPCUJDWpIBnjYx4","customerID":"AQMSOO49A_TrMBZQCJXK","totalAmount":5975.84,"status":1,"unixSecDate":1715579365,"saleName":"Kari"},{"id":"U9MP0_glN-kggeqD5Krg","customerID":"N8FXcBv9byGSI7RnRHhR","totalAmount":9115.54,"status":3,"unixSecDate":1738144822,"saleName":"Monique"},{"id":"zjMCEmI54wfpB-Jtm4e0","customerID":"a8OTaKTpmwnYI7itG4yN","totalAmount":3781.92,"status":0,"unixSecDate":1704312352,"saleName":"Ines"},{"id":"IBYJHFrdYyRCCvsXSsex","customerID":"var9VF11onIW2NxA-uMb","totalAmount":7089.34,"status":3,"unixSecDate":1697319301,"saleName":"Ines"},{"id":"o2aNVZ6zTYM8qHxDaYy9","customerID":"FDvRHd9STBxcTpeILSCd","totalAmount":8226.51,"status":0,"unixSecDate":1717319108,"saleName":"Simeon"},{"id":"dDBsAiBo3j4eoVgN2clS","customerID":"W71MsLukMaE-cgCqHGmy","totalAmount":5468.44,"status":3,"unixSecDate":1686508121,"saleName":"Nettie"},{"id":"tc8gSWxrkBnWkXFpniOf","customerID":"7iXRzKXWCwiq2VPyRMIN","totalAmount":8024.09,"status":1,"unixSecDate":1737120094,"saleName":"Simeon"},{"id":"BRnlQBtkddB1WiZYZABW","customerID":"mt-GkGkphGBz5Td-F0nW","totalAmount":9484.19,"status":1,"unixSecDate":1695094790,"saleName":"Mafalda"},{"id":"7tkMljONg036TUGW00ec","customerID":"fQqU5igej1cvbPLd3sFy","totalAmount":2313.41,"status":2,"unixSecDate":1731091975,"saleName":"Eleonore"},{"id":"yTHLSywOMOGquG_Hntx2","customerID":"a8OTaKTpmwnYI7itG4yN","totalAmount":4523.14,"status":2,"unixSecDate":1734076162,"saleName":"Kari"},{"id":"68pGwWjd6Z3OThnI1rmn","customerID":"SAujjKGjErr-4D_MMScx","totalAmount":8766.55,"status":0,"unixSecDate":1725885461,"saleName":"Mckayla"},{"id":"RIMMyHoYFbYZuBpug0YG","customerID":"Gwqff0jQUafPorAXv2FC","totalAmount":6468.92,"status":2,"unixSecDate":1680661446,"saleName":"Markus"},{"id":"pjjfRjh2Rh5AnG9eSYHH","customerID":"var9VF11onIW2NxA-uMb","totalAmount":9020.4,"status":0,"unixSecDate":1743486469,"saleName":"Georgette"},{"id":"iXATMV0e12Vqb2rF9ryq","customerID":"wUS2l1hEu_HR_GpfbTCF","totalAmount":1335.9,"status":1,"unixSecDate":1728707618,"saleName":"Anissa"},{"id":"9QRR6dVcTITzn16kN6_n","customerID":"XiK-e27uhQYlJuDVQncK","totalAmount":2509.44,"status":1,"unixSecDate":1712932557,"saleName":"Nettie"},{"id":"p7S32I79-2v1DGU7AGlX","customerID":"xcLrpr7JyoLu-Yi2qgVd","totalAmount":4543.55,"status":2,"unixSecDate":1692306425,"saleName":"Raoul"},{"id":"9MurGsoJ3FKXhgRGE-XW","customerID":"lRrkA_E_u5rmakVQV-aQ","totalAmount":8701.55,"status":1,"unixSecDate":1727757901,"saleName":"Lulu"},{"id":"ELL8zAhsKv9MXzVAhmt6","customerID":"gGndv-H2nxQCHRGDKWgP","totalAmount":3993.87,"status":2,"unixSecDate":1741092353,"saleName":"Lelia"},{"id":"1O50IEFQ_bGEI8_7fTgx","customerID":"yZl6JmB5ZC4OTyF4yKMP","totalAmount":4215.23,"status":3,"unixSecDate":1732884293,"saleName":"Markus"},{"id":"SzsUcXxPn3A4VJjMiaVq","customerID":"W71MsLukMaE-cgCqHGmy","totalAmount":2765.1,"status":3,"unixSecDate":1704047199,"saleName":"Eleonore"},{"id":"aAT63ZvlcSGFaEjNZG__","customerID":"-qh7q0rRr9ZVs_uEyzW9","totalAmount":8666.14,"status":3,"unixSecDate":1691055827,"saleName":"Mckayla"},{"id":"9jIKHnnqf2x4QnI1yiFz","customerID":"xcLrpr7JyoLu-Yi2qgVd","totalAmount":6097.83,"status":1,"unixSecDate":1693171543,"saleName":"Jordan"},{"id":"sn_2H3UaIzTmfGT9OZV3","customerID":"e-ST59iyI8BGL2wXFwaI","totalAmount":2036.7,"status":2,"unixSecDate":1684985691,"saleName":"Donnell"},{"id":"sFHgm4abHqW1fLQknVip","customerID":"RbW23xO70NkYXEOj6ICH","totalAmount":2934.7,"status":1,"unixSecDate":1728079251,"saleName":"Ines"},{"id":"pMaP4nEJcJKp8Lf_ctGF","customerID":"P74z2Z5dmJpyY3YY368C","totalAmount":7162.44,"status":2,"unixSecDate":1721925345,"saleName":"Raoul"},{"id":"TN1yGxeLilbBCONKLSX6","customerID":"a8OTaKTpmwnYI7itG4yN","totalAmount":1747.29,"status":1,"unixSecDate":1694626686,"saleName":"Anissa"},{"id":"cY7rCspCrh5uuTIZc1kQ","customerID":"xX9-9r0V01nuUj9Fy0hf","totalAmount":9915.59,"status":0,"unixSecDate":1704420081,"saleName":"Mafalda"},{"id":"fylG2UMgjXCiRkm91vYJ","customerID":"XiK-e27uhQYlJuDVQncK","totalAmount":8480.72,"status":1,"unixSecDate":1686974523,"saleName":"Anissa"},{"id":"_aUTyi1xRPSV5n2_HbPB","customerID":"DfPHRTrUgndRYqZedb6-","totalAmount":2231.28,"status":2,"unixSecDate":1723652556,"saleName":"Mckayla"},{"id":"yaD6uBTYvNDbnwyFIoO-","customerID":"hn5NIMynJhqjVwc0Xr1u","totalAmount":9035.8,"status":2,"unixSecDate":1703652212,"saleName":"Lelia"},{"id":"viBVadbNQ0Ufsm3E2T_v","customerID":"FRKQArw0q18ND6kGKx2E","totalAmount":15.47,"status":1,"unixSecDate":1724391829,"saleName":"Anissa"},{"id":"7BnbNfz2-0gh9FqPb9b6","customerID":"tID16jCCKi1GHPA6cltA","totalAmount":1220.46,"status":0,"unixSecDate":1732875105,"saleName":"Monique"},{"id":"e1Q6_fvCLqzURDNc_Ofx","customerID":"-EwIFiTqZlxiWeo6DBbs","totalAmount":6037.15,"status":2,"unixSecDate":1697066065,"saleName":"Simeon"},{"id":"0IGZh9nzBi6dcLzX2cW1","customerID":"H2fBWJ9d1SKpSOQEpMEh","totalAmount":1657,"status":1,"unixSecDate":1737115104,"saleName":"Talon"},{"id":"XGc67KXDoRuaMFVeiD4q","customerID":"kfp1yN9tezYvYdEE_RK9","totalAmount":7880.5,"status":3,"unixSecDate":1683870812,"saleName":"Eleonore"},{"id":"-AS4082tRCWvk4R-2nAa","customerID":"kw1yEU_PVPEB_KlMS_Ew","totalAmount":6918.32,"status":1,"unixSecDate":1727927476,"saleName":"Ines"},{"id":"zo8Kuk8G0Wo8ldEng1vP","customerID":"ahRSQc5SZ546nsHMm-yR","totalAmount":2329.11,"status":1,"unixSecDate":1722793966,"saleName":"Markus"},{"id":"eQySJy7SkJ3_4S8uHVT8","customerID":"RBQJa8CxBQI3ji74sdgP","totalAmount":2527.66,"status":2,"unixSecDate":1722416488,"saleName":"Mckayla"},{"id":"hXtoxfZo8Sy5Lgq1tpDH","customerID":"QBXmGbKqqcpwmJtlH-qb","totalAmount":8392.85,"status":1,"unixSecDate":1740374778,"saleName":"Talon"},{"id":"4iA4YZFQNIosvJGOWXld","customerID":"r5W30BTJQFEVqIE3YxBd","totalAmount":3153.36,"status":3,"unixSecDate":1699713172,"saleName":"Markus"},{"id":"wwoOhE7gpMvkRTsHOYJj","customerID":"FDvRHd9STBxcTpeILSCd","totalAmount":6003.07,"status":2,"unixSecDate":1734283001,"saleName":"Anissa"},{"id":"HSqm8g58q69h9rDn6yNa","customerID":"tuH0Mls8R2ANx5_FDrub","totalAmount":7332.15,"status":0,"unixSecDate":1709345395,"saleName":"Georgette"},{"id":"HDzcYV1rfDE-XfrSk8FI","customerID":"mLat3Ta2CWJ6hX-6it_2","totalAmount":5957.78,"status":2,"unixSecDate":1692520150,"saleName":"Lelia"},{"id":"7asmJCyGwLCgyFSayNa5","customerID":"XiK-e27uhQYlJuDVQncK","totalAmount":8482.04,"status":0,"unixSecDate":1714401076,"saleName":"Raoul"},{"id":"NIL0ycXSsIsDb4RlRyxH","customerID":"N8FXcBv9byGSI7RnRHhR","totalAmount":6207.5,"status":0,"unixSecDate":1743347521,"saleName":"Mckayla"},{"id":"hlyydEcKJMlMHhQeBGWQ","customerID":"Nd_rYUSOndaPN-Pj2m4O","totalAmount":8556.14,"status":1,"unixSecDate":1683274477,"saleName":"Lelia"},{"id":"qOdqLdGitFhroR6hLzzr","customerID":"j24vaf1ldEy9fFms1Bfa","totalAmount":3334.82,"status":3,"unixSecDate":1711488605,"saleName":"Eliseo"},{"id":"lYZXGitIMPBrskutjjj_","customerID":"QkKaeqBocM44iHgbOm58","totalAmount":9196.09,"status":1,"unixSecDate":1724177923,"saleName":"Donnell"},{"id":"0ouJvGKNJ65zGrO5awtL","customerID":"fQqU5igej1cvbPLd3sFy","totalAmount":4920.79,"status":1,"unixSecDate":1722355016,"saleName":"Monique"},{"id":"Ql5v_s8C5UfW42WPVdTy","customerID":"ZZF4NecWnnj4CGIO_hcT","totalAmount":2581.19,"status":2,"unixSecDate":1718536547,"saleName":"Mckayla"},{"id":"uG8EJ5S6LP_JHDc3-UrA","customerID":"W71MsLukMaE-cgCqHGmy","totalAmount":1413.8,"status":2,"unixSecDate":1706659546,"saleName":"Donnell"},{"id":"TKCkJ0vGWBsxc9YCFz2q","customerID":"BQPf38IHlWniDIlu3Bh2","totalAmount":9220.19,"status":1,"unixSecDate":1717797981,"saleName":"Monique"},{"id":"-1JaBRZgBWtcbwKo-j34","customerID":"Nd_rYUSOndaPN-Pj2m4O","totalAmount":3309.11,"status":0,"unixSecDate":1706056791,"saleName":"Donnell"},{"id":"nFjZM-6Burf1lWMWiEOf","customerID":"ahRSQc5SZ546nsHMm-yR","totalAmount":5294.56,"status":2,"unixSecDate":1737420621,"saleName":"Nettie"},{"id":"vqR3f7w7F_joDnV9Wq9c","customerID":"7hZErXwXFj6XEgeC3umW","totalAmount":2455.29,"status":0,"unixSecDate":1686736900,"saleName":"Talon"},{"id":"Cgp6sGawfboeXDSh46zY","customerID":"ohaoeLFCAC-n2MMe7v1D","totalAmount":9280.46,"status":1,"unixSecDate":1725372291,"saleName":"Mafalda"},{"id":"IAsrQ4hQB379KHdcUEQb","customerID":"v4Bmv-2KdVFTc9H0-FUu","totalAmount":647.74,"status":2,"unixSecDate":1685936358,"saleName":"Mafalda"},{"id":"IyFvxUQS9L9Rz_u3xydP","customerID":"KxueeX-B--l1TCEIv6aq","totalAmount":4260.06,"status":1,"unixSecDate":1711617793,"saleName":"Mafalda"},{"id":"tYzrNP4o7FFUpvNUv086","customerID":"ahRSQc5SZ546nsHMm-yR","totalAmount":147.96,"status":2,"unixSecDate":1686291959,"saleName":"Anissa"},{"id":"3uPwJ7D1ecfMh8mfnUBG","customerID":"W2E8Ax-5imdFIXGPdqi5","totalAmount":310.61,"status":2,"unixSecDate":1711055825,"saleName":"Mafalda"},{"id":"YafjTtkKBIKtOad8Pmm9","customerID":"eBacuNe_R9zGOWrn8dG_","totalAmount":8498.08,"status":2,"unixSecDate":1728204116,"saleName":"Lelia"},{"id":"-rzMxeBXT9Rho47TlmX9","customerID":"kfp1yN9tezYvYdEE_RK9","totalAmount":3974.96,"status":1,"unixSecDate":1724321729,"saleName":"Jordan"},{"id":"Vy3ZGf8lNJS3bI2uqn96","customerID":"W71MsLukMaE-cgCqHGmy","totalAmount":1245.15,"status":1,"unixSecDate":1713675796,"saleName":"Nettie"},{"id":"D23V6e5SgBPQfUCL-kUT","customerID":"31SHGqCWRgvzwyS8IA6T","totalAmount":8327.04,"status":0,"unixSecDate":1707792158,"saleName":"Eliseo"},{"id":"5PNqyu_zF2zDB1DD8N0f","customerID":"0oYIc0JPxNReKe4L_Dmr","totalAmount":218.5,"status":2,"unixSecDate":1723448900,"saleName":"Mafalda"},{"id":"YWVDqqfDZvz_RfGKKGo7","customerID":"wUS2l1hEu_HR_GpfbTCF","totalAmount":7023.17,"status":1,"unixSecDate":1735356996,"saleName":"Lelia"},{"id":"L-_j7-Ar4Hisg2QLaUuL","customerID":"7hZErXwXFj6XEgeC3umW","totalAmount":2989.84,"status":0,"unixSecDate":1682221095,"saleName":"Markus"},{"id":"5bFsYzkWnzbcURqj4g37","customerID":"WQ3AF0OGOJjoKPSer7K0","totalAmount":592.43,"status":3,"unixSecDate":1695943607,"saleName":"Raoul"},{"id":"CtoczAxtHzekZWDhyQx2","customerID":"r5W30BTJQFEVqIE3YxBd","totalAmount":7294.26,"status":2,"unixSecDate":1685686775,"saleName":"Eleonore"},{"id":"vql2FH6E0ds9oP_RbnKD","customerID":"a8OTaKTpmwnYI7itG4yN","totalAmount":1301.25,"status":2,"unixSecDate":1713727703,"saleName":"Mafalda"},{"id":"yW2nhh264x5uD4SMv4BE","customerID":"vZeUcpro0wNPv95r0Qjv","totalAmount":3729.18,"status":2,"unixSecDate":1688904042,"saleName":"Mafalda"},{"id":"ALlSVm-JF5KEu67B2ASI","customerID":"AQMSOO49A_TrMBZQCJXK","totalAmount":3586.94,"status":3,"unixSecDate":1692141958,"saleName":"Lelia"},{"id":"n114gD0Sx7O9U-vegM1M","customerID":"W71MsLukMaE-cgCqHGmy","totalAmount":1237.63,"status":1,"unixSecDate":1685807590,"saleName":"Lelia"},{"id":"IOlrSfAp68v6OZn518lr","customerID":"QkKaeqBocM44iHgbOm58","totalAmount":9740.53,"status":1,"unixSecDate":1705891625,"saleName":"Eliseo"},{"id":"K03Je4eZR3b5pkuax7tB","customerID":"aS-TfrneJIPetdVQJl8J","totalAmount":7750.49,"status":3,"unixSecDate":1689048002,"saleName":"Georgette"},{"id":"IhYitfQ685jVrbFpDvBq","customerID":"kw1yEU_PVPEB_KlMS_Ew","totalAmount":4924.84,"status":1,"unixSecDate":1725409778,"saleName":"Monique"},{"id":"Im_Nri7XsvmofnG1ZpIq","customerID":"gGndv-H2nxQCHRGDKWgP","totalAmount":6355.41,"status":2,"unixSecDate":1717143867,"saleName":"Giovanna"},{"id":"AT-QhEBvD968nAFPcUuc","customerID":"mmlhmnQYI23o9lWUExhS","totalAmount":1219.84,"status":2,"unixSecDate":1696166853,"saleName":"Monique"},{"id":"JVxwz4uEf2gnSVK8HfTF","customerID":"KxueeX-B--l1TCEIv6aq","totalAmount":6550.34,"status":2,"unixSecDate":1707082016,"saleName":"Donnell"},{"id":"23THnVW6t1es7zUZGcoK","customerID":"_fW2ctNl88kVzy3pdyFL","totalAmount":700.54,"status":2,"unixSecDate":1706573047,"saleName":"Raoul"},{"id":"gqtXXqnO6_01PhpDIcxJ","customerID":"SAujjKGjErr-4D_MMScx","totalAmount":4108.76,"status":3,"unixSecDate":1711401051,"saleName":"Raoul"},{"id":"Q0X9FoK6uoWnp_c0wb3O","customerID":"biCI4uglddtdxtp8xUID","totalAmount":3331.73,"status":1,"unixSecDate":1689271724,"saleName":"Nettie"},{"id":"EMFBF3tToXlNJ5GLGCKC","customerID":"W2E8Ax-5imdFIXGPdqi5","totalAmount":2.56,"status":2,"unixSecDate":1728758014,"saleName":"Kari"},{"id":"V7v7Pzm6FkNO8tl8LRjw","customerID":"FDvRHd9STBxcTpeILSCd","totalAmount":5447.52,"status":3,"unixSecDate":1723588109,"saleName":"Lulu"},{"id":"oH424S7KajV6laQKnNis","customerID":"ATWzvTEdLsjcFjVSrjOI","totalAmount":4615.32,"status":3,"unixSecDate":1713710555,"saleName":"Mckayla"},{"id":"tBJZfhje3jl6tZhe1pX-","customerID":"hn5NIMynJhqjVwc0Xr1u","totalAmount":1201.35,"status":1,"unixSecDate":1685859896,"saleName":"Simeon"},{"id":"jZUebkdR53mS-wUP-1PA","customerID":"a8OTaKTpmwnYI7itG4yN","totalAmount":3750.5,"status":0,"unixSecDate":1685026576,"saleName":"Anissa"},{"id":"OHwLoT8mam23Hkry723V","customerID":"e-ST59iyI8BGL2wXFwaI","totalAmount":4724.41,"status":2,"unixSecDate":1718157673,"saleName":"Kari"},{"id":"jhQ1WOhVOdDSpCLrZ6RU","customerID":"QBXmGbKqqcpwmJtlH-qb","totalAmount":559.88,"status":3,"unixSecDate":1721808018,"saleName":"Lulu"},{"id":"qidhoS-qfPzBS6lxuhwh","customerID":"-qh7q0rRr9ZVs_uEyzW9","totalAmount":9782.34,"status":2,"unixSecDate":1702628604,"saleName":"Anissa"},{"id":"DSwkZAc_otdYMnpgmxQX","customerID":"xX9-9r0V01nuUj9Fy0hf","totalAmount":4525.44,"status":0,"unixSecDate":1713358403,"saleName":"Eleonore"},{"id":"GVKepozph7JqVb_euBve","customerID":"mLat3Ta2CWJ6hX-6it_2","totalAmount":2137.45,"status":2,"unixSecDate":1691150668,"saleName":"Monique"},{"id":"wy8qN5Ne8wj91rq6j_Vk","customerID":"kfp1yN9tezYvYdEE_RK9","totalAmount":6054.95,"status":1,"unixSecDate":1722248409,"saleName":"Eleonore"},{"id":"q1S5MpTo9E2vOF7jrlAi","customerID":"gI8fMD6SlvygUcQP4bxm","totalAmount":7640.59,"status":2,"unixSecDate":1721154033,"saleName":"Raoul"},{"id":"RmdW9kaZyzHMg_Gi_aGQ","customerID":"biCI4uglddtdxtp8xUID","totalAmount":2949.41,"status":1,"unixSecDate":1726263501,"saleName":"Simeon"},{"id":"xuB2GhZM4O1GyFq3cxRJ","customerID":"7iXRzKXWCwiq2VPyRMIN","totalAmount":3699.88,"status":1,"unixSecDate":1723207928,"saleName":"Monique"},{"id":"IxzdIlnBDDoE7QG7IgXe","customerID":"iHxtdOHMY-uVmzQxfrdD","totalAmount":4908.65,"status":3,"unixSecDate":1734581162,"saleName":"Eleonore"},{"id":"XZUYQDqAjMBiEWebK-iy","customerID":"-8MLDlSWRCrqR9A5WlmT","totalAmount":4122.37,"status":2,"unixSecDate":1691813405,"saleName":"Eliseo"},{"id":"AaFn8D93RRoyNd6fc4RR","customerID":"mt-GkGkphGBz5Td-F0nW","totalAmount":1910.7,"status":2,"unixSecDate":1715336413,"saleName":"Ines"},{"id":"3O9ftjgSNQ3vpC6DUALN","customerID":"QBXmGbKqqcpwmJtlH-qb","totalAmount":1862.28,"status":1,"unixSecDate":1741763648,"saleName":"Georgette"},{"id":"LpQrAqEXd2KeqYns-r_f","customerID":"BQPf38IHlWniDIlu3Bh2","totalAmount":5215.86,"status":1,"unixSecDate":1741562526,"saleName":"Donnell"},{"id":"JI8FeJZdS0YO6trH8-3m","customerID":"gI8fMD6SlvygUcQP4bxm","totalAmount":8729.74,"status":2,"unixSecDate":1736408057,"saleName":"Mafalda"},{"id":"T9IXpzJ5KMA2qmzvlEog","customerID":"XiZ7omEEehzBoyJ93RQ7","totalAmount":9819.39,"status":0,"unixSecDate":1697467890,"saleName":"Raoul"},{"id":"6Lj1DeDPedKDXKp0I1Xv","customerID":"XiZ7omEEehzBoyJ93RQ7","totalAmount":443.25,"status":2,"unixSecDate":1717595679,"saleName":"Anissa"},{"id":"Llw4NeyWTaglPLzl7sLb","customerID":"SAujjKGjErr-4D_MMScx","totalAmount":2513.29,"status":1,"unixSecDate":1687127246,"saleName":"Donnell"},{"id":"8bB7VjNBF1-RKNaTBYxf","customerID":"W71MsLukMaE-cgCqHGmy","totalAmount":282.66,"status":1,"unixSecDate":1738463119,"saleName":"Simeon"},{"id":"PI7RWfMO5S0gnizgCZUO","customerID":"7BejlQLKbefc4C8s72E5","totalAmount":8415.26,"status":2,"unixSecDate":1720706679,"saleName":"Anissa"},{"id":"iS-U3Inn_RauwYqVpawo","customerID":"V2OuUChpJ9cd1pZu9V-5","totalAmount":6368.6,"status":0,"unixSecDate":1737521700,"saleName":"Talon"},{"id":"Hoo3jZ8uVZN-XzlVF_Dp","customerID":"4F5rdfgzqNFQ2E2-THX-","totalAmount":6561.39,"status":1,"unixSecDate":1731522787,"saleName":"Jordan"},{"id":"mwrNZNU0Ui88S9HPrXGl","customerID":"_fW2ctNl88kVzy3pdyFL","totalAmount":3339.98,"status":0,"unixSecDate":1738196980,"saleName":"Lelia"},{"id":"KPwBlDmKVYXlIh4QmgrH","customerID":"Z0Q6yKec2IG_0dp0Jx9V","totalAmount":1424.29,"status":3,"unixSecDate":1727624063,"saleName":"Eliseo"},{"id":"QFR62GfzsXgREl-vo4tz","customerID":"Gwqff0jQUafPorAXv2FC","totalAmount":5750.76,"status":2,"unixSecDate":1703308372,"saleName":"Kari"},{"id":"sISCQf6UDt9aRVWYnSYx","customerID":"4nPDL5C2uXa8GA-daCEl","totalAmount":4734.62,"status":1,"unixSecDate":1713370979,"saleName":"Kari"},{"id":"HoHTWitb4gjkZDOtduP0","customerID":"WaWFh8T3tvmM3ZLyKkDf","totalAmount":1506.57,"status":1,"unixSecDate":1696973899,"saleName":"Anissa"},{"id":"M6FKO3BNXkPcgqD_LxaG","customerID":"mLat3Ta2CWJ6hX-6it_2","totalAmount":7094.65,"status":2,"unixSecDate":1693148501,"saleName":"Lelia"},{"id":"KdnTtaTj90UsxYnYqXWy","customerID":"tID16jCCKi1GHPA6cltA","totalAmount":427.76,"status":1,"unixSecDate":1702670152,"saleName":"Eleonore"},{"id":"ifjZbNjXblb4mog6r8iY","customerID":"v4Bmv-2KdVFTc9H0-FUu","totalAmount":1049.56,"status":2,"unixSecDate":1743335462,"saleName":"Ines"},{"id":"tv9la36BMq5clHXN2Ejh","customerID":"iHxtdOHMY-uVmzQxfrdD","totalAmount":4100.58,"status":1,"unixSecDate":1718414584,"saleName":"Eleonore"},{"id":"oOFRXIV-xj8sviuWIJPz","customerID":"WaWFh8T3tvmM3ZLyKkDf","totalAmount":6770.08,"status":1,"unixSecDate":1733722256,"saleName":"Eliseo"},{"id":"DDq3XyJyNapke9gYmmJd","customerID":"yZl6JmB5ZC4OTyF4yKMP","totalAmount":4933.95,"status":0,"unixSecDate":1724872801,"saleName":"Monique"},{"id":"bbA6iMD9-cCe1Ogt5zKN","customerID":"taQ2J0pDq6XockUIW01n","totalAmount":5714.33,"status":3,"unixSecDate":1729508335,"saleName":"Monique"},{"id":"AAYQHI6Scd-a9oMlR_I-","customerID":"FDvRHd9STBxcTpeILSCd","totalAmount":4465.97,"status":3,"unixSecDate":1729506836,"saleName":"Anissa"},{"id":"p_txmkHmh4IgPb5tNNod","customerID":"QkKaeqBocM44iHgbOm58","totalAmount":2937.59,"status":1,"unixSecDate":1731412114,"saleName":"Donnell"},{"id":"fUbZZ7y8_4oD9Q2xvOaZ","customerID":"I5fD612sFxkzP9BV98b5","totalAmount":6041.7,"status":0,"unixSecDate":1690019329,"saleName":"Simeon"},{"id":"6HK8CEGcXA8Dt-vs1WSv","customerID":"tID16jCCKi1GHPA6cltA","totalAmount":8241.15,"status":1,"unixSecDate":1742576078,"saleName":"Jordan"},{"id":"Zbv271ilGKJZsOiP38NG","customerID":"WaWFh8T3tvmM3ZLyKkDf","totalAmount":3477.97,"status":0,"unixSecDate":1690258017,"saleName":"Eleonore"},{"id":"0PfRmBuXXgK9ViPPg-V8","customerID":"Gwqff0jQUafPorAXv2FC","totalAmount":8862.48,"status":2,"unixSecDate":1735638919,"saleName":"Anissa"},{"id":"mMCW7LxYMOhQPUjrBVGb","customerID":"mmlhmnQYI23o9lWUExhS","totalAmount":925.03,"status":2,"unixSecDate":1715629904,"saleName":"Eliseo"},{"id":"kxVl0rDf8FmnS3yypxqL","customerID":"j24vaf1ldEy9fFms1Bfa","totalAmount":7097.75,"status":2,"unixSecDate":1726380112,"saleName":"Markus"},{"id":"aSxMGxKGMXgdCa0vDbmg","customerID":"H2fBWJ9d1SKpSOQEpMEh","totalAmount":2791.05,"status":1,"unixSecDate":1693307079,"saleName":"Anissa"},{"id":"1nHzDwXCT3MiSb7TEWVu","customerID":"v4Bmv-2KdVFTc9H0-FUu","totalAmount":8585.02,"status":1,"unixSecDate":1699205388,"saleName":"Barrett"},{"id":"MMvirlFnO7c2lp81PwZw","customerID":"Z0Q6yKec2IG_0dp0Jx9V","totalAmount":6149.16,"status":2,"unixSecDate":1711827241,"saleName":"Mafalda"},{"id":"ZSOG-FTpadAkUQiMrfhm","customerID":"jdWztsYo2NexjSlvjueU","totalAmount":1949.78,"status":1,"unixSecDate":1727233972,"saleName":"Anissa"},{"id":"td8-VgCoVDT_17GNyD_c","customerID":"SAujjKGjErr-4D_MMScx","totalAmount":6360.4,"status":1,"unixSecDate":1689593460,"saleName":"Kari"},{"id":"706c7xE5jwi4V1MiXI_K","customerID":"QrIfEl-vqX5T5-lw40A0","totalAmount":254.16,"status":1,"unixSecDate":1738919268,"saleName":"Lelia"},{"id":"AE_lN5jxBH2nsaa3MTVf","customerID":"jdWztsYo2NexjSlvjueU","totalAmount":3725.48,"status":0,"unixSecDate":1711005957,"saleName":"Jordan"},{"id":"Gn7y08lEA1_3xMh9KF0A","customerID":"-EwIFiTqZlxiWeo6DBbs","totalAmount":750.39,"status":0,"unixSecDate":1735384464,"saleName":"Monique"},{"id":"8fZltUOlwSKtuid3Eo6G","customerID":"gGndv-H2nxQCHRGDKWgP","totalAmount":4329.98,"status":3,"unixSecDate":1733839822,"saleName":"Eleonore"},{"id":"-HYrExvk7lBMlNeoMJfy","customerID":"DfPHRTrUgndRYqZedb6-","totalAmount":1120,"status":2,"unixSecDate":1684801826,"saleName":"Nettie"},{"id":"6WLh4VmHWq-oOqP21zwa","customerID":"WLZz-8hZ4FdY3mvwIoI_","totalAmount":5785.26,"status":1,"unixSecDate":1685774725,"saleName":"Lulu"},{"id":"juDDxpPAwJuKk6QsrjXa","customerID":"31SHGqCWRgvzwyS8IA6T","totalAmount":3662.47,"status":2,"unixSecDate":1721410285,"saleName":"Simeon"},{"id":"N0CCQjggIOiROERz2AAZ","customerID":"Joh0b74seMdPyfKuQy9n","totalAmount":9488.43,"status":1,"unixSecDate":1707223216,"saleName":"Ines"},{"id":"mMuZDJeyr0QY6V1_IhIZ","customerID":"hn5NIMynJhqjVwc0Xr1u","totalAmount":8115.66,"status":1,"unixSecDate":1723909319,"saleName":"Markus"},{"id":"Yn3Tw1sUReOAWvK9sZXK","customerID":"QkKaeqBocM44iHgbOm58","totalAmount":8457.91,"status":1,"unixSecDate":1704888938,"saleName":"Ines"},{"id":"-FVDRsz_RwvI0Cc14oDO","customerID":"Pxgcl9_9wch1WPfya4gt","totalAmount":2268.11,"status":2,"unixSecDate":1693775298,"saleName":"Simeon"},{"id":"hfsPkUqwqOMiB_BhBCvu","customerID":"WQ3AF0OGOJjoKPSer7K0","totalAmount":3001.09,"status":0,"unixSecDate":1689944999,"saleName":"Jordan"},{"id":"2YIOcM9sRq8af2jbUrMW","customerID":"mmlhmnQYI23o9lWUExhS","totalAmount":8760.15,"status":3,"unixSecDate":1711819983,"saleName":"Donnell"},{"id":"wImNy0A8iNTbElqH9J7b","customerID":"-qh7q0rRr9ZVs_uEyzW9","totalAmount":1608.57,"status":2,"unixSecDate":1688227987,"saleName":"Donnell"},{"id":"ONH8IVQ8kSI6N1WXaEK8","customerID":"W71MsLukMaE-cgCqHGmy","totalAmount":644.33,"status":1,"unixSecDate":1710871473,"saleName":"Barrett"},{"id":"D2sXRg_H325L5JWJa4c2","customerID":"31SHGqCWRgvzwyS8IA6T","totalAmount":4773.67,"status":3,"unixSecDate":1682369638,"saleName":"Markus"},{"id":"Zcz6ph9gFEH0llKhf_-I","customerID":"xX9-9r0V01nuUj9Fy0hf","totalAmount":906.95,"status":2,"unixSecDate":1733238719,"saleName":"Markus"},{"id":"5oS9HZBx4XKNHIRZ3vTA","customerID":"-qh7q0rRr9ZVs_uEyzW9","totalAmount":6058.27,"status":2,"unixSecDate":1723184393,"saleName":"Mckayla"},{"id":"CxRBD79VkWUmGZa8SKg0","customerID":"WLZz-8hZ4FdY3mvwIoI_","totalAmount":8985.1,"status":1,"unixSecDate":1728869658,"saleName":"Barrett"},{"id":"T0mDWEscPRgUt88n-NOy","customerID":"BQPf38IHlWniDIlu3Bh2","totalAmount":5506.3,"status":3,"unixSecDate":1721213281,"saleName":"Simeon"},{"id":"2LKkPhz4Fgrh_oA6MEar","customerID":"Ue0cz0nlAGPbHGf76fUF","totalAmount":2039.77,"status":2,"unixSecDate":1691716043,"saleName":"Giovanna"},{"id":"OB3pF8kwt9qC7qssoGfF","customerID":"7hZErXwXFj6XEgeC3umW","totalAmount":3869.18,"status":1,"unixSecDate":1694084020,"saleName":"Jordan"},{"id":"DI6Z3yV6_jjk2rOc8c24","customerID":"Pxgcl9_9wch1WPfya4gt","totalAmount":1829.32,"status":2,"unixSecDate":1721020697,"saleName":"Markus"},{"id":"gWJm8ZUR9x91uK1QgrF7","customerID":"xcLrpr7JyoLu-Yi2qgVd","totalAmount":6860.23,"status":0,"unixSecDate":1741288082,"saleName":"Giovanna"},{"id":"8K1FCKl7uUf5okIjapga","customerID":"N8FXcBv9byGSI7RnRHhR","totalAmount":8115.78,"status":0,"unixSecDate":1720848910,"saleName":"Lelia"},{"id":"bFmO4I3MhbiK7dzqOGih","customerID":"Ue0cz0nlAGPbHGf76fUF","totalAmount":8047.55,"status":2,"unixSecDate":1687501871,"saleName":"Barrett"},{"id":"2dnJZIWwKWopoPEZdUlp","customerID":"XX1rkMGZnHvQ8LIobSdR","totalAmount":1756.19,"status":2,"unixSecDate":1723752205,"saleName":"Georgette"},{"id":"XPUvo3x7go96fbifQAYU","customerID":"Ue0cz0nlAGPbHGf76fUF","totalAmount":8298.41,"status":2,"unixSecDate":1688417788,"saleName":"Markus"},{"id":"VX45-h9m2PYByDFtR3K-","customerID":"XiK-e27uhQYlJuDVQncK","totalAmount":3790.77,"status":2,"unixSecDate":1732212849,"saleName":"Markus"},{"id":"pCMkv1Ea9b788bmJosfc","customerID":"31SHGqCWRgvzwyS8IA6T","totalAmount":4398.95,"status":1,"unixSecDate":1740831288,"saleName":"Raoul"},{"id":"UNscg6E7W4CO-jRt82Tw","customerID":"yZl6JmB5ZC4OTyF4yKMP","totalAmount":9751.54,"status":2,"unixSecDate":1704381926,"saleName":"Georgette"},{"id":"CZyvr1q-f4EkSR2GUrZD","customerID":"aS-TfrneJIPetdVQJl8J","totalAmount":7027.15,"status":1,"unixSecDate":1687593791,"saleName":"Lulu"}]}
+{
+  "sales": [
+    "Giovanna",
+    "Jordan",
+    "Lelia",
+    "Simeon",
+    "Markus",
+    "Mckayla",
+    "Monique",
+    "Donnell",
+    "Raoul",
+    "Talon",
+    "Ines",
+    "Nettie",
+    "Mafalda",
+    "Eleonore",
+    "Eliseo",
+    "Kari",
+    "Anissa",
+    "Georgette",
+    "Barrett",
+    "Lulu"
+  ],
+  "customers": [
+    {
+      "id": "e-ST59iyI8BGL2wXFwaI",
+      "name": "Mr. Devin Littel",
+      "country": "KEN",
+      "city": "Canton",
+      "state": "MS",
+      "address": "3660 Leuschke Islands Apt. 704",
+      "zip": "03115",
+      "status": 1
+    },
+    {
+      "id": "mXuNwO1JtUHHy1FDasGz",
+      "name": "Kimberly Grimes",
+      "country": "MLT",
+      "city": "North Dave",
+      "state": "OH",
+      "address": "38046 Giovani Views Apt. 749",
+      "zip": "59549-7947",
+      "status": 1
+    },
+    {
+      "id": "JiYScuEsqmnHgblT-fCT",
+      "name": "Chris Altenwerth",
+      "country": "LUX",
+      "city": "Jeraldberg",
+      "state": "AK",
+      "address": "4461 Bosco Falls Apt. 832",
+      "zip": "51792-2852",
+      "status": 0
+    },
+    {
+      "id": "hn5NIMynJhqjVwc0Xr1u",
+      "name": "Linda Hoeger",
+      "country": "GEO",
+      "city": "South Elliot",
+      "state": "NY",
+      "address": "9021 Roob Underpass Suite 531",
+      "zip": "38214-1472",
+      "status": 1
+    },
+    {
+      "id": "WaWFh8T3tvmM3ZLyKkDf",
+      "name": "Blake Rolfson",
+      "country": "SPM",
+      "city": "North Elliot",
+      "state": "NY",
+      "address": "13829 Cremin Summit Apt. 806",
+      "zip": "00041-5477",
+      "status": 1
+    },
+    {
+      "id": "aS-TfrneJIPetdVQJl8J",
+      "name": "Terry Fadel",
+      "country": "VIR",
+      "city": "Kaylahstad",
+      "state": "AK",
+      "address": "13502 Dietrich Way Apt. 104",
+      "zip": "76920",
+      "status": 1
+    },
+    {
+      "id": "Ue0cz0nlAGPbHGf76fUF",
+      "name": "Marion Erdman",
+      "country": "BEN",
+      "city": "Hagenesfort",
+      "state": "NV",
+      "address": "922 Enos Parkway Suite 657",
+      "zip": "21217-1408",
+      "status": 1
+    },
+    {
+      "id": "biCI4uglddtdxtp8xUID",
+      "name": "Milton Hintz",
+      "country": "PRT",
+      "city": "Cleveland Heights",
+      "state": "TN",
+      "address": "151 Jones Field Apt. 926",
+      "zip": "22411",
+      "status": 1
+    },
+    {
+      "id": "XX1rkMGZnHvQ8LIobSdR",
+      "name": "Bryant Yost",
+      "country": "CMR",
+      "city": "Ames",
+      "state": "IA",
+      "address": "94902 Collins Spur Apt. 749",
+      "zip": "28667-3847",
+      "status": 0
+    },
+    {
+      "id": "kfp1yN9tezYvYdEE_RK9",
+      "name": "Kristie Buckridge",
+      "country": "WLF",
+      "city": "North Audrey",
+      "state": "NJ",
+      "address": "89248 Parker Centers Suite 281",
+      "zip": "95919-4035",
+      "status": 0
+    },
+    {
+      "id": "0oYIc0JPxNReKe4L_Dmr",
+      "name": "Dr. Tommy Haag-Schultz III",
+      "country": "ARE",
+      "city": "Strongsville",
+      "state": "NC",
+      "address": "36807 N 4th Street Apt. 575",
+      "zip": "45621-5345",
+      "status": 1
+    },
+    {
+      "id": "gGndv-H2nxQCHRGDKWgP",
+      "name": "Guillermo Fahey",
+      "country": "AZE",
+      "city": "Metzville",
+      "state": "NE",
+      "address": "14888 Avery Valleys Suite 504",
+      "zip": "66074-7660",
+      "status": 1
+    },
+    {
+      "id": "QBXmGbKqqcpwmJtlH-qb",
+      "name": "Allen Hahn",
+      "country": "ASM",
+      "city": "North Monserratestead",
+      "state": "NC",
+      "address": "762 Zora Lakes Suite 374",
+      "zip": "60776",
+      "status": 1
+    },
+    {
+      "id": "m-aCWBCh_Tn3sfWdV_09",
+      "name": "Brooke Champlin",
+      "country": "BLM",
+      "city": "West Darbystead",
+      "state": "OH",
+      "address": "59706 Senger Spring Suite 839",
+      "zip": "13102-5368",
+      "status": 0
+    },
+    {
+      "id": "31SHGqCWRgvzwyS8IA6T",
+      "name": "Dr. Amanda Fritsch",
+      "country": "LBY",
+      "city": "Gusikowskifort",
+      "state": "NC",
+      "address": "86052 Elvera Neck Apt. 611",
+      "zip": "85713",
+      "status": 0
+    },
+    {
+      "id": "I5fD612sFxkzP9BV98b5",
+      "name": "Darnell Hoppe III",
+      "country": "ZWE",
+      "city": "Carolyneburgh",
+      "state": "AL",
+      "address": "74409 Upton Estates Apt. 138",
+      "zip": "49075-5513",
+      "status": 1
+    },
+    {
+      "id": "ZZF4NecWnnj4CGIO_hcT",
+      "name": "Tanya Armstrong",
+      "country": "ARE",
+      "city": "Killeen",
+      "state": "MT",
+      "address": "95648 Hazel Close Suite 319",
+      "zip": "23763",
+      "status": 0
+    },
+    {
+      "id": "4F5rdfgzqNFQ2E2-THX-",
+      "name": "Virginia Cummerata-Quigley",
+      "country": "NIC",
+      "city": "Salmatown",
+      "state": "ID",
+      "address": "787 Kunze Drives Apt. 790",
+      "zip": "37828",
+      "status": 1
+    },
+    {
+      "id": "H2fBWJ9d1SKpSOQEpMEh",
+      "name": "Jasmine Durgan",
+      "country": "IMN",
+      "city": "Salt Lake City",
+      "state": "NV",
+      "address": "2947 Bogisich Motorway Apt. 323",
+      "zip": "33432-4006",
+      "status": 1
+    },
+    {
+      "id": "RbW23xO70NkYXEOj6ICH",
+      "name": "Dr. Mildred Raynor",
+      "country": "GIN",
+      "city": "West Rodgerborough",
+      "state": "MT",
+      "address": "402 Funk Gardens Apt. 251",
+      "zip": "48039",
+      "status": 1
+    },
+    {
+      "id": "fZpya23cBoFjT0oLP89a",
+      "name": "Bethany Jones",
+      "country": "KHM",
+      "city": "Medafield",
+      "state": "KS",
+      "address": "271 Victoria Street Suite 412",
+      "zip": "37056",
+      "status": 1
+    },
+    {
+      "id": "j24vaf1ldEy9fFms1Bfa",
+      "name": "Denise Huels",
+      "country": "HUN",
+      "city": "Gilbertberg",
+      "state": "AK",
+      "address": "611 Miller Ports Apt. 565",
+      "zip": "94476",
+      "status": 0
+    },
+    {
+      "id": "XiZ7omEEehzBoyJ93RQ7",
+      "name": "Inez Langosh",
+      "country": "BEN",
+      "city": "Zulaufcester",
+      "state": "CT",
+      "address": "3593 Reggie Lakes Suite 394",
+      "zip": "31650-8955",
+      "status": 1
+    },
+    {
+      "id": "QrIfEl-vqX5T5-lw40A0",
+      "name": "Guillermo Bergstrom",
+      "country": "KWT",
+      "city": "Dunwoody",
+      "state": "OR",
+      "address": "53271 Rodriguez Pine Suite 874",
+      "zip": "33935-9494",
+      "status": 0
+    },
+    {
+      "id": "oN-Cj9pik2oO46y5r9Ck",
+      "name": "Jesus Fay",
+      "country": "REU",
+      "city": "Auerport",
+      "state": "IL",
+      "address": "5399 Windsor Avenue Suite 988",
+      "zip": "94341",
+      "status": 1
+    },
+    {
+      "id": "GPsAwPN8wownxBoGWoxY",
+      "name": "Jackie Mann III",
+      "country": "ZWE",
+      "city": "Aubreyport",
+      "state": "TN",
+      "address": "222 Alvah Garden Suite 432",
+      "zip": "98579-2809",
+      "status": 0
+    },
+    {
+      "id": "var9VF11onIW2NxA-uMb",
+      "name": "Orville Bogan",
+      "country": "BHR",
+      "city": "Port Juneview",
+      "state": "OH",
+      "address": "29047 University Avenue Apt. 284",
+      "zip": "76994",
+      "status": 1
+    },
+    {
+      "id": "E2etLhGyEg14hzB-g66z",
+      "name": "Sherri Bergnaum",
+      "country": "BGR",
+      "city": "Bloomington",
+      "state": "CA",
+      "address": "855 Spring Street Suite 356",
+      "zip": "01011",
+      "status": 0
+    },
+    {
+      "id": "mmlhmnQYI23o9lWUExhS",
+      "name": "Mrs. Natalie Goldner",
+      "country": "CAN",
+      "city": "North Maribelton",
+      "state": "DE",
+      "address": "21101 Otis Plain Apt. 150",
+      "zip": "46032-9945",
+      "status": 0
+    },
+    {
+      "id": "rvv_Asm6afP8_9qdPoLY",
+      "name": "Brian Langworth Sr.",
+      "country": "USA",
+      "city": "Lake Jaiden",
+      "state": "VT",
+      "address": "13441 The Dell Apt. 790",
+      "zip": "32729-3224",
+      "status": 1
+    },
+    {
+      "id": "H-95JryGidkV1345dOpw",
+      "name": "Bill Crooks DDS",
+      "country": "CUB",
+      "city": "Joshuaton",
+      "state": "ND",
+      "address": "9643 Hilpert Turnpike Suite 295",
+      "zip": "55829-9483",
+      "status": 0
+    },
+    {
+      "id": "BQPf38IHlWniDIlu3Bh2",
+      "name": "Molly Ankunding",
+      "country": "DOM",
+      "city": "North Rashadshire",
+      "state": "MS",
+      "address": "2559 Freddie Lodge Suite 564",
+      "zip": "04608",
+      "status": 0
+    },
+    {
+      "id": "7iXRzKXWCwiq2VPyRMIN",
+      "name": "Ernest Block",
+      "country": "BEN",
+      "city": "Jackson",
+      "state": "MT",
+      "address": "93165 Stiedemann Mountain Suite 775",
+      "zip": "08629",
+      "status": 1
+    },
+    {
+      "id": "KxueeX-B--l1TCEIv6aq",
+      "name": "Ms. Marian Daniel",
+      "country": "COG",
+      "city": "Goldnerchester",
+      "state": "IL",
+      "address": "175 Nicolas Mountains Apt. 235",
+      "zip": "26313-6899",
+      "status": 1
+    },
+    {
+      "id": "yZl6JmB5ZC4OTyF4yKMP",
+      "name": "Dana Rosenbaum",
+      "country": "MDG",
+      "city": "Fort Kendraboro",
+      "state": "MT",
+      "address": "7740 Dawn Vista Apt. 214",
+      "zip": "74520-7476",
+      "status": 0
+    },
+    {
+      "id": "W2E8Ax-5imdFIXGPdqi5",
+      "name": "Dolores Bartell-Jerde",
+      "country": "GIB",
+      "city": "Toycester",
+      "state": "GA",
+      "address": "23693 St Andrews Close Apt. 364",
+      "zip": "94217",
+      "status": 1
+    },
+    {
+      "id": "7hZErXwXFj6XEgeC3umW",
+      "name": "Lynn Emard Jr.",
+      "country": "CUW",
+      "city": "Rebekahstead",
+      "state": "ND",
+      "address": "81241 Heath Road Apt. 922",
+      "zip": "79406",
+      "status": 0
+    },
+    {
+      "id": "jdWztsYo2NexjSlvjueU",
+      "name": "Lucille Runolfsson Sr.",
+      "country": "RWA",
+      "city": "Millerfurt",
+      "state": "NJ",
+      "address": "76972 Sporer Flat Suite 456",
+      "zip": "44203-5588",
+      "status": 1
+    },
+    {
+      "id": "wAOwDJksJuir9kNujrjk",
+      "name": "Chelsea Deckow",
+      "country": "JPN",
+      "city": "West Stuartton",
+      "state": "WA",
+      "address": "546 Schmidt Crossing Apt. 526",
+      "zip": "65966-4240",
+      "status": 1
+    },
+    {
+      "id": "yHmhBC1zDWHEQD-stqPU",
+      "name": "Kay Nicolas",
+      "country": "IRQ",
+      "city": "Logan",
+      "state": "WY",
+      "address": "67482 Milton Avenue Apt. 329",
+      "zip": "77526",
+      "status": 1
+    },
+    {
+      "id": "WQ3AF0OGOJjoKPSer7K0",
+      "name": "Alfonso Hahn V",
+      "country": "SLE",
+      "city": "Raleigh",
+      "state": "NY",
+      "address": "4695 Franey Walk Apt. 652",
+      "zip": "90444-1055",
+      "status": 0
+    },
+    {
+      "id": "0zkXBFaiBHlo8yqRAdqK",
+      "name": "Brooke Stroman",
+      "country": "SXM",
+      "city": "Kubstad",
+      "state": "TN",
+      "address": "6716 Woodland Close Apt. 149",
+      "zip": "31260-7758",
+      "status": 1
+    },
+    {
+      "id": "FDvRHd9STBxcTpeILSCd",
+      "name": "Kenneth Aufderhar",
+      "country": "PRI",
+      "city": "Tristonshire",
+      "state": "GA",
+      "address": "8416 Keebler Centers Suite 466",
+      "zip": "78931-1680",
+      "status": 1
+    },
+    {
+      "id": "z21oRF0qzZM7r_BaN8-e",
+      "name": "Sheila Gerlach",
+      "country": "SYR",
+      "city": "Port Elvisworth",
+      "state": "MA",
+      "address": "4464 Lemke Via Suite 764",
+      "zip": "31628",
+      "status": 0
+    },
+    {
+      "id": "DfPHRTrUgndRYqZedb6-",
+      "name": "Cory Runolfsdottir",
+      "country": "AFG",
+      "city": "Berniceberg",
+      "state": "NC",
+      "address": "77511 Emmerich Islands Suite 626",
+      "zip": "56006",
+      "status": 1
+    },
+    {
+      "id": "taQ2J0pDq6XockUIW01n",
+      "name": "Dr. Gary Thiel Sr.",
+      "country": "ARE",
+      "city": "New Rooseveltmouth",
+      "state": "WV",
+      "address": "6470 Trantow Pines Apt. 480",
+      "zip": "33828-3464",
+      "status": 0
+    },
+    {
+      "id": "vZeUcpro0wNPv95r0Qjv",
+      "name": "Sherri McLaughlin",
+      "country": "CPV",
+      "city": "Antioch",
+      "state": "AK",
+      "address": "12339 Keeling Haven Suite 523",
+      "zip": "34695-4399",
+      "status": 1
+    },
+    {
+      "id": "eDGyllEsiY7DgOElP5_i",
+      "name": "Chelsea Rohan",
+      "country": "WLF",
+      "city": "Bozeman",
+      "state": "MS",
+      "address": "27283 Susan Points Apt. 159",
+      "zip": "67664-5319",
+      "status": 0
+    },
+    {
+      "id": "N8FXcBv9byGSI7RnRHhR",
+      "name": "Lillie Hermann II",
+      "country": "SVK",
+      "city": "North Lon",
+      "state": "NM",
+      "address": "655 E 5th Street Apt. 368",
+      "zip": "61084",
+      "status": 1
+    },
+    {
+      "id": "FRKQArw0q18ND6kGKx2E",
+      "name": "Caroline Ortiz",
+      "country": "TGO",
+      "city": "Felicityfurt",
+      "state": "MI",
+      "address": "3149 Willow Road Suite 892",
+      "zip": "67541-2188",
+      "status": 0
+    },
+    {
+      "id": "xNINJFiGeGNbYBWI9S9Q",
+      "name": "Michael Murray",
+      "country": "SAU",
+      "city": "Turnerville",
+      "state": "IL",
+      "address": "8057 First Street Apt. 375",
+      "zip": "43044",
+      "status": 0
+    },
+    {
+      "id": "lRrkA_E_u5rmakVQV-aQ",
+      "name": "Devin Herzog",
+      "country": "JAM",
+      "city": "Lake Kasandra",
+      "state": "IL",
+      "address": "38492 Milton Road Apt. 693",
+      "zip": "35440",
+      "status": 1
+    },
+    {
+      "id": "V2OuUChpJ9cd1pZu9V-5",
+      "name": "Jonathon Kub",
+      "country": "MUS",
+      "city": "Luciennehaven",
+      "state": "MA",
+      "address": "9146 Mikayla Point Apt. 177",
+      "zip": "10498",
+      "status": 1
+    },
+    {
+      "id": "DLCXBnYA_p6xMQ3cNr4s",
+      "name": "Miss Lana Lebsack",
+      "country": "LSO",
+      "city": "Mosesworth",
+      "state": "CA",
+      "address": "702 E 10th Street Apt. 188",
+      "zip": "41483",
+      "status": 1
+    },
+    {
+      "id": "SAujjKGjErr-4D_MMScx",
+      "name": "Nick Ebert Sr.",
+      "country": "JPN",
+      "city": "Marksburgh",
+      "state": "CA",
+      "address": "43366 Effie Wall Suite 842",
+      "zip": "06451",
+      "status": 1
+    },
+    {
+      "id": "xX9-9r0V01nuUj9Fy0hf",
+      "name": "Steve Schuster MD",
+      "country": "PHL",
+      "city": "South Salvatore",
+      "state": "ME",
+      "address": "134 Old State Road Apt. 604",
+      "zip": "24007-0721",
+      "status": 1
+    },
+    {
+      "id": "DX8vITJJq6oMBfwe-8OC",
+      "name": "Simon Ullrich",
+      "country": "MTQ",
+      "city": "Kautzerborough",
+      "state": "UT",
+      "address": "68797 Wilkinson Islands Apt. 530",
+      "zip": "44584",
+      "status": 0
+    },
+    {
+      "id": "Pxgcl9_9wch1WPfya4gt",
+      "name": "Nathaniel Stokes",
+      "country": "SYC",
+      "city": "West Mona",
+      "state": "NC",
+      "address": "299 Meadow View Suite 955",
+      "zip": "75522",
+      "status": 0
+    },
+    {
+      "id": "-qh7q0rRr9ZVs_uEyzW9",
+      "name": "Holly Connelly",
+      "country": "MSR",
+      "city": "Shaniyaborough",
+      "state": "MD",
+      "address": "903 Alma Street Suite 810",
+      "zip": "93337",
+      "status": 0
+    },
+    {
+      "id": "Gwqff0jQUafPorAXv2FC",
+      "name": "Ramiro Veum-Emmerich",
+      "country": "REU",
+      "city": "Zachariahcester",
+      "state": "HI",
+      "address": "30887 Johnson Street Apt. 265",
+      "zip": "85999-8756",
+      "status": 0
+    },
+    {
+      "id": "-8MLDlSWRCrqR9A5WlmT",
+      "name": "Gene Ankunding",
+      "country": "KAZ",
+      "city": "Port Jaden",
+      "state": "NM",
+      "address": "82976 Hillside Close Apt. 536",
+      "zip": "25910-2126",
+      "status": 1
+    },
+    {
+      "id": "-EwIFiTqZlxiWeo6DBbs",
+      "name": "Delores Goldner Sr.",
+      "country": "CRI",
+      "city": "Lavernechester",
+      "state": "RI",
+      "address": "75165 Elliott Club Suite 689",
+      "zip": "57701-3968",
+      "status": 0
+    },
+    {
+      "id": "P74z2Z5dmJpyY3YY368C",
+      "name": "Mr. Justin Rempel-Bruen",
+      "country": "BOL",
+      "city": "New Aliview",
+      "state": "NE",
+      "address": "65593 W Union Street Suite 321",
+      "zip": "42971",
+      "status": 0
+    },
+    {
+      "id": "a8OTaKTpmwnYI7itG4yN",
+      "name": "Alexis Reinger V",
+      "country": "POL",
+      "city": "Waterbury",
+      "state": "PA",
+      "address": "729 N Chestnut Street Suite 236",
+      "zip": "51581-5760",
+      "status": 1
+    },
+    {
+      "id": "_jyYA2TJ5FNPiZ8RRZBM",
+      "name": "Valerie Heaney",
+      "country": "DNK",
+      "city": "Highlands Ranch",
+      "state": "ME",
+      "address": "47387 Donnelly Spring Suite 117",
+      "zip": "75779-0079",
+      "status": 1
+    },
+    {
+      "id": "xcLrpr7JyoLu-Yi2qgVd",
+      "name": "Carole Sawayn",
+      "country": "GRD",
+      "city": "South Yolandahaven",
+      "state": "OH",
+      "address": "3821 Lemke Throughway Apt. 292",
+      "zip": "67331",
+      "status": 1
+    },
+    {
+      "id": "eBacuNe_R9zGOWrn8dG_",
+      "name": "Darryl Kreiger DDS",
+      "country": "TKM",
+      "city": "Randallcester",
+      "state": "AR",
+      "address": "7974 Lavon Manor Apt. 441",
+      "zip": "70812-6376",
+      "status": 1
+    },
+    {
+      "id": "AQMSOO49A_TrMBZQCJXK",
+      "name": "Stewart Tremblay-White",
+      "country": "AZE",
+      "city": "Savannah",
+      "state": "RI",
+      "address": "51209 Coronation Road Suite 550",
+      "zip": "34581",
+      "status": 0
+    },
+    {
+      "id": "HdRv7OzB2lgNnmKNP2vq",
+      "name": "Freda Hammes",
+      "country": "BGD",
+      "city": "South Gracieside",
+      "state": "PA",
+      "address": "4898 Jammie Crossing Apt. 635",
+      "zip": "71265-5790",
+      "status": 0
+    },
+    {
+      "id": "4nPDL5C2uXa8GA-daCEl",
+      "name": "Lorene Botsford",
+      "country": "BTN",
+      "city": "South Dale",
+      "state": "MS",
+      "address": "7107 Lonie Extensions Suite 143",
+      "zip": "02037-0492",
+      "status": 1
+    },
+    {
+      "id": "gI8fMD6SlvygUcQP4bxm",
+      "name": "Mack Bahringer",
+      "country": "CUW",
+      "city": "Hellerborough",
+      "state": "NH",
+      "address": "6829 Archibald Circle Suite 407",
+      "zip": "01275-7216",
+      "status": 0
+    },
+    {
+      "id": "XiK-e27uhQYlJuDVQncK",
+      "name": "Evan Prohaska",
+      "country": "UGA",
+      "city": "New Marguerite",
+      "state": "AK",
+      "address": "43598 N Franklin Street Apt. 757",
+      "zip": "46588",
+      "status": 0
+    },
+    {
+      "id": "ahRSQc5SZ546nsHMm-yR",
+      "name": "Beth Bode",
+      "country": "VGB",
+      "city": "South Romaineborough",
+      "state": "OH",
+      "address": "7014 Mya Orchard Apt. 678",
+      "zip": "93449",
+      "status": 0
+    },
+    {
+      "id": "FD6w7Th3QbsQR4KcwIu3",
+      "name": "Randolph Turcotte",
+      "country": "DNK",
+      "city": "East Lauriane",
+      "state": "VT",
+      "address": "460 Main Apt. 461",
+      "zip": "95641",
+      "status": 1
+    },
+    {
+      "id": "Joh0b74seMdPyfKuQy9n",
+      "name": "Dixie Kuhn",
+      "country": "CRI",
+      "city": "South Albinberg",
+      "state": "KY",
+      "address": "5176 Maximilian Shoals Suite 831",
+      "zip": "37402-5073",
+      "status": 1
+    },
+    {
+      "id": "wUS2l1hEu_HR_GpfbTCF",
+      "name": "Michelle Prosacco",
+      "country": "CHE",
+      "city": "New Wilfred",
+      "state": "OH",
+      "address": "4138 Ethelyn Views Apt. 270",
+      "zip": "37179",
+      "status": 1
+    },
+    {
+      "id": "W71MsLukMaE-cgCqHGmy",
+      "name": "Derrick Kirlin",
+      "country": "TON",
+      "city": "Taunton",
+      "state": "MN",
+      "address": "1039 S Elm Street Suite 134",
+      "zip": "14850",
+      "status": 1
+    },
+    {
+      "id": "7BejlQLKbefc4C8s72E5",
+      "name": "Ruben Upton-Howell",
+      "country": "SLV",
+      "city": "Fort Greyson",
+      "state": "TX",
+      "address": "291 Myrtie Unions Apt. 981",
+      "zip": "83518",
+      "status": 1
+    },
+    {
+      "id": "ohaoeLFCAC-n2MMe7v1D",
+      "name": "Mr. Jean Reilly-Windler PhD",
+      "country": "HKG",
+      "city": "Wisozkport",
+      "state": "AR",
+      "address": "9122 Toy Stravenue Suite 157",
+      "zip": "53413-3818",
+      "status": 0
+    },
+    {
+      "id": "kw1yEU_PVPEB_KlMS_Ew",
+      "name": "Teri Johnston",
+      "country": "NAM",
+      "city": "National City",
+      "state": "MT",
+      "address": "67441 Margarete Path Suite 138",
+      "zip": "28369",
+      "status": 0
+    },
+    {
+      "id": "tID16jCCKi1GHPA6cltA",
+      "name": "Shawna Rau",
+      "country": "POL",
+      "city": "Spring Hill",
+      "state": "ND",
+      "address": "900 London Road Apt. 368",
+      "zip": "59205",
+      "status": 0
+    },
+    {
+      "id": "fQqU5igej1cvbPLd3sFy",
+      "name": "Heidi Schinner",
+      "country": "IRQ",
+      "city": "North Carolinehaven",
+      "state": "UT",
+      "address": "4084 Terry Walks Suite 272",
+      "zip": "53419-0426",
+      "status": 1
+    },
+    {
+      "id": "Nd_rYUSOndaPN-Pj2m4O",
+      "name": "Sally Waters IV",
+      "country": "HUN",
+      "city": "Fort Tierra",
+      "state": "OK",
+      "address": "283 Third Avenue Suite 374",
+      "zip": "80425-8196",
+      "status": 1
+    },
+    {
+      "id": "mt-GkGkphGBz5Td-F0nW",
+      "name": "Dr. Gregory Bechtelar",
+      "country": "NPL",
+      "city": "El Cajon",
+      "state": "OK",
+      "address": "41753 Rohan Centers Suite 970",
+      "zip": "64633",
+      "status": 1
+    },
+    {
+      "id": "ATWzvTEdLsjcFjVSrjOI",
+      "name": "Eduardo Connelly",
+      "country": "NPL",
+      "city": "Port Rogeliostad",
+      "state": "NJ",
+      "address": "79685 Rogahn Mews Suite 306",
+      "zip": "81972-1484",
+      "status": 1
+    },
+    {
+      "id": "W9CdaK_pfGf8pC9E0lPg",
+      "name": "Tommie Corwin",
+      "country": "BTN",
+      "city": "Steuberland",
+      "state": "ID",
+      "address": "9445 Strosin Greens Apt. 189",
+      "zip": "48795-6119",
+      "status": 1
+    },
+    {
+      "id": "9yF7tFfUKhpGuPUETOjG",
+      "name": "Alexandra Jacobs",
+      "country": "BVT",
+      "city": "Willowberg",
+      "state": "IA",
+      "address": "827 Celine Stream Apt. 248",
+      "zip": "17777-6605",
+      "status": 0
+    },
+    {
+      "id": "j9C6QaK12m8XK-fJBov5",
+      "name": "Michael Ledner",
+      "country": "MMR",
+      "city": "Hartmannhaven",
+      "state": "KS",
+      "address": "342 Veum Greens Apt. 625",
+      "zip": "85352-3550",
+      "status": 0
+    },
+    {
+      "id": "v4Bmv-2KdVFTc9H0-FUu",
+      "name": "Stephen Hane I",
+      "country": "NOR",
+      "city": "Lake Kylatown",
+      "state": "WA",
+      "address": "391 Jessika Mall Apt. 697",
+      "zip": "96480-9899",
+      "status": 0
+    },
+    {
+      "id": "_fW2ctNl88kVzy3pdyFL",
+      "name": "Harvey Anderson",
+      "country": "UZB",
+      "city": "Port Rubie",
+      "state": "NH",
+      "address": "99255 Schneider Grove Suite 561",
+      "zip": "31523",
+      "status": 0
+    },
+    {
+      "id": "WLZz-8hZ4FdY3mvwIoI_",
+      "name": "Mrs. Helen Pollich",
+      "country": "HRV",
+      "city": "Nathanaelfort",
+      "state": "SD",
+      "address": "5990 Herta Mount Apt. 946",
+      "zip": "65009-5960",
+      "status": 1
+    },
+    {
+      "id": "tuH0Mls8R2ANx5_FDrub",
+      "name": "Mr. Louis Upton",
+      "country": "VCT",
+      "city": "South Tatummouth",
+      "state": "NE",
+      "address": "79049 Heron Close Suite 808",
+      "zip": "73867",
+      "status": 1
+    },
+    {
+      "id": "iHxtdOHMY-uVmzQxfrdD",
+      "name": "Noel Mohr",
+      "country": "DEU",
+      "city": "Adamstown",
+      "state": "WV",
+      "address": "174 George Street Apt. 490",
+      "zip": "34011-9104",
+      "status": 1
+    },
+    {
+      "id": "mLat3Ta2CWJ6hX-6it_2",
+      "name": "Mrs. Dolores Grady",
+      "country": "GIN",
+      "city": "Aliso Viejo",
+      "state": "ME",
+      "address": "183 Ortiz Dale Suite 302",
+      "zip": "75498",
+      "status": 0
+    },
+    {
+      "id": "zplBhyPe3wHN07YufbHX",
+      "name": "Jan Adams",
+      "country": "SEN",
+      "city": "Fort Kipshire",
+      "state": "MI",
+      "address": "304 Melba Freeway Apt. 932",
+      "zip": "17728",
+      "status": 1
+    },
+    {
+      "id": "8pGNGTAmGpyiWcw79qss",
+      "name": "Dana Mosciski",
+      "country": "PSE",
+      "city": "Trenton",
+      "state": "AL",
+      "address": "166 Ronny Valley Apt. 833",
+      "zip": "14123",
+      "status": 0
+    },
+    {
+      "id": "Z0Q6yKec2IG_0dp0Jx9V",
+      "name": "Elmer Quitzon",
+      "country": "UZB",
+      "city": "Berkeley",
+      "state": "IA",
+      "address": "407 Crescent Road Suite 336",
+      "zip": "73482",
+      "status": 0
+    },
+    {
+      "id": "QkKaeqBocM44iHgbOm58",
+      "name": "Joyce Bernier",
+      "country": "NRU",
+      "city": "Gertrudeport",
+      "state": "AR",
+      "address": "84604 Cassin Valley Apt. 339",
+      "zip": "90163-4020",
+      "status": 0
+    },
+    {
+      "id": "RBQJa8CxBQI3ji74sdgP",
+      "name": "Dr. Patti Krajcik",
+      "country": "HRV",
+      "city": "South Angus",
+      "state": "MA",
+      "address": "76367 McKenzie Shoal Suite 832",
+      "zip": "53306-7005",
+      "status": 0
+    },
+    {
+      "id": "r5W30BTJQFEVqIE3YxBd",
+      "name": "Bridget Collins",
+      "country": "MAF",
+      "city": "West Haven",
+      "state": "UT",
+      "address": "49026 Broadway Avenue Apt. 617",
+      "zip": "21733",
+      "status": 0
+    },
+    {
+      "id": "test408",
+      "name": "Mickey",
+      "country": "KEN",
+      "city": "Canton",
+      "state": "MS",
+      "address": "3660 Leuschke Islands Apt. 704",
+      "zip": "03115",
+      "status": 1
+    },
+    {
+      "id": "test0423",
+      "name": "Mickey",
+      "country": "11",
+      "state": "11",
+      "city": "11",
+      "address": "11",
+      "zip": "11"
+    },
+    {
+      "id": "test0425",
+      "name": "Mickey",
+      "country": "11",
+      "state": "ss",
+      "city": "11",
+      "address": "asdf",
+      "zip": "asdf"
+    },
+    {
+      "id": "test0426",
+      "name": "Mickey",
+      "country": "11",
+      "state": "ss",
+      "city": "11",
+      "address": "asdf",
+      "zip": "asdf"
+    },
+    {
+      "id": "test0429",
+      "name": "Mickey",
+      "country": "11",
+      "state": "11",
+      "city": "11",
+      "address": "asdf",
+      "zip": "asdf"
+    },
+    {
+      "id": "test0432",
+      "name": "Mickey",
+      "country": "11",
+      "state": "ss",
+      "city": "11",
+      "address": "asdf",
+      "zip": "asdf"
+    },
+    {
+      "id": "test04444",
+      "name": "Mickey",
+      "country": "11",
+      "state": "11",
+      "city": "11",
+      "address": "11",
+      "zip": "11"
+    },
+    {
+      "id": "test0445",
+      "name": "Mickey",
+      "country": "11",
+      "state": "11",
+      "city": "11",
+      "address": "11",
+      "zip": "11"
+    },
+    {
+      "id": "test0458",
+      "name": "Mickey",
+      "country": "11",
+      "state": "ss",
+      "city": "11",
+      "address": "11",
+      "zip": "11"
+    },
+    {
+      "id": "test0516",
+      "name": "Mickey",
+      "country": "11",
+      "state": "11",
+      "city": "11",
+      "address": "11",
+      "zip": "11"
+    }
+  ],
+  "orders": [
+    {
+      "id": "Qi38ZF1En5tJxlfGvEU2",
+      "customerID": "DX8vITJJq6oMBfwe-8OC",
+      "totalAmount": 5029.64,
+      "status": 2,
+      "unixSecDate": 1694659365,
+      "saleName": "Simeon"
+    },
+    {
+      "id": "oPTNFGIlGk2xHGQOHOpb",
+      "customerID": "ZZF4NecWnnj4CGIO_hcT",
+      "totalAmount": 8895.26,
+      "status": 0,
+      "unixSecDate": 1698174680,
+      "saleName": "Markus"
+    },
+    {
+      "id": "fotvRpSH-KMEbZuLzkaI",
+      "customerID": "Ue0cz0nlAGPbHGf76fUF",
+      "totalAmount": 9772.65,
+      "status": 2,
+      "unixSecDate": 1724304987,
+      "saleName": "Mafalda"
+    },
+    {
+      "id": "MnIolX-RAsy6UPa5_HpB",
+      "customerID": "RbW23xO70NkYXEOj6ICH",
+      "totalAmount": 6107.69,
+      "status": 1,
+      "unixSecDate": 1707187192,
+      "saleName": "Donnell"
+    },
+    {
+      "id": "Qah2Iq3Ng5WxV56omg0L",
+      "customerID": "Nd_rYUSOndaPN-Pj2m4O",
+      "totalAmount": 7156.08,
+      "status": 0,
+      "unixSecDate": 1695108110,
+      "saleName": "Anissa"
+    },
+    {
+      "id": "3R6N-trCclnFH1Nm9KKd",
+      "customerID": "DfPHRTrUgndRYqZedb6-",
+      "totalAmount": 6977.88,
+      "status": 3,
+      "unixSecDate": 1685678117,
+      "saleName": "Anissa"
+    },
+    {
+      "id": "N6duWOUu-jnYDa-PhjT-",
+      "customerID": "XX1rkMGZnHvQ8LIobSdR",
+      "totalAmount": 8694.65,
+      "status": 2,
+      "unixSecDate": 1693602633,
+      "saleName": "Barrett"
+    },
+    {
+      "id": "IyPJTT3JPpSM_HgHXD2n",
+      "customerID": "DfPHRTrUgndRYqZedb6-",
+      "totalAmount": 4581.4,
+      "status": 1,
+      "unixSecDate": 1731472034,
+      "saleName": "Georgette"
+    },
+    {
+      "id": "2ZM890U53Mx0wqxZcdPL",
+      "customerID": "oN-Cj9pik2oO46y5r9Ck",
+      "totalAmount": 4598.91,
+      "status": 2,
+      "unixSecDate": 1738464068,
+      "saleName": "Talon"
+    },
+    {
+      "id": "ylSmcKD6ACJw6jCrU9hK",
+      "customerID": "XX1rkMGZnHvQ8LIobSdR",
+      "totalAmount": 9058.99,
+      "status": 2,
+      "unixSecDate": 1739007177,
+      "saleName": "Barrett"
+    },
+    {
+      "id": "ljWGuEC15EDyeXPzmJpg",
+      "customerID": "W9CdaK_pfGf8pC9E0lPg",
+      "totalAmount": 1449.42,
+      "status": 1,
+      "unixSecDate": 1727725748,
+      "saleName": "Lulu"
+    },
+    {
+      "id": "Xqu0GhUUIgbKZ3pLVExv",
+      "customerID": "mmlhmnQYI23o9lWUExhS",
+      "totalAmount": 1902.92,
+      "status": 2,
+      "unixSecDate": 1692522325,
+      "saleName": "Mafalda"
+    },
+    {
+      "id": "EhD3XMsVgfH378KCknbE",
+      "customerID": "_fW2ctNl88kVzy3pdyFL",
+      "totalAmount": 5738.89,
+      "status": 1,
+      "unixSecDate": 1712221664,
+      "saleName": "Jordan"
+    },
+    {
+      "id": "xpLp9FCRLjsoxjUNJhox",
+      "customerID": "biCI4uglddtdxtp8xUID",
+      "totalAmount": 7549.43,
+      "status": 1,
+      "unixSecDate": 1726382484,
+      "saleName": "Kari"
+    },
+    {
+      "id": "BL-FKeUdBOjvPM8JnFOc",
+      "customerID": "fQqU5igej1cvbPLd3sFy",
+      "totalAmount": 9143.4,
+      "status": 0,
+      "unixSecDate": 1719559947,
+      "saleName": "Lelia"
+    },
+    {
+      "id": "dksHtOEPDtlYLRLoU2OV",
+      "customerID": "N8FXcBv9byGSI7RnRHhR",
+      "totalAmount": 4203.55,
+      "status": 1,
+      "unixSecDate": 1730899197,
+      "saleName": "Barrett"
+    },
+    {
+      "id": "NKoW2A6iIaRBE7506k0v",
+      "customerID": "mLat3Ta2CWJ6hX-6it_2",
+      "totalAmount": 7668.79,
+      "status": 1,
+      "unixSecDate": 1701424161,
+      "saleName": "Talon"
+    },
+    {
+      "id": "5HlpZKGHQqx9_cGdEibf",
+      "customerID": "XX1rkMGZnHvQ8LIobSdR",
+      "totalAmount": 8774.61,
+      "status": 0,
+      "unixSecDate": 1686925776,
+      "saleName": "Georgette"
+    },
+    {
+      "id": "tDvC34zsWIBUxsKh9XeX",
+      "customerID": "7iXRzKXWCwiq2VPyRMIN",
+      "totalAmount": 4790.15,
+      "status": 3,
+      "unixSecDate": 1722683369,
+      "saleName": "Anissa"
+    },
+    {
+      "id": "Kr_Bjdr0jANqGQCtToCU",
+      "customerID": "WLZz-8hZ4FdY3mvwIoI_",
+      "totalAmount": 5421.81,
+      "status": 0,
+      "unixSecDate": 1710582870,
+      "saleName": "Mafalda"
+    },
+    {
+      "id": "HQknQhwXl3wQVsuAw3pv",
+      "customerID": "HdRv7OzB2lgNnmKNP2vq",
+      "totalAmount": 1840.07,
+      "status": 2,
+      "unixSecDate": 1743344897,
+      "saleName": "Nettie"
+    },
+    {
+      "id": "y_aAGt184wfjCh41u7fa",
+      "customerID": "H2fBWJ9d1SKpSOQEpMEh",
+      "totalAmount": 7894.41,
+      "status": 0,
+      "unixSecDate": 1730220302,
+      "saleName": "Jordan"
+    },
+    {
+      "id": "4GowcgjKIznIv6bFsP8f",
+      "customerID": "N8FXcBv9byGSI7RnRHhR",
+      "totalAmount": 9432.67,
+      "status": 3,
+      "unixSecDate": 1706232356,
+      "saleName": "Jordan"
+    },
+    {
+      "id": "ySseFd-YUAMTdCxL6JPe",
+      "customerID": "eDGyllEsiY7DgOElP5_i",
+      "totalAmount": 6657.77,
+      "status": 3,
+      "unixSecDate": 1717344488,
+      "saleName": "Nettie"
+    },
+    {
+      "id": "vG8rvJcRKCRqkaJzPtqj",
+      "customerID": "eDGyllEsiY7DgOElP5_i",
+      "totalAmount": 7097.16,
+      "status": 2,
+      "unixSecDate": 1704676943,
+      "saleName": "Georgette"
+    },
+    {
+      "id": "-VXjOOCWMGPlyjaD5OXy",
+      "customerID": "mLat3Ta2CWJ6hX-6it_2",
+      "totalAmount": 8670.12,
+      "status": 2,
+      "unixSecDate": 1700264608,
+      "saleName": "Markus"
+    },
+    {
+      "id": "LoIcetjCpxA1ch89mSNB",
+      "customerID": "jdWztsYo2NexjSlvjueU",
+      "totalAmount": 3471.52,
+      "status": 3,
+      "unixSecDate": 1722751538,
+      "saleName": "Simeon"
+    },
+    {
+      "id": "V7AxYE8-mgQ0zYxTxcO0",
+      "customerID": "Ue0cz0nlAGPbHGf76fUF",
+      "totalAmount": 9365.47,
+      "status": 1,
+      "unixSecDate": 1741092092,
+      "saleName": "Lulu"
+    },
+    {
+      "id": "VYMPou93WUMAEdcZMJah",
+      "customerID": "gGndv-H2nxQCHRGDKWgP",
+      "totalAmount": 1703.48,
+      "status": 1,
+      "unixSecDate": 1732004553,
+      "saleName": "Markus"
+    },
+    {
+      "id": "cIAI6W_fn7HKzOzqjc9i",
+      "customerID": "rvv_Asm6afP8_9qdPoLY",
+      "totalAmount": 2305.46,
+      "status": 3,
+      "unixSecDate": 1711069252,
+      "saleName": "Barrett"
+    },
+    {
+      "id": "B0ybcY_Ehjmsc6rkhvxA",
+      "customerID": "FD6w7Th3QbsQR4KcwIu3",
+      "totalAmount": 8842,
+      "status": 1,
+      "unixSecDate": 1724385038,
+      "saleName": "Eliseo"
+    },
+    {
+      "id": "jQdcbMxBfR7bVpis59wc",
+      "customerID": "HdRv7OzB2lgNnmKNP2vq",
+      "totalAmount": 1184.91,
+      "status": 3,
+      "unixSecDate": 1697497056,
+      "saleName": "Talon"
+    },
+    {
+      "id": "ozPkB1dVTfayiC9zxNXk",
+      "customerID": "hn5NIMynJhqjVwc0Xr1u",
+      "totalAmount": 960.65,
+      "status": 3,
+      "unixSecDate": 1686290060,
+      "saleName": "Raoul"
+    },
+    {
+      "id": "v8vgF8gU1-gwzqpBYq4r",
+      "customerID": "WQ3AF0OGOJjoKPSer7K0",
+      "totalAmount": 8440.12,
+      "status": 2,
+      "unixSecDate": 1694504346,
+      "saleName": "Barrett"
+    },
+    {
+      "id": "TBUdbQoiSlw3l1r5DIFx",
+      "customerID": "kw1yEU_PVPEB_KlMS_Ew",
+      "totalAmount": 103.16,
+      "status": 0,
+      "unixSecDate": 1719453922,
+      "saleName": "Raoul"
+    },
+    {
+      "id": "aY8mxHkmBNxv8ApzAuwe",
+      "customerID": "ATWzvTEdLsjcFjVSrjOI",
+      "totalAmount": 8841.41,
+      "status": 2,
+      "unixSecDate": 1737547976,
+      "saleName": "Ines"
+    },
+    {
+      "id": "i1ytlqiC7DFcVxquMf-A",
+      "customerID": "0zkXBFaiBHlo8yqRAdqK",
+      "totalAmount": 4234.01,
+      "status": 1,
+      "unixSecDate": 1711962908,
+      "saleName": "Mckayla"
+    },
+    {
+      "id": "zml7Zn0srqTX3u9cgroJ",
+      "customerID": "H-95JryGidkV1345dOpw",
+      "totalAmount": 9950.61,
+      "status": 3,
+      "unixSecDate": 1736362390,
+      "saleName": "Donnell"
+    },
+    {
+      "id": "o4RKsy5CWLO0BlViue_x",
+      "customerID": "N8FXcBv9byGSI7RnRHhR",
+      "totalAmount": 3662.39,
+      "status": 3,
+      "unixSecDate": 1713770340,
+      "saleName": "Georgette"
+    },
+    {
+      "id": "_MyTqeIEFbl5S8ZULQip",
+      "customerID": "rvv_Asm6afP8_9qdPoLY",
+      "totalAmount": 1208.4,
+      "status": 2,
+      "unixSecDate": 1695547590,
+      "saleName": "Talon"
+    },
+    {
+      "id": "NLub7dcmhXFyAfAdW2G6",
+      "customerID": "eBacuNe_R9zGOWrn8dG_",
+      "totalAmount": 344.09,
+      "status": 2,
+      "unixSecDate": 1735224435,
+      "saleName": "Eleonore"
+    },
+    {
+      "id": "HZfrHuTAR8AhdVCXDeZe",
+      "customerID": "FDvRHd9STBxcTpeILSCd",
+      "totalAmount": 9892.77,
+      "status": 2,
+      "unixSecDate": 1698427201,
+      "saleName": "Georgette"
+    },
+    {
+      "id": "krd06xeK8RjQx_SQSUCJ",
+      "customerID": "7iXRzKXWCwiq2VPyRMIN",
+      "totalAmount": 6589.19,
+      "status": 0,
+      "unixSecDate": 1691766484,
+      "saleName": "Markus"
+    },
+    {
+      "id": "katjrFgeOZlst6UfPiaz",
+      "customerID": "KxueeX-B--l1TCEIv6aq",
+      "totalAmount": 5486.2,
+      "status": 2,
+      "unixSecDate": 1699917525,
+      "saleName": "Raoul"
+    },
+    {
+      "id": "KQWrzwPv88r0ziJlqaSK",
+      "customerID": "WLZz-8hZ4FdY3mvwIoI_",
+      "totalAmount": 4975.36,
+      "status": 1,
+      "unixSecDate": 1711387009,
+      "saleName": "Jordan"
+    },
+    {
+      "id": "BNUJntSg-hmuk_iz_9Do",
+      "customerID": "KxueeX-B--l1TCEIv6aq",
+      "totalAmount": 9248.61,
+      "status": 2,
+      "unixSecDate": 1726604635,
+      "saleName": "Monique"
+    },
+    {
+      "id": "8YCaN0rjcyfJ55IUBTA3",
+      "customerID": "a8OTaKTpmwnYI7itG4yN",
+      "totalAmount": 9653.7,
+      "status": 1,
+      "unixSecDate": 1739682247,
+      "saleName": "Simeon"
+    },
+    {
+      "id": "uCMHA3Na1kLvdOMtKZft",
+      "customerID": "wAOwDJksJuir9kNujrjk",
+      "totalAmount": 4677.59,
+      "status": 2,
+      "unixSecDate": 1680649437,
+      "saleName": "Talon"
+    },
+    {
+      "id": "-r0xelMxVC0NhdexfUz6",
+      "customerID": "jdWztsYo2NexjSlvjueU",
+      "totalAmount": 7174.72,
+      "status": 1,
+      "unixSecDate": 1714624484,
+      "saleName": "Barrett"
+    },
+    {
+      "id": "vD-1GhxNWUmRqKAjDeAo",
+      "customerID": "ATWzvTEdLsjcFjVSrjOI",
+      "totalAmount": 6207.14,
+      "status": 0,
+      "unixSecDate": 1708858251,
+      "saleName": "Simeon"
+    },
+    {
+      "id": "PAfUobcg5asjseTG6QGx",
+      "customerID": "DLCXBnYA_p6xMQ3cNr4s",
+      "totalAmount": 2751.59,
+      "status": 0,
+      "unixSecDate": 1689838993,
+      "saleName": "Kari"
+    },
+    {
+      "id": "DVJGto2rfVCENR5MpoF-",
+      "customerID": "Joh0b74seMdPyfKuQy9n",
+      "totalAmount": 5077.12,
+      "status": 2,
+      "unixSecDate": 1704586219,
+      "saleName": "Jordan"
+    },
+    {
+      "id": "07QQ5fhVWr9bXSlrSioJ",
+      "customerID": "QrIfEl-vqX5T5-lw40A0",
+      "totalAmount": 2044.09,
+      "status": 2,
+      "unixSecDate": 1735131846,
+      "saleName": "Georgette"
+    },
+    {
+      "id": "9ClaJp1Y5wpE9GS7LOiF",
+      "customerID": "v4Bmv-2KdVFTc9H0-FUu",
+      "totalAmount": 4110.39,
+      "status": 3,
+      "unixSecDate": 1708888221,
+      "saleName": "Kari"
+    },
+    {
+      "id": "xetRn77AjKciRBYloA0_",
+      "customerID": "H-95JryGidkV1345dOpw",
+      "totalAmount": 6214.21,
+      "status": 1,
+      "unixSecDate": 1697459509,
+      "saleName": "Lelia"
+    },
+    {
+      "id": "KPaw2NtkboxgxqWZ54iP",
+      "customerID": "RBQJa8CxBQI3ji74sdgP",
+      "totalAmount": 9513.16,
+      "status": 2,
+      "unixSecDate": 1688368077,
+      "saleName": "Nettie"
+    },
+    {
+      "id": "9sLkgzUaNANmKS4HuLr1",
+      "customerID": "JiYScuEsqmnHgblT-fCT",
+      "totalAmount": 1906.86,
+      "status": 0,
+      "unixSecDate": 1711421508,
+      "saleName": "Eleonore"
+    },
+    {
+      "id": "60j-0lbTl-gNxPNOZyzM",
+      "customerID": "DX8vITJJq6oMBfwe-8OC",
+      "totalAmount": 175.64,
+      "status": 1,
+      "unixSecDate": 1715160764,
+      "saleName": "Mafalda"
+    },
+    {
+      "id": "31w_BHPcM4BARp0A8f7K",
+      "customerID": "lRrkA_E_u5rmakVQV-aQ",
+      "totalAmount": 8916.41,
+      "status": 1,
+      "unixSecDate": 1737749007,
+      "saleName": "Lelia"
+    },
+    {
+      "id": "FbCqt5tJQtLEJuB-ROSn",
+      "customerID": "P74z2Z5dmJpyY3YY368C",
+      "totalAmount": 8915.02,
+      "status": 1,
+      "unixSecDate": 1726219970,
+      "saleName": "Anissa"
+    },
+    {
+      "id": "Mlbd2raHKFsxXADEOwBH",
+      "customerID": "tID16jCCKi1GHPA6cltA",
+      "totalAmount": 1605.27,
+      "status": 2,
+      "unixSecDate": 1690644739,
+      "saleName": "Mafalda"
+    },
+    {
+      "id": "tQph3ZqVIsgA4cMc0ZS9",
+      "customerID": "RBQJa8CxBQI3ji74sdgP",
+      "totalAmount": 5440.63,
+      "status": 0,
+      "unixSecDate": 1732885040,
+      "saleName": "Ines"
+    },
+    {
+      "id": "jThC7EekNvIJ1ru8vAWy",
+      "customerID": "P74z2Z5dmJpyY3YY368C",
+      "totalAmount": 8951.87,
+      "status": 1,
+      "unixSecDate": 1700000772,
+      "saleName": "Mafalda"
+    },
+    {
+      "id": "KWeKTXh9RogrkVECqKAp",
+      "customerID": "zplBhyPe3wHN07YufbHX",
+      "totalAmount": 6744.42,
+      "status": 3,
+      "unixSecDate": 1731681039,
+      "saleName": "Eleonore"
+    },
+    {
+      "id": "mV6moAbRBs1YtrcSQgau",
+      "customerID": "JiYScuEsqmnHgblT-fCT",
+      "totalAmount": 9645.86,
+      "status": 3,
+      "unixSecDate": 1728037006,
+      "saleName": "Eliseo"
+    },
+    {
+      "id": "gKRfmVp8B8SJ56wC89pv",
+      "customerID": "taQ2J0pDq6XockUIW01n",
+      "totalAmount": 427.39,
+      "status": 0,
+      "unixSecDate": 1713723701,
+      "saleName": "Monique"
+    },
+    {
+      "id": "gpYAjjdgzyz1zkESsrTx",
+      "customerID": "DfPHRTrUgndRYqZedb6-",
+      "totalAmount": 1563.36,
+      "status": 1,
+      "unixSecDate": 1724695855,
+      "saleName": "Ines"
+    },
+    {
+      "id": "gCXcAzHh7c998YO9aay7",
+      "customerID": "_fW2ctNl88kVzy3pdyFL",
+      "totalAmount": 3246.25,
+      "status": 1,
+      "unixSecDate": 1713762564,
+      "saleName": "Mafalda"
+    },
+    {
+      "id": "tp24-8h4iKwq74WwyuGk",
+      "customerID": "ATWzvTEdLsjcFjVSrjOI",
+      "totalAmount": 5598.33,
+      "status": 1,
+      "unixSecDate": 1724449199,
+      "saleName": "Kari"
+    },
+    {
+      "id": "pyQRMS3r7cOi0kYus8F3",
+      "customerID": "z21oRF0qzZM7r_BaN8-e",
+      "totalAmount": 855.97,
+      "status": 1,
+      "unixSecDate": 1704329906,
+      "saleName": "Jordan"
+    },
+    {
+      "id": "xAQ8caWm-w0Dw1lW100j",
+      "customerID": "rvv_Asm6afP8_9qdPoLY",
+      "totalAmount": 4771.94,
+      "status": 2,
+      "unixSecDate": 1707824128,
+      "saleName": "Kari"
+    },
+    {
+      "id": "Gl-nEPFQPRYBvYaZySny",
+      "customerID": "kw1yEU_PVPEB_KlMS_Ew",
+      "totalAmount": 8192.76,
+      "status": 2,
+      "unixSecDate": 1706449432,
+      "saleName": "Mafalda"
+    },
+    {
+      "id": "3cAZDTpWKu1V5UFRuyxj",
+      "customerID": "BQPf38IHlWniDIlu3Bh2",
+      "totalAmount": 4545.01,
+      "status": 0,
+      "unixSecDate": 1687839245,
+      "saleName": "Lulu"
+    },
+    {
+      "id": "bcigfdKmHh4Zae4uHKyx",
+      "customerID": "Joh0b74seMdPyfKuQy9n",
+      "totalAmount": 5238.66,
+      "status": 0,
+      "unixSecDate": 1697024818,
+      "saleName": "Ines"
+    },
+    {
+      "id": "7kME2AjMn0HtpfzubHMv",
+      "customerID": "var9VF11onIW2NxA-uMb",
+      "totalAmount": 6177.7,
+      "status": 3,
+      "unixSecDate": 1681942308,
+      "saleName": "Lelia"
+    },
+    {
+      "id": "Umi1Tu4EVEQBtUdxyRqg",
+      "customerID": "vZeUcpro0wNPv95r0Qjv",
+      "totalAmount": 5756.38,
+      "status": 0,
+      "unixSecDate": 1719557820,
+      "saleName": "Jordan"
+    },
+    {
+      "id": "T97iEwFHyhNWTfy8OEGk",
+      "customerID": "Pxgcl9_9wch1WPfya4gt",
+      "totalAmount": 667.64,
+      "status": 3,
+      "unixSecDate": 1693810232,
+      "saleName": "Ines"
+    },
+    {
+      "id": "p08tws-vL99FUzm6McQn",
+      "customerID": "9yF7tFfUKhpGuPUETOjG",
+      "totalAmount": 3795.65,
+      "status": 2,
+      "unixSecDate": 1702016098,
+      "saleName": "Monique"
+    },
+    {
+      "id": "qPdw7L9tOGhLxbFPudLn",
+      "customerID": "Joh0b74seMdPyfKuQy9n",
+      "totalAmount": 8106.76,
+      "status": 1,
+      "unixSecDate": 1680575819,
+      "saleName": "Monique"
+    },
+    {
+      "id": "-AsTsMv_Mcy7w8dM3bvI",
+      "customerID": "_fW2ctNl88kVzy3pdyFL",
+      "totalAmount": 5711.09,
+      "status": 1,
+      "unixSecDate": 1700855648,
+      "saleName": "Eleonore"
+    },
+    {
+      "id": "ACQdrynnHt5QMWSjswg3",
+      "customerID": "var9VF11onIW2NxA-uMb",
+      "totalAmount": 3370.65,
+      "status": 1,
+      "unixSecDate": 1726529410,
+      "saleName": "Mckayla"
+    },
+    {
+      "id": "kMkD4-gn05eWrVQdI8IJ",
+      "customerID": "aS-TfrneJIPetdVQJl8J",
+      "totalAmount": 2095.43,
+      "status": 1,
+      "unixSecDate": 1708960033,
+      "saleName": "Ines"
+    },
+    {
+      "id": "OGPtD5zl7GFXAkdVGgO6",
+      "customerID": "vZeUcpro0wNPv95r0Qjv",
+      "totalAmount": 9247.37,
+      "status": 0,
+      "unixSecDate": 1709373173,
+      "saleName": "Donnell"
+    },
+    {
+      "id": "ZPeCyeXCxv4IowhlexW4",
+      "customerID": "N8FXcBv9byGSI7RnRHhR",
+      "totalAmount": 7357.86,
+      "status": 3,
+      "unixSecDate": 1695416643,
+      "saleName": "Eliseo"
+    },
+    {
+      "id": "sysD1Uzmt7yf3ws07JHD",
+      "customerID": "4nPDL5C2uXa8GA-daCEl",
+      "totalAmount": 8693,
+      "status": 2,
+      "unixSecDate": 1703609580,
+      "saleName": "Georgette"
+    },
+    {
+      "id": "YMqq9umQyfEGSoUt4wHA",
+      "customerID": "WLZz-8hZ4FdY3mvwIoI_",
+      "totalAmount": 2549.28,
+      "status": 3,
+      "unixSecDate": 1702759083,
+      "saleName": "Mckayla"
+    },
+    {
+      "id": "lRjoABkybIDB3-aDiydX",
+      "customerID": "oN-Cj9pik2oO46y5r9Ck",
+      "totalAmount": 8670,
+      "status": 2,
+      "unixSecDate": 1736290091,
+      "saleName": "Nettie"
+    },
+    {
+      "id": "xpXUpOBO8C2TFDZSkpZt",
+      "customerID": "_jyYA2TJ5FNPiZ8RRZBM",
+      "totalAmount": 6916.08,
+      "status": 2,
+      "unixSecDate": 1699965036,
+      "saleName": "Nettie"
+    },
+    {
+      "id": "JQ7naFmDw6S9HpZ8yGQ_",
+      "customerID": "zplBhyPe3wHN07YufbHX",
+      "totalAmount": 5136.66,
+      "status": 1,
+      "unixSecDate": 1726962209,
+      "saleName": "Mckayla"
+    },
+    {
+      "id": "bXittpZ687Aex5ndJXzK",
+      "customerID": "jdWztsYo2NexjSlvjueU",
+      "totalAmount": 8354.07,
+      "status": 2,
+      "unixSecDate": 1714179502,
+      "saleName": "Donnell"
+    },
+    {
+      "id": "_NF1DrU3_G0l8t8kItli",
+      "customerID": "v4Bmv-2KdVFTc9H0-FUu",
+      "totalAmount": 9529.06,
+      "status": 0,
+      "unixSecDate": 1715141680,
+      "saleName": "Monique"
+    },
+    {
+      "id": "0hRIdUfM5p4CHVqNgNFs",
+      "customerID": "WLZz-8hZ4FdY3mvwIoI_",
+      "totalAmount": 7719.19,
+      "status": 0,
+      "unixSecDate": 1732464038,
+      "saleName": "Kari"
+    },
+    {
+      "id": "PBUNZYc9o7fPjmw3hfgd",
+      "customerID": "a8OTaKTpmwnYI7itG4yN",
+      "totalAmount": 4390.9,
+      "status": 1,
+      "unixSecDate": 1739181506,
+      "saleName": "Eliseo"
+    },
+    {
+      "id": "9PbtfjiAvosAOy2fyf1p",
+      "customerID": "mLat3Ta2CWJ6hX-6it_2",
+      "totalAmount": 6259.14,
+      "status": 2,
+      "unixSecDate": 1742509914,
+      "saleName": "Markus"
+    },
+    {
+      "id": "CrqnYHOSEs-AcPDOeS_v",
+      "customerID": "QBXmGbKqqcpwmJtlH-qb",
+      "totalAmount": 9254.83,
+      "status": 1,
+      "unixSecDate": 1735206969,
+      "saleName": "Mafalda"
+    },
+    {
+      "id": "0CbHB9Up--4cA1aUmi7w",
+      "customerID": "BQPf38IHlWniDIlu3Bh2",
+      "totalAmount": 303.18,
+      "status": 0,
+      "unixSecDate": 1731833367,
+      "saleName": "Lelia"
+    },
+    {
+      "id": "YdXKkCta1apDJlZdyGag",
+      "customerID": "mt-GkGkphGBz5Td-F0nW",
+      "totalAmount": 1370.09,
+      "status": 1,
+      "unixSecDate": 1741294376,
+      "saleName": "Markus"
+    },
+    {
+      "id": "WIIALj3T2ImqO0bHW-1p",
+      "customerID": "DfPHRTrUgndRYqZedb6-",
+      "totalAmount": 8462.58,
+      "status": 0,
+      "unixSecDate": 1730954718,
+      "saleName": "Mafalda"
+    },
+    {
+      "id": "5Vrk-OWOLVHmCazYGge5",
+      "customerID": "mmlhmnQYI23o9lWUExhS",
+      "totalAmount": 4473.58,
+      "status": 3,
+      "unixSecDate": 1740826562,
+      "saleName": "Jordan"
+    },
+    {
+      "id": "l55kHSigKxdgGdI09dOt",
+      "customerID": "4F5rdfgzqNFQ2E2-THX-",
+      "totalAmount": 6754.18,
+      "status": 2,
+      "unixSecDate": 1696347013,
+      "saleName": "Barrett"
+    },
+    {
+      "id": "kQkJ_hqrn_AbowIhWHEd",
+      "customerID": "SAujjKGjErr-4D_MMScx",
+      "totalAmount": 8347.93,
+      "status": 1,
+      "unixSecDate": 1684742597,
+      "saleName": "Monique"
+    },
+    {
+      "id": "roEo-lfhzV65z_XdVgzK",
+      "customerID": "SAujjKGjErr-4D_MMScx",
+      "totalAmount": 5700.63,
+      "status": 3,
+      "unixSecDate": 1737624663,
+      "saleName": "Markus"
+    },
+    {
+      "id": "ZrTz1XMbXhBnNbt-MXR3",
+      "customerID": "kfp1yN9tezYvYdEE_RK9",
+      "totalAmount": 8742.37,
+      "status": 1,
+      "unixSecDate": 1696119532,
+      "saleName": "Eleonore"
+    },
+    {
+      "id": "mDnbAmq83Bqz5G-aFnmc",
+      "customerID": "ohaoeLFCAC-n2MMe7v1D",
+      "totalAmount": 3817.03,
+      "status": 2,
+      "unixSecDate": 1734425549,
+      "saleName": "Barrett"
+    },
+    {
+      "id": "IDtpKKpO2g47ushKLzVe",
+      "customerID": "Z0Q6yKec2IG_0dp0Jx9V",
+      "totalAmount": 630.08,
+      "status": 3,
+      "unixSecDate": 1703901227,
+      "saleName": "Kari"
+    },
+    {
+      "id": "rTyyRaf7vym21jLj1CmL",
+      "customerID": "N8FXcBv9byGSI7RnRHhR",
+      "totalAmount": 6652.51,
+      "status": 1,
+      "unixSecDate": 1710413632,
+      "saleName": "Talon"
+    },
+    {
+      "id": "suzPlU8ZLWZzwaXgMHLB",
+      "customerID": "ATWzvTEdLsjcFjVSrjOI",
+      "totalAmount": 1045.76,
+      "status": 2,
+      "unixSecDate": 1740570975,
+      "saleName": "Jordan"
+    },
+    {
+      "id": "wG05fXDpKvBWdiveiXNl",
+      "customerID": "eBacuNe_R9zGOWrn8dG_",
+      "totalAmount": 9499.34,
+      "status": 0,
+      "unixSecDate": 1716646015,
+      "saleName": "Lelia"
+    },
+    {
+      "id": "b3Z9H7qDKWBe3UfpEnGU",
+      "customerID": "lRrkA_E_u5rmakVQV-aQ",
+      "totalAmount": 6425.34,
+      "status": 0,
+      "unixSecDate": 1683723969,
+      "saleName": "Georgette"
+    },
+    {
+      "id": "HJja8d4sVNHc8qLLopVY",
+      "customerID": "DfPHRTrUgndRYqZedb6-",
+      "totalAmount": 1903.8,
+      "status": 1,
+      "unixSecDate": 1743564570,
+      "saleName": "Eliseo"
+    },
+    {
+      "id": "GuerPm5B_PcfOaiq9han",
+      "customerID": "W9CdaK_pfGf8pC9E0lPg",
+      "totalAmount": 3352.48,
+      "status": 2,
+      "unixSecDate": 1695245521,
+      "saleName": "Giovanna"
+    },
+    {
+      "id": "-dteDsQTuLWjvgMQ2L1V",
+      "customerID": "lRrkA_E_u5rmakVQV-aQ",
+      "totalAmount": 285.3,
+      "status": 0,
+      "unixSecDate": 1737587182,
+      "saleName": "Anissa"
+    },
+    {
+      "id": "o2no54Mnfp8Vt-JLpM2Z",
+      "customerID": "HdRv7OzB2lgNnmKNP2vq",
+      "totalAmount": 7380.04,
+      "status": 3,
+      "unixSecDate": 1729079166,
+      "saleName": "Lelia"
+    },
+    {
+      "id": "Xfy2smZOfgbNwi9Z3KzO",
+      "customerID": "gI8fMD6SlvygUcQP4bxm",
+      "totalAmount": 7342.06,
+      "status": 1,
+      "unixSecDate": 1703429630,
+      "saleName": "Eleonore"
+    },
+    {
+      "id": "2YoaT-dljt0pSRbq4SCs",
+      "customerID": "V2OuUChpJ9cd1pZu9V-5",
+      "totalAmount": 1420.32,
+      "status": 2,
+      "unixSecDate": 1727609881,
+      "saleName": "Markus"
+    },
+    {
+      "id": "wxCHoE2EhXE8B3QGcVbg",
+      "customerID": "BQPf38IHlWniDIlu3Bh2",
+      "totalAmount": 5593,
+      "status": 2,
+      "unixSecDate": 1726455096,
+      "saleName": "Nettie"
+    },
+    {
+      "id": "MpCyJSOLp5LpC48NSLWO",
+      "customerID": "r5W30BTJQFEVqIE3YxBd",
+      "totalAmount": 8144.15,
+      "status": 2,
+      "unixSecDate": 1693365714,
+      "saleName": "Ines"
+    },
+    {
+      "id": "13AeLPIOPIpji6tYM96c",
+      "customerID": "XX1rkMGZnHvQ8LIobSdR",
+      "totalAmount": 6199.32,
+      "status": 0,
+      "unixSecDate": 1734866571,
+      "saleName": "Anissa"
+    },
+    {
+      "id": "vuc-bJ5cTemltG58KLU2",
+      "customerID": "XiK-e27uhQYlJuDVQncK",
+      "totalAmount": 6314.75,
+      "status": 1,
+      "unixSecDate": 1731132743,
+      "saleName": "Eliseo"
+    },
+    {
+      "id": "VmVPwK1NKyTfQHs6TJVW",
+      "customerID": "KxueeX-B--l1TCEIv6aq",
+      "totalAmount": 2690.96,
+      "status": 3,
+      "unixSecDate": 1743482849,
+      "saleName": "Markus"
+    },
+    {
+      "id": "mv_N-17rsc3DslqKoNww",
+      "customerID": "hn5NIMynJhqjVwc0Xr1u",
+      "totalAmount": 6202.15,
+      "status": 3,
+      "unixSecDate": 1689046701,
+      "saleName": "Georgette"
+    },
+    {
+      "id": "78GxuKkSCvDLPy-pJJ6F",
+      "customerID": "taQ2J0pDq6XockUIW01n",
+      "totalAmount": 8397.96,
+      "status": 1,
+      "unixSecDate": 1735492907,
+      "saleName": "Mafalda"
+    },
+    {
+      "id": "Q3vfFHKi1_MFAyq9xzi9",
+      "customerID": "7hZErXwXFj6XEgeC3umW",
+      "totalAmount": 1086.19,
+      "status": 1,
+      "unixSecDate": 1735789213,
+      "saleName": "Talon"
+    },
+    {
+      "id": "QwwClDsEROHbu2D7ZFP5",
+      "customerID": "kfp1yN9tezYvYdEE_RK9",
+      "totalAmount": 4415.14,
+      "status": 3,
+      "unixSecDate": 1741488563,
+      "saleName": "Lulu"
+    },
+    {
+      "id": "HkCqOYiQsu3jt_lpx6P2",
+      "customerID": "yHmhBC1zDWHEQD-stqPU",
+      "totalAmount": 818.67,
+      "status": 2,
+      "unixSecDate": 1694920173,
+      "saleName": "Giovanna"
+    },
+    {
+      "id": "v1mCTMGmxyYovPC_9lRr",
+      "customerID": "j9C6QaK12m8XK-fJBov5",
+      "totalAmount": 2206.31,
+      "status": 0,
+      "unixSecDate": 1741303082,
+      "saleName": "Eliseo"
+    },
+    {
+      "id": "zY1MwRq_f2kxPn1_ZuJd",
+      "customerID": "fZpya23cBoFjT0oLP89a",
+      "totalAmount": 9568.62,
+      "status": 2,
+      "unixSecDate": 1719367954,
+      "saleName": "Talon"
+    },
+    {
+      "id": "DqURj0Z0jVwBPrpADKw4",
+      "customerID": "iHxtdOHMY-uVmzQxfrdD",
+      "totalAmount": 1805.88,
+      "status": 3,
+      "unixSecDate": 1712451515,
+      "saleName": "Giovanna"
+    },
+    {
+      "id": "18ioW9pNbm1M_lvl7c6r",
+      "customerID": "XiK-e27uhQYlJuDVQncK",
+      "totalAmount": 8340.66,
+      "status": 2,
+      "unixSecDate": 1716768771,
+      "saleName": "Mafalda"
+    },
+    {
+      "id": "migF7GLZDVINaX83ZrZr",
+      "customerID": "V2OuUChpJ9cd1pZu9V-5",
+      "totalAmount": 9283.88,
+      "status": 3,
+      "unixSecDate": 1727225568,
+      "saleName": "Georgette"
+    },
+    {
+      "id": "1Ibo_p3iLlsxkqWL1cob",
+      "customerID": "vZeUcpro0wNPv95r0Qjv",
+      "totalAmount": 431.9,
+      "status": 2,
+      "unixSecDate": 1711613916,
+      "saleName": "Mckayla"
+    },
+    {
+      "id": "fLPG5k57YaN8Tu7USZE3",
+      "customerID": "_jyYA2TJ5FNPiZ8RRZBM",
+      "totalAmount": 1261.05,
+      "status": 0,
+      "unixSecDate": 1718614705,
+      "saleName": "Markus"
+    },
+    {
+      "id": "kyoAwmnY6vEyjA1pYg9U",
+      "customerID": "JiYScuEsqmnHgblT-fCT",
+      "totalAmount": 1069.95,
+      "status": 2,
+      "unixSecDate": 1689462164,
+      "saleName": "Ines"
+    },
+    {
+      "id": "dvSA36qCiIVc9UTqiz34",
+      "customerID": "zplBhyPe3wHN07YufbHX",
+      "totalAmount": 5405.75,
+      "status": 1,
+      "unixSecDate": 1715249300,
+      "saleName": "Lelia"
+    },
+    {
+      "id": "mEhZQBPCUJDWpIBnjYx4",
+      "customerID": "AQMSOO49A_TrMBZQCJXK",
+      "totalAmount": 5975.84,
+      "status": 1,
+      "unixSecDate": 1715579365,
+      "saleName": "Kari"
+    },
+    {
+      "id": "U9MP0_glN-kggeqD5Krg",
+      "customerID": "N8FXcBv9byGSI7RnRHhR",
+      "totalAmount": 9115.54,
+      "status": 3,
+      "unixSecDate": 1738144822,
+      "saleName": "Monique"
+    },
+    {
+      "id": "zjMCEmI54wfpB-Jtm4e0",
+      "customerID": "a8OTaKTpmwnYI7itG4yN",
+      "totalAmount": 3781.92,
+      "status": 0,
+      "unixSecDate": 1704312352,
+      "saleName": "Ines"
+    },
+    {
+      "id": "IBYJHFrdYyRCCvsXSsex",
+      "customerID": "var9VF11onIW2NxA-uMb",
+      "totalAmount": 7089.34,
+      "status": 3,
+      "unixSecDate": 1697319301,
+      "saleName": "Ines"
+    },
+    {
+      "id": "o2aNVZ6zTYM8qHxDaYy9",
+      "customerID": "FDvRHd9STBxcTpeILSCd",
+      "totalAmount": 8226.51,
+      "status": 0,
+      "unixSecDate": 1717319108,
+      "saleName": "Simeon"
+    },
+    {
+      "id": "dDBsAiBo3j4eoVgN2clS",
+      "customerID": "W71MsLukMaE-cgCqHGmy",
+      "totalAmount": 5468.44,
+      "status": 3,
+      "unixSecDate": 1686508121,
+      "saleName": "Nettie"
+    },
+    {
+      "id": "tc8gSWxrkBnWkXFpniOf",
+      "customerID": "7iXRzKXWCwiq2VPyRMIN",
+      "totalAmount": 8024.09,
+      "status": 1,
+      "unixSecDate": 1737120094,
+      "saleName": "Simeon"
+    },
+    {
+      "id": "BRnlQBtkddB1WiZYZABW",
+      "customerID": "mt-GkGkphGBz5Td-F0nW",
+      "totalAmount": 9484.19,
+      "status": 1,
+      "unixSecDate": 1695094790,
+      "saleName": "Mafalda"
+    },
+    {
+      "id": "7tkMljONg036TUGW00ec",
+      "customerID": "fQqU5igej1cvbPLd3sFy",
+      "totalAmount": 2313.41,
+      "status": 2,
+      "unixSecDate": 1731091975,
+      "saleName": "Eleonore"
+    },
+    {
+      "id": "yTHLSywOMOGquG_Hntx2",
+      "customerID": "a8OTaKTpmwnYI7itG4yN",
+      "totalAmount": 4523.14,
+      "status": 2,
+      "unixSecDate": 1734076162,
+      "saleName": "Kari"
+    },
+    {
+      "id": "68pGwWjd6Z3OThnI1rmn",
+      "customerID": "SAujjKGjErr-4D_MMScx",
+      "totalAmount": 8766.55,
+      "status": 0,
+      "unixSecDate": 1725885461,
+      "saleName": "Mckayla"
+    },
+    {
+      "id": "RIMMyHoYFbYZuBpug0YG",
+      "customerID": "Gwqff0jQUafPorAXv2FC",
+      "totalAmount": 6468.92,
+      "status": 2,
+      "unixSecDate": 1680661446,
+      "saleName": "Markus"
+    },
+    {
+      "id": "pjjfRjh2Rh5AnG9eSYHH",
+      "customerID": "var9VF11onIW2NxA-uMb",
+      "totalAmount": 9020.4,
+      "status": 0,
+      "unixSecDate": 1743486469,
+      "saleName": "Georgette"
+    },
+    {
+      "id": "iXATMV0e12Vqb2rF9ryq",
+      "customerID": "wUS2l1hEu_HR_GpfbTCF",
+      "totalAmount": 1335.9,
+      "status": 1,
+      "unixSecDate": 1728707618,
+      "saleName": "Anissa"
+    },
+    {
+      "id": "9QRR6dVcTITzn16kN6_n",
+      "customerID": "XiK-e27uhQYlJuDVQncK",
+      "totalAmount": 2509.44,
+      "status": 1,
+      "unixSecDate": 1712932557,
+      "saleName": "Nettie"
+    },
+    {
+      "id": "p7S32I79-2v1DGU7AGlX",
+      "customerID": "xcLrpr7JyoLu-Yi2qgVd",
+      "totalAmount": 4543.55,
+      "status": 2,
+      "unixSecDate": 1692306425,
+      "saleName": "Raoul"
+    },
+    {
+      "id": "9MurGsoJ3FKXhgRGE-XW",
+      "customerID": "lRrkA_E_u5rmakVQV-aQ",
+      "totalAmount": 8701.55,
+      "status": 1,
+      "unixSecDate": 1727757901,
+      "saleName": "Lulu"
+    },
+    {
+      "id": "ELL8zAhsKv9MXzVAhmt6",
+      "customerID": "gGndv-H2nxQCHRGDKWgP",
+      "totalAmount": 3993.87,
+      "status": 2,
+      "unixSecDate": 1741092353,
+      "saleName": "Lelia"
+    },
+    {
+      "id": "1O50IEFQ_bGEI8_7fTgx",
+      "customerID": "yZl6JmB5ZC4OTyF4yKMP",
+      "totalAmount": 4215.23,
+      "status": 3,
+      "unixSecDate": 1732884293,
+      "saleName": "Markus"
+    },
+    {
+      "id": "SzsUcXxPn3A4VJjMiaVq",
+      "customerID": "W71MsLukMaE-cgCqHGmy",
+      "totalAmount": 2765.1,
+      "status": 3,
+      "unixSecDate": 1704047199,
+      "saleName": "Eleonore"
+    },
+    {
+      "id": "aAT63ZvlcSGFaEjNZG__",
+      "customerID": "-qh7q0rRr9ZVs_uEyzW9",
+      "totalAmount": 8666.14,
+      "status": 3,
+      "unixSecDate": 1691055827,
+      "saleName": "Mckayla"
+    },
+    {
+      "id": "9jIKHnnqf2x4QnI1yiFz",
+      "customerID": "xcLrpr7JyoLu-Yi2qgVd",
+      "totalAmount": 6097.83,
+      "status": 1,
+      "unixSecDate": 1693171543,
+      "saleName": "Jordan"
+    },
+    {
+      "id": "sn_2H3UaIzTmfGT9OZV3",
+      "customerID": "e-ST59iyI8BGL2wXFwaI",
+      "totalAmount": 2036.7,
+      "status": 2,
+      "unixSecDate": 1684985691,
+      "saleName": "Donnell"
+    },
+    {
+      "id": "sFHgm4abHqW1fLQknVip",
+      "customerID": "RbW23xO70NkYXEOj6ICH",
+      "totalAmount": 2934.7,
+      "status": 1,
+      "unixSecDate": 1728079251,
+      "saleName": "Ines"
+    },
+    {
+      "id": "pMaP4nEJcJKp8Lf_ctGF",
+      "customerID": "P74z2Z5dmJpyY3YY368C",
+      "totalAmount": 7162.44,
+      "status": 2,
+      "unixSecDate": 1721925345,
+      "saleName": "Raoul"
+    },
+    {
+      "id": "TN1yGxeLilbBCONKLSX6",
+      "customerID": "a8OTaKTpmwnYI7itG4yN",
+      "totalAmount": 1747.29,
+      "status": 1,
+      "unixSecDate": 1694626686,
+      "saleName": "Anissa"
+    },
+    {
+      "id": "cY7rCspCrh5uuTIZc1kQ",
+      "customerID": "xX9-9r0V01nuUj9Fy0hf",
+      "totalAmount": 9915.59,
+      "status": 0,
+      "unixSecDate": 1704420081,
+      "saleName": "Mafalda"
+    },
+    {
+      "id": "fylG2UMgjXCiRkm91vYJ",
+      "customerID": "XiK-e27uhQYlJuDVQncK",
+      "totalAmount": 8480.72,
+      "status": 1,
+      "unixSecDate": 1686974523,
+      "saleName": "Anissa"
+    },
+    {
+      "id": "_aUTyi1xRPSV5n2_HbPB",
+      "customerID": "DfPHRTrUgndRYqZedb6-",
+      "totalAmount": 2231.28,
+      "status": 2,
+      "unixSecDate": 1723652556,
+      "saleName": "Mckayla"
+    },
+    {
+      "id": "yaD6uBTYvNDbnwyFIoO-",
+      "customerID": "hn5NIMynJhqjVwc0Xr1u",
+      "totalAmount": 9035.8,
+      "status": 2,
+      "unixSecDate": 1703652212,
+      "saleName": "Lelia"
+    },
+    {
+      "id": "viBVadbNQ0Ufsm3E2T_v",
+      "customerID": "FRKQArw0q18ND6kGKx2E",
+      "totalAmount": 15.47,
+      "status": 1,
+      "unixSecDate": 1724391829,
+      "saleName": "Anissa"
+    },
+    {
+      "id": "7BnbNfz2-0gh9FqPb9b6",
+      "customerID": "tID16jCCKi1GHPA6cltA",
+      "totalAmount": 1220.46,
+      "status": 0,
+      "unixSecDate": 1732875105,
+      "saleName": "Monique"
+    },
+    {
+      "id": "e1Q6_fvCLqzURDNc_Ofx",
+      "customerID": "-EwIFiTqZlxiWeo6DBbs",
+      "totalAmount": 6037.15,
+      "status": 2,
+      "unixSecDate": 1697066065,
+      "saleName": "Simeon"
+    },
+    {
+      "id": "0IGZh9nzBi6dcLzX2cW1",
+      "customerID": "H2fBWJ9d1SKpSOQEpMEh",
+      "totalAmount": 1657,
+      "status": 1,
+      "unixSecDate": 1737115104,
+      "saleName": "Talon"
+    },
+    {
+      "id": "XGc67KXDoRuaMFVeiD4q",
+      "customerID": "kfp1yN9tezYvYdEE_RK9",
+      "totalAmount": 7880.5,
+      "status": 3,
+      "unixSecDate": 1683870812,
+      "saleName": "Eleonore"
+    },
+    {
+      "id": "-AS4082tRCWvk4R-2nAa",
+      "customerID": "kw1yEU_PVPEB_KlMS_Ew",
+      "totalAmount": 6918.32,
+      "status": 1,
+      "unixSecDate": 1727927476,
+      "saleName": "Ines"
+    },
+    {
+      "id": "zo8Kuk8G0Wo8ldEng1vP",
+      "customerID": "ahRSQc5SZ546nsHMm-yR",
+      "totalAmount": 2329.11,
+      "status": 1,
+      "unixSecDate": 1722793966,
+      "saleName": "Markus"
+    },
+    {
+      "id": "eQySJy7SkJ3_4S8uHVT8",
+      "customerID": "RBQJa8CxBQI3ji74sdgP",
+      "totalAmount": 2527.66,
+      "status": 2,
+      "unixSecDate": 1722416488,
+      "saleName": "Mckayla"
+    },
+    {
+      "id": "hXtoxfZo8Sy5Lgq1tpDH",
+      "customerID": "QBXmGbKqqcpwmJtlH-qb",
+      "totalAmount": 8392.85,
+      "status": 1,
+      "unixSecDate": 1740374778,
+      "saleName": "Talon"
+    },
+    {
+      "id": "4iA4YZFQNIosvJGOWXld",
+      "customerID": "r5W30BTJQFEVqIE3YxBd",
+      "totalAmount": 3153.36,
+      "status": 3,
+      "unixSecDate": 1699713172,
+      "saleName": "Markus"
+    },
+    {
+      "id": "wwoOhE7gpMvkRTsHOYJj",
+      "customerID": "FDvRHd9STBxcTpeILSCd",
+      "totalAmount": 6003.07,
+      "status": 2,
+      "unixSecDate": 1734283001,
+      "saleName": "Anissa"
+    },
+    {
+      "id": "HSqm8g58q69h9rDn6yNa",
+      "customerID": "tuH0Mls8R2ANx5_FDrub",
+      "totalAmount": 7332.15,
+      "status": 0,
+      "unixSecDate": 1709345395,
+      "saleName": "Georgette"
+    },
+    {
+      "id": "HDzcYV1rfDE-XfrSk8FI",
+      "customerID": "mLat3Ta2CWJ6hX-6it_2",
+      "totalAmount": 5957.78,
+      "status": 2,
+      "unixSecDate": 1692520150,
+      "saleName": "Lelia"
+    },
+    {
+      "id": "7asmJCyGwLCgyFSayNa5",
+      "customerID": "XiK-e27uhQYlJuDVQncK",
+      "totalAmount": 8482.04,
+      "status": 0,
+      "unixSecDate": 1714401076,
+      "saleName": "Raoul"
+    },
+    {
+      "id": "NIL0ycXSsIsDb4RlRyxH",
+      "customerID": "N8FXcBv9byGSI7RnRHhR",
+      "totalAmount": 6207.5,
+      "status": 0,
+      "unixSecDate": 1743347521,
+      "saleName": "Mckayla"
+    },
+    {
+      "id": "hlyydEcKJMlMHhQeBGWQ",
+      "customerID": "Nd_rYUSOndaPN-Pj2m4O",
+      "totalAmount": 8556.14,
+      "status": 1,
+      "unixSecDate": 1683274477,
+      "saleName": "Lelia"
+    },
+    {
+      "id": "qOdqLdGitFhroR6hLzzr",
+      "customerID": "j24vaf1ldEy9fFms1Bfa",
+      "totalAmount": 3334.82,
+      "status": 3,
+      "unixSecDate": 1711488605,
+      "saleName": "Eliseo"
+    },
+    {
+      "id": "lYZXGitIMPBrskutjjj_",
+      "customerID": "QkKaeqBocM44iHgbOm58",
+      "totalAmount": 9196.09,
+      "status": 1,
+      "unixSecDate": 1724177923,
+      "saleName": "Donnell"
+    },
+    {
+      "id": "0ouJvGKNJ65zGrO5awtL",
+      "customerID": "fQqU5igej1cvbPLd3sFy",
+      "totalAmount": 4920.79,
+      "status": 1,
+      "unixSecDate": 1722355016,
+      "saleName": "Monique"
+    },
+    {
+      "id": "Ql5v_s8C5UfW42WPVdTy",
+      "customerID": "ZZF4NecWnnj4CGIO_hcT",
+      "totalAmount": 2581.19,
+      "status": 2,
+      "unixSecDate": 1718536547,
+      "saleName": "Mckayla"
+    },
+    {
+      "id": "uG8EJ5S6LP_JHDc3-UrA",
+      "customerID": "W71MsLukMaE-cgCqHGmy",
+      "totalAmount": 1413.8,
+      "status": 2,
+      "unixSecDate": 1706659546,
+      "saleName": "Donnell"
+    },
+    {
+      "id": "TKCkJ0vGWBsxc9YCFz2q",
+      "customerID": "BQPf38IHlWniDIlu3Bh2",
+      "totalAmount": 9220.19,
+      "status": 1,
+      "unixSecDate": 1717797981,
+      "saleName": "Monique"
+    },
+    {
+      "id": "-1JaBRZgBWtcbwKo-j34",
+      "customerID": "Nd_rYUSOndaPN-Pj2m4O",
+      "totalAmount": 3309.11,
+      "status": 0,
+      "unixSecDate": 1706056791,
+      "saleName": "Donnell"
+    },
+    {
+      "id": "nFjZM-6Burf1lWMWiEOf",
+      "customerID": "ahRSQc5SZ546nsHMm-yR",
+      "totalAmount": 5294.56,
+      "status": 2,
+      "unixSecDate": 1737420621,
+      "saleName": "Nettie"
+    },
+    {
+      "id": "vqR3f7w7F_joDnV9Wq9c",
+      "customerID": "7hZErXwXFj6XEgeC3umW",
+      "totalAmount": 2455.29,
+      "status": 0,
+      "unixSecDate": 1686736900,
+      "saleName": "Talon"
+    },
+    {
+      "id": "Cgp6sGawfboeXDSh46zY",
+      "customerID": "ohaoeLFCAC-n2MMe7v1D",
+      "totalAmount": 9280.46,
+      "status": 1,
+      "unixSecDate": 1725372291,
+      "saleName": "Mafalda"
+    },
+    {
+      "id": "IAsrQ4hQB379KHdcUEQb",
+      "customerID": "v4Bmv-2KdVFTc9H0-FUu",
+      "totalAmount": 647.74,
+      "status": 2,
+      "unixSecDate": 1685936358,
+      "saleName": "Mafalda"
+    },
+    {
+      "id": "IyFvxUQS9L9Rz_u3xydP",
+      "customerID": "KxueeX-B--l1TCEIv6aq",
+      "totalAmount": 4260.06,
+      "status": 1,
+      "unixSecDate": 1711617793,
+      "saleName": "Mafalda"
+    },
+    {
+      "id": "tYzrNP4o7FFUpvNUv086",
+      "customerID": "ahRSQc5SZ546nsHMm-yR",
+      "totalAmount": 147.96,
+      "status": 2,
+      "unixSecDate": 1686291959,
+      "saleName": "Anissa"
+    },
+    {
+      "id": "3uPwJ7D1ecfMh8mfnUBG",
+      "customerID": "W2E8Ax-5imdFIXGPdqi5",
+      "totalAmount": 310.61,
+      "status": 2,
+      "unixSecDate": 1711055825,
+      "saleName": "Mafalda"
+    },
+    {
+      "id": "YafjTtkKBIKtOad8Pmm9",
+      "customerID": "eBacuNe_R9zGOWrn8dG_",
+      "totalAmount": 8498.08,
+      "status": 2,
+      "unixSecDate": 1728204116,
+      "saleName": "Lelia"
+    },
+    {
+      "id": "-rzMxeBXT9Rho47TlmX9",
+      "customerID": "kfp1yN9tezYvYdEE_RK9",
+      "totalAmount": 3974.96,
+      "status": 1,
+      "unixSecDate": 1724321729,
+      "saleName": "Jordan"
+    },
+    {
+      "id": "Vy3ZGf8lNJS3bI2uqn96",
+      "customerID": "W71MsLukMaE-cgCqHGmy",
+      "totalAmount": 1245.15,
+      "status": 1,
+      "unixSecDate": 1713675796,
+      "saleName": "Nettie"
+    },
+    {
+      "id": "D23V6e5SgBPQfUCL-kUT",
+      "customerID": "31SHGqCWRgvzwyS8IA6T",
+      "totalAmount": 8327.04,
+      "status": 0,
+      "unixSecDate": 1707792158,
+      "saleName": "Eliseo"
+    },
+    {
+      "id": "5PNqyu_zF2zDB1DD8N0f",
+      "customerID": "0oYIc0JPxNReKe4L_Dmr",
+      "totalAmount": 218.5,
+      "status": 2,
+      "unixSecDate": 1723448900,
+      "saleName": "Mafalda"
+    },
+    {
+      "id": "YWVDqqfDZvz_RfGKKGo7",
+      "customerID": "wUS2l1hEu_HR_GpfbTCF",
+      "totalAmount": 7023.17,
+      "status": 1,
+      "unixSecDate": 1735356996,
+      "saleName": "Lelia"
+    },
+    {
+      "id": "L-_j7-Ar4Hisg2QLaUuL",
+      "customerID": "7hZErXwXFj6XEgeC3umW",
+      "totalAmount": 2989.84,
+      "status": 0,
+      "unixSecDate": 1682221095,
+      "saleName": "Markus"
+    },
+    {
+      "id": "5bFsYzkWnzbcURqj4g37",
+      "customerID": "WQ3AF0OGOJjoKPSer7K0",
+      "totalAmount": 592.43,
+      "status": 3,
+      "unixSecDate": 1695943607,
+      "saleName": "Raoul"
+    },
+    {
+      "id": "CtoczAxtHzekZWDhyQx2",
+      "customerID": "r5W30BTJQFEVqIE3YxBd",
+      "totalAmount": 7294.26,
+      "status": 2,
+      "unixSecDate": 1685686775,
+      "saleName": "Eleonore"
+    },
+    {
+      "id": "vql2FH6E0ds9oP_RbnKD",
+      "customerID": "a8OTaKTpmwnYI7itG4yN",
+      "totalAmount": 1301.25,
+      "status": 2,
+      "unixSecDate": 1713727703,
+      "saleName": "Mafalda"
+    },
+    {
+      "id": "yW2nhh264x5uD4SMv4BE",
+      "customerID": "vZeUcpro0wNPv95r0Qjv",
+      "totalAmount": 3729.18,
+      "status": 2,
+      "unixSecDate": 1688904042,
+      "saleName": "Mafalda"
+    },
+    {
+      "id": "ALlSVm-JF5KEu67B2ASI",
+      "customerID": "AQMSOO49A_TrMBZQCJXK",
+      "totalAmount": 3586.94,
+      "status": 3,
+      "unixSecDate": 1692141958,
+      "saleName": "Lelia"
+    },
+    {
+      "id": "n114gD0Sx7O9U-vegM1M",
+      "customerID": "W71MsLukMaE-cgCqHGmy",
+      "totalAmount": 1237.63,
+      "status": 1,
+      "unixSecDate": 1685807590,
+      "saleName": "Lelia"
+    },
+    {
+      "id": "IOlrSfAp68v6OZn518lr",
+      "customerID": "QkKaeqBocM44iHgbOm58",
+      "totalAmount": 9740.53,
+      "status": 1,
+      "unixSecDate": 1705891625,
+      "saleName": "Eliseo"
+    },
+    {
+      "id": "K03Je4eZR3b5pkuax7tB",
+      "customerID": "aS-TfrneJIPetdVQJl8J",
+      "totalAmount": 7750.49,
+      "status": 3,
+      "unixSecDate": 1689048002,
+      "saleName": "Georgette"
+    },
+    {
+      "id": "IhYitfQ685jVrbFpDvBq",
+      "customerID": "kw1yEU_PVPEB_KlMS_Ew",
+      "totalAmount": 4924.84,
+      "status": 1,
+      "unixSecDate": 1725409778,
+      "saleName": "Monique"
+    },
+    {
+      "id": "Im_Nri7XsvmofnG1ZpIq",
+      "customerID": "gGndv-H2nxQCHRGDKWgP",
+      "totalAmount": 6355.41,
+      "status": 2,
+      "unixSecDate": 1717143867,
+      "saleName": "Giovanna"
+    },
+    {
+      "id": "AT-QhEBvD968nAFPcUuc",
+      "customerID": "mmlhmnQYI23o9lWUExhS",
+      "totalAmount": 1219.84,
+      "status": 2,
+      "unixSecDate": 1696166853,
+      "saleName": "Monique"
+    },
+    {
+      "id": "JVxwz4uEf2gnSVK8HfTF",
+      "customerID": "KxueeX-B--l1TCEIv6aq",
+      "totalAmount": 6550.34,
+      "status": 2,
+      "unixSecDate": 1707082016,
+      "saleName": "Donnell"
+    },
+    {
+      "id": "23THnVW6t1es7zUZGcoK",
+      "customerID": "_fW2ctNl88kVzy3pdyFL",
+      "totalAmount": 700.54,
+      "status": 2,
+      "unixSecDate": 1706573047,
+      "saleName": "Raoul"
+    },
+    {
+      "id": "gqtXXqnO6_01PhpDIcxJ",
+      "customerID": "SAujjKGjErr-4D_MMScx",
+      "totalAmount": 4108.76,
+      "status": 3,
+      "unixSecDate": 1711401051,
+      "saleName": "Raoul"
+    },
+    {
+      "id": "Q0X9FoK6uoWnp_c0wb3O",
+      "customerID": "biCI4uglddtdxtp8xUID",
+      "totalAmount": 3331.73,
+      "status": 1,
+      "unixSecDate": 1689271724,
+      "saleName": "Nettie"
+    },
+    {
+      "id": "EMFBF3tToXlNJ5GLGCKC",
+      "customerID": "W2E8Ax-5imdFIXGPdqi5",
+      "totalAmount": 2.56,
+      "status": 2,
+      "unixSecDate": 1728758014,
+      "saleName": "Kari"
+    },
+    {
+      "id": "V7v7Pzm6FkNO8tl8LRjw",
+      "customerID": "FDvRHd9STBxcTpeILSCd",
+      "totalAmount": 5447.52,
+      "status": 3,
+      "unixSecDate": 1723588109,
+      "saleName": "Lulu"
+    },
+    {
+      "id": "oH424S7KajV6laQKnNis",
+      "customerID": "ATWzvTEdLsjcFjVSrjOI",
+      "totalAmount": 4615.32,
+      "status": 3,
+      "unixSecDate": 1713710555,
+      "saleName": "Mckayla"
+    },
+    {
+      "id": "tBJZfhje3jl6tZhe1pX-",
+      "customerID": "hn5NIMynJhqjVwc0Xr1u",
+      "totalAmount": 1201.35,
+      "status": 1,
+      "unixSecDate": 1685859896,
+      "saleName": "Simeon"
+    },
+    {
+      "id": "jZUebkdR53mS-wUP-1PA",
+      "customerID": "a8OTaKTpmwnYI7itG4yN",
+      "totalAmount": 3750.5,
+      "status": 0,
+      "unixSecDate": 1685026576,
+      "saleName": "Anissa"
+    },
+    {
+      "id": "OHwLoT8mam23Hkry723V",
+      "customerID": "e-ST59iyI8BGL2wXFwaI",
+      "totalAmount": 4724.41,
+      "status": 2,
+      "unixSecDate": 1718157673,
+      "saleName": "Kari"
+    },
+    {
+      "id": "jhQ1WOhVOdDSpCLrZ6RU",
+      "customerID": "QBXmGbKqqcpwmJtlH-qb",
+      "totalAmount": 559.88,
+      "status": 3,
+      "unixSecDate": 1721808018,
+      "saleName": "Lulu"
+    },
+    {
+      "id": "qidhoS-qfPzBS6lxuhwh",
+      "customerID": "-qh7q0rRr9ZVs_uEyzW9",
+      "totalAmount": 9782.34,
+      "status": 2,
+      "unixSecDate": 1702628604,
+      "saleName": "Anissa"
+    },
+    {
+      "id": "DSwkZAc_otdYMnpgmxQX",
+      "customerID": "xX9-9r0V01nuUj9Fy0hf",
+      "totalAmount": 4525.44,
+      "status": 0,
+      "unixSecDate": 1713358403,
+      "saleName": "Eleonore"
+    },
+    {
+      "id": "GVKepozph7JqVb_euBve",
+      "customerID": "mLat3Ta2CWJ6hX-6it_2",
+      "totalAmount": 2137.45,
+      "status": 2,
+      "unixSecDate": 1691150668,
+      "saleName": "Monique"
+    },
+    {
+      "id": "wy8qN5Ne8wj91rq6j_Vk",
+      "customerID": "kfp1yN9tezYvYdEE_RK9",
+      "totalAmount": 6054.95,
+      "status": 1,
+      "unixSecDate": 1722248409,
+      "saleName": "Eleonore"
+    },
+    {
+      "id": "q1S5MpTo9E2vOF7jrlAi",
+      "customerID": "gI8fMD6SlvygUcQP4bxm",
+      "totalAmount": 7640.59,
+      "status": 2,
+      "unixSecDate": 1721154033,
+      "saleName": "Raoul"
+    },
+    {
+      "id": "RmdW9kaZyzHMg_Gi_aGQ",
+      "customerID": "biCI4uglddtdxtp8xUID",
+      "totalAmount": 2949.41,
+      "status": 1,
+      "unixSecDate": 1726263501,
+      "saleName": "Simeon"
+    },
+    {
+      "id": "xuB2GhZM4O1GyFq3cxRJ",
+      "customerID": "7iXRzKXWCwiq2VPyRMIN",
+      "totalAmount": 3699.88,
+      "status": 1,
+      "unixSecDate": 1723207928,
+      "saleName": "Monique"
+    },
+    {
+      "id": "IxzdIlnBDDoE7QG7IgXe",
+      "customerID": "iHxtdOHMY-uVmzQxfrdD",
+      "totalAmount": 4908.65,
+      "status": 3,
+      "unixSecDate": 1734581162,
+      "saleName": "Eleonore"
+    },
+    {
+      "id": "XZUYQDqAjMBiEWebK-iy",
+      "customerID": "-8MLDlSWRCrqR9A5WlmT",
+      "totalAmount": 4122.37,
+      "status": 2,
+      "unixSecDate": 1691813405,
+      "saleName": "Eliseo"
+    },
+    {
+      "id": "AaFn8D93RRoyNd6fc4RR",
+      "customerID": "mt-GkGkphGBz5Td-F0nW",
+      "totalAmount": 1910.7,
+      "status": 2,
+      "unixSecDate": 1715336413,
+      "saleName": "Ines"
+    },
+    {
+      "id": "3O9ftjgSNQ3vpC6DUALN",
+      "customerID": "QBXmGbKqqcpwmJtlH-qb",
+      "totalAmount": 1862.28,
+      "status": 1,
+      "unixSecDate": 1741763648,
+      "saleName": "Georgette"
+    },
+    {
+      "id": "LpQrAqEXd2KeqYns-r_f",
+      "customerID": "BQPf38IHlWniDIlu3Bh2",
+      "totalAmount": 5215.86,
+      "status": 1,
+      "unixSecDate": 1741562526,
+      "saleName": "Donnell"
+    },
+    {
+      "id": "JI8FeJZdS0YO6trH8-3m",
+      "customerID": "gI8fMD6SlvygUcQP4bxm",
+      "totalAmount": 8729.74,
+      "status": 2,
+      "unixSecDate": 1736408057,
+      "saleName": "Mafalda"
+    },
+    {
+      "id": "T9IXpzJ5KMA2qmzvlEog",
+      "customerID": "XiZ7omEEehzBoyJ93RQ7",
+      "totalAmount": 9819.39,
+      "status": 0,
+      "unixSecDate": 1697467890,
+      "saleName": "Raoul"
+    },
+    {
+      "id": "6Lj1DeDPedKDXKp0I1Xv",
+      "customerID": "XiZ7omEEehzBoyJ93RQ7",
+      "totalAmount": 443.25,
+      "status": 2,
+      "unixSecDate": 1717595679,
+      "saleName": "Anissa"
+    },
+    {
+      "id": "Llw4NeyWTaglPLzl7sLb",
+      "customerID": "SAujjKGjErr-4D_MMScx",
+      "totalAmount": 2513.29,
+      "status": 1,
+      "unixSecDate": 1687127246,
+      "saleName": "Donnell"
+    },
+    {
+      "id": "8bB7VjNBF1-RKNaTBYxf",
+      "customerID": "W71MsLukMaE-cgCqHGmy",
+      "totalAmount": 282.66,
+      "status": 1,
+      "unixSecDate": 1738463119,
+      "saleName": "Simeon"
+    },
+    {
+      "id": "PI7RWfMO5S0gnizgCZUO",
+      "customerID": "7BejlQLKbefc4C8s72E5",
+      "totalAmount": 8415.26,
+      "status": 2,
+      "unixSecDate": 1720706679,
+      "saleName": "Anissa"
+    },
+    {
+      "id": "iS-U3Inn_RauwYqVpawo",
+      "customerID": "V2OuUChpJ9cd1pZu9V-5",
+      "totalAmount": 6368.6,
+      "status": 0,
+      "unixSecDate": 1737521700,
+      "saleName": "Talon"
+    },
+    {
+      "id": "Hoo3jZ8uVZN-XzlVF_Dp",
+      "customerID": "4F5rdfgzqNFQ2E2-THX-",
+      "totalAmount": 6561.39,
+      "status": 1,
+      "unixSecDate": 1731522787,
+      "saleName": "Jordan"
+    },
+    {
+      "id": "mwrNZNU0Ui88S9HPrXGl",
+      "customerID": "_fW2ctNl88kVzy3pdyFL",
+      "totalAmount": 3339.98,
+      "status": 0,
+      "unixSecDate": 1738196980,
+      "saleName": "Lelia"
+    },
+    {
+      "id": "KPwBlDmKVYXlIh4QmgrH",
+      "customerID": "Z0Q6yKec2IG_0dp0Jx9V",
+      "totalAmount": 1424.29,
+      "status": 3,
+      "unixSecDate": 1727624063,
+      "saleName": "Eliseo"
+    },
+    {
+      "id": "QFR62GfzsXgREl-vo4tz",
+      "customerID": "Gwqff0jQUafPorAXv2FC",
+      "totalAmount": 5750.76,
+      "status": 2,
+      "unixSecDate": 1703308372,
+      "saleName": "Kari"
+    },
+    {
+      "id": "sISCQf6UDt9aRVWYnSYx",
+      "customerID": "4nPDL5C2uXa8GA-daCEl",
+      "totalAmount": 4734.62,
+      "status": 1,
+      "unixSecDate": 1713370979,
+      "saleName": "Kari"
+    },
+    {
+      "id": "HoHTWitb4gjkZDOtduP0",
+      "customerID": "WaWFh8T3tvmM3ZLyKkDf",
+      "totalAmount": 1506.57,
+      "status": 1,
+      "unixSecDate": 1696973899,
+      "saleName": "Anissa"
+    },
+    {
+      "id": "M6FKO3BNXkPcgqD_LxaG",
+      "customerID": "mLat3Ta2CWJ6hX-6it_2",
+      "totalAmount": 7094.65,
+      "status": 2,
+      "unixSecDate": 1693148501,
+      "saleName": "Lelia"
+    },
+    {
+      "id": "KdnTtaTj90UsxYnYqXWy",
+      "customerID": "tID16jCCKi1GHPA6cltA",
+      "totalAmount": 427.76,
+      "status": 1,
+      "unixSecDate": 1702670152,
+      "saleName": "Eleonore"
+    },
+    {
+      "id": "ifjZbNjXblb4mog6r8iY",
+      "customerID": "v4Bmv-2KdVFTc9H0-FUu",
+      "totalAmount": 1049.56,
+      "status": 2,
+      "unixSecDate": 1743335462,
+      "saleName": "Ines"
+    },
+    {
+      "id": "tv9la36BMq5clHXN2Ejh",
+      "customerID": "iHxtdOHMY-uVmzQxfrdD",
+      "totalAmount": 4100.58,
+      "status": 1,
+      "unixSecDate": 1718414584,
+      "saleName": "Eleonore"
+    },
+    {
+      "id": "oOFRXIV-xj8sviuWIJPz",
+      "customerID": "WaWFh8T3tvmM3ZLyKkDf",
+      "totalAmount": 6770.08,
+      "status": 1,
+      "unixSecDate": 1733722256,
+      "saleName": "Eliseo"
+    },
+    {
+      "id": "DDq3XyJyNapke9gYmmJd",
+      "customerID": "yZl6JmB5ZC4OTyF4yKMP",
+      "totalAmount": 4933.95,
+      "status": 0,
+      "unixSecDate": 1724872801,
+      "saleName": "Monique"
+    },
+    {
+      "id": "bbA6iMD9-cCe1Ogt5zKN",
+      "customerID": "taQ2J0pDq6XockUIW01n",
+      "totalAmount": 5714.33,
+      "status": 3,
+      "unixSecDate": 1729508335,
+      "saleName": "Monique"
+    },
+    {
+      "id": "AAYQHI6Scd-a9oMlR_I-",
+      "customerID": "FDvRHd9STBxcTpeILSCd",
+      "totalAmount": 4465.97,
+      "status": 3,
+      "unixSecDate": 1729506836,
+      "saleName": "Anissa"
+    },
+    {
+      "id": "p_txmkHmh4IgPb5tNNod",
+      "customerID": "QkKaeqBocM44iHgbOm58",
+      "totalAmount": 2937.59,
+      "status": 1,
+      "unixSecDate": 1731412114,
+      "saleName": "Donnell"
+    },
+    {
+      "id": "fUbZZ7y8_4oD9Q2xvOaZ",
+      "customerID": "I5fD612sFxkzP9BV98b5",
+      "totalAmount": 6041.7,
+      "status": 0,
+      "unixSecDate": 1690019329,
+      "saleName": "Simeon"
+    },
+    {
+      "id": "6HK8CEGcXA8Dt-vs1WSv",
+      "customerID": "tID16jCCKi1GHPA6cltA",
+      "totalAmount": 8241.15,
+      "status": 1,
+      "unixSecDate": 1742576078,
+      "saleName": "Jordan"
+    },
+    {
+      "id": "Zbv271ilGKJZsOiP38NG",
+      "customerID": "WaWFh8T3tvmM3ZLyKkDf",
+      "totalAmount": 3477.97,
+      "status": 0,
+      "unixSecDate": 1690258017,
+      "saleName": "Eleonore"
+    },
+    {
+      "id": "0PfRmBuXXgK9ViPPg-V8",
+      "customerID": "Gwqff0jQUafPorAXv2FC",
+      "totalAmount": 8862.48,
+      "status": 2,
+      "unixSecDate": 1735638919,
+      "saleName": "Anissa"
+    },
+    {
+      "id": "mMCW7LxYMOhQPUjrBVGb",
+      "customerID": "mmlhmnQYI23o9lWUExhS",
+      "totalAmount": 925.03,
+      "status": 2,
+      "unixSecDate": 1715629904,
+      "saleName": "Eliseo"
+    },
+    {
+      "id": "kxVl0rDf8FmnS3yypxqL",
+      "customerID": "j24vaf1ldEy9fFms1Bfa",
+      "totalAmount": 7097.75,
+      "status": 2,
+      "unixSecDate": 1726380112,
+      "saleName": "Markus"
+    },
+    {
+      "id": "aSxMGxKGMXgdCa0vDbmg",
+      "customerID": "H2fBWJ9d1SKpSOQEpMEh",
+      "totalAmount": 2791.05,
+      "status": 1,
+      "unixSecDate": 1693307079,
+      "saleName": "Anissa"
+    },
+    {
+      "id": "1nHzDwXCT3MiSb7TEWVu",
+      "customerID": "v4Bmv-2KdVFTc9H0-FUu",
+      "totalAmount": 8585.02,
+      "status": 1,
+      "unixSecDate": 1699205388,
+      "saleName": "Barrett"
+    },
+    {
+      "id": "MMvirlFnO7c2lp81PwZw",
+      "customerID": "Z0Q6yKec2IG_0dp0Jx9V",
+      "totalAmount": 6149.16,
+      "status": 2,
+      "unixSecDate": 1711827241,
+      "saleName": "Mafalda"
+    },
+    {
+      "id": "ZSOG-FTpadAkUQiMrfhm",
+      "customerID": "jdWztsYo2NexjSlvjueU",
+      "totalAmount": 1949.78,
+      "status": 1,
+      "unixSecDate": 1727233972,
+      "saleName": "Anissa"
+    },
+    {
+      "id": "td8-VgCoVDT_17GNyD_c",
+      "customerID": "SAujjKGjErr-4D_MMScx",
+      "totalAmount": 6360.4,
+      "status": 1,
+      "unixSecDate": 1689593460,
+      "saleName": "Kari"
+    },
+    {
+      "id": "706c7xE5jwi4V1MiXI_K",
+      "customerID": "QrIfEl-vqX5T5-lw40A0",
+      "totalAmount": 254.16,
+      "status": 1,
+      "unixSecDate": 1738919268,
+      "saleName": "Lelia"
+    },
+    {
+      "id": "AE_lN5jxBH2nsaa3MTVf",
+      "customerID": "jdWztsYo2NexjSlvjueU",
+      "totalAmount": 3725.48,
+      "status": 0,
+      "unixSecDate": 1711005957,
+      "saleName": "Jordan"
+    },
+    {
+      "id": "Gn7y08lEA1_3xMh9KF0A",
+      "customerID": "-EwIFiTqZlxiWeo6DBbs",
+      "totalAmount": 750.39,
+      "status": 0,
+      "unixSecDate": 1735384464,
+      "saleName": "Monique"
+    },
+    {
+      "id": "8fZltUOlwSKtuid3Eo6G",
+      "customerID": "gGndv-H2nxQCHRGDKWgP",
+      "totalAmount": 4329.98,
+      "status": 3,
+      "unixSecDate": 1733839822,
+      "saleName": "Eleonore"
+    },
+    {
+      "id": "-HYrExvk7lBMlNeoMJfy",
+      "customerID": "DfPHRTrUgndRYqZedb6-",
+      "totalAmount": 1120,
+      "status": 2,
+      "unixSecDate": 1684801826,
+      "saleName": "Nettie"
+    },
+    {
+      "id": "6WLh4VmHWq-oOqP21zwa",
+      "customerID": "WLZz-8hZ4FdY3mvwIoI_",
+      "totalAmount": 5785.26,
+      "status": 1,
+      "unixSecDate": 1685774725,
+      "saleName": "Lulu"
+    },
+    {
+      "id": "juDDxpPAwJuKk6QsrjXa",
+      "customerID": "31SHGqCWRgvzwyS8IA6T",
+      "totalAmount": 3662.47,
+      "status": 2,
+      "unixSecDate": 1721410285,
+      "saleName": "Simeon"
+    },
+    {
+      "id": "N0CCQjggIOiROERz2AAZ",
+      "customerID": "Joh0b74seMdPyfKuQy9n",
+      "totalAmount": 9488.43,
+      "status": 1,
+      "unixSecDate": 1707223216,
+      "saleName": "Ines"
+    },
+    {
+      "id": "mMuZDJeyr0QY6V1_IhIZ",
+      "customerID": "hn5NIMynJhqjVwc0Xr1u",
+      "totalAmount": 8115.66,
+      "status": 1,
+      "unixSecDate": 1723909319,
+      "saleName": "Markus"
+    },
+    {
+      "id": "Yn3Tw1sUReOAWvK9sZXK",
+      "customerID": "QkKaeqBocM44iHgbOm58",
+      "totalAmount": 8457.91,
+      "status": 1,
+      "unixSecDate": 1704888938,
+      "saleName": "Ines"
+    },
+    {
+      "id": "-FVDRsz_RwvI0Cc14oDO",
+      "customerID": "Pxgcl9_9wch1WPfya4gt",
+      "totalAmount": 2268.11,
+      "status": 2,
+      "unixSecDate": 1693775298,
+      "saleName": "Simeon"
+    },
+    {
+      "id": "hfsPkUqwqOMiB_BhBCvu",
+      "customerID": "WQ3AF0OGOJjoKPSer7K0",
+      "totalAmount": 3001.09,
+      "status": 0,
+      "unixSecDate": 1689944999,
+      "saleName": "Jordan"
+    },
+    {
+      "id": "2YIOcM9sRq8af2jbUrMW",
+      "customerID": "mmlhmnQYI23o9lWUExhS",
+      "totalAmount": 8760.15,
+      "status": 3,
+      "unixSecDate": 1711819983,
+      "saleName": "Donnell"
+    },
+    {
+      "id": "wImNy0A8iNTbElqH9J7b",
+      "customerID": "-qh7q0rRr9ZVs_uEyzW9",
+      "totalAmount": 1608.57,
+      "status": 2,
+      "unixSecDate": 1688227987,
+      "saleName": "Donnell"
+    },
+    {
+      "id": "ONH8IVQ8kSI6N1WXaEK8",
+      "customerID": "W71MsLukMaE-cgCqHGmy",
+      "totalAmount": 644.33,
+      "status": 1,
+      "unixSecDate": 1710871473,
+      "saleName": "Barrett"
+    },
+    {
+      "id": "D2sXRg_H325L5JWJa4c2",
+      "customerID": "31SHGqCWRgvzwyS8IA6T",
+      "totalAmount": 4773.67,
+      "status": 3,
+      "unixSecDate": 1682369638,
+      "saleName": "Markus"
+    },
+    {
+      "id": "Zcz6ph9gFEH0llKhf_-I",
+      "customerID": "xX9-9r0V01nuUj9Fy0hf",
+      "totalAmount": 906.95,
+      "status": 2,
+      "unixSecDate": 1733238719,
+      "saleName": "Markus"
+    },
+    {
+      "id": "5oS9HZBx4XKNHIRZ3vTA",
+      "customerID": "-qh7q0rRr9ZVs_uEyzW9",
+      "totalAmount": 6058.27,
+      "status": 2,
+      "unixSecDate": 1723184393,
+      "saleName": "Mckayla"
+    },
+    {
+      "id": "CxRBD79VkWUmGZa8SKg0",
+      "customerID": "WLZz-8hZ4FdY3mvwIoI_",
+      "totalAmount": 8985.1,
+      "status": 1,
+      "unixSecDate": 1728869658,
+      "saleName": "Barrett"
+    },
+    {
+      "id": "T0mDWEscPRgUt88n-NOy",
+      "customerID": "BQPf38IHlWniDIlu3Bh2",
+      "totalAmount": 5506.3,
+      "status": 3,
+      "unixSecDate": 1721213281,
+      "saleName": "Simeon"
+    },
+    {
+      "id": "2LKkPhz4Fgrh_oA6MEar",
+      "customerID": "Ue0cz0nlAGPbHGf76fUF",
+      "totalAmount": 2039.77,
+      "status": 2,
+      "unixSecDate": 1691716043,
+      "saleName": "Giovanna"
+    },
+    {
+      "id": "OB3pF8kwt9qC7qssoGfF",
+      "customerID": "7hZErXwXFj6XEgeC3umW",
+      "totalAmount": 3869.18,
+      "status": 1,
+      "unixSecDate": 1694084020,
+      "saleName": "Jordan"
+    },
+    {
+      "id": "DI6Z3yV6_jjk2rOc8c24",
+      "customerID": "Pxgcl9_9wch1WPfya4gt",
+      "totalAmount": 1829.32,
+      "status": 2,
+      "unixSecDate": 1721020697,
+      "saleName": "Markus"
+    },
+    {
+      "id": "gWJm8ZUR9x91uK1QgrF7",
+      "customerID": "xcLrpr7JyoLu-Yi2qgVd",
+      "totalAmount": 6860.23,
+      "status": 0,
+      "unixSecDate": 1741288082,
+      "saleName": "Giovanna"
+    },
+    {
+      "id": "8K1FCKl7uUf5okIjapga",
+      "customerID": "N8FXcBv9byGSI7RnRHhR",
+      "totalAmount": 8115.78,
+      "status": 0,
+      "unixSecDate": 1720848910,
+      "saleName": "Lelia"
+    },
+    {
+      "id": "bFmO4I3MhbiK7dzqOGih",
+      "customerID": "Ue0cz0nlAGPbHGf76fUF",
+      "totalAmount": 8047.55,
+      "status": 2,
+      "unixSecDate": 1687501871,
+      "saleName": "Barrett"
+    },
+    {
+      "id": "2dnJZIWwKWopoPEZdUlp",
+      "customerID": "XX1rkMGZnHvQ8LIobSdR",
+      "totalAmount": 1756.19,
+      "status": 2,
+      "unixSecDate": 1723752205,
+      "saleName": "Georgette"
+    },
+    {
+      "id": "XPUvo3x7go96fbifQAYU",
+      "customerID": "Ue0cz0nlAGPbHGf76fUF",
+      "totalAmount": 8298.41,
+      "status": 2,
+      "unixSecDate": 1688417788,
+      "saleName": "Markus"
+    },
+    {
+      "id": "VX45-h9m2PYByDFtR3K-",
+      "customerID": "XiK-e27uhQYlJuDVQncK",
+      "totalAmount": 3790.77,
+      "status": 2,
+      "unixSecDate": 1732212849,
+      "saleName": "Markus"
+    },
+    {
+      "id": "pCMkv1Ea9b788bmJosfc",
+      "customerID": "31SHGqCWRgvzwyS8IA6T",
+      "totalAmount": 4398.95,
+      "status": 1,
+      "unixSecDate": 1740831288,
+      "saleName": "Raoul"
+    },
+    {
+      "id": "UNscg6E7W4CO-jRt82Tw",
+      "customerID": "yZl6JmB5ZC4OTyF4yKMP",
+      "totalAmount": 9751.54,
+      "status": 2,
+      "unixSecDate": 1704381926,
+      "saleName": "Georgette"
+    },
+    {
+      "id": "CZyvr1q-f4EkSR2GUrZD",
+      "customerID": "aS-TfrneJIPetdVQJl8J",
+      "totalAmount": 7027.15,
+      "status": 1,
+      "unixSecDate": 1687593791,
+      "saleName": "Lulu"
+    }
+  ]
+}

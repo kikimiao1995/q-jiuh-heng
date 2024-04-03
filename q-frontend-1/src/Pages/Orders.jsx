@@ -1,4 +1,4 @@
-export default async function Orders() {
+export default function Orders() {
   let now = new Date()
   now.setFullYear(now.getFullYear() - 3)
   let formattedDate = Math.floor(now.getTime() / 1000)

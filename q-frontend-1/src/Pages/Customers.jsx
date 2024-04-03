@@ -1,5 +1,5 @@
 // import "./App.css";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import {
   ConfigProvider,
   Flex,
@@ -11,44 +11,11 @@ import {
   Layout,
   Table,
   Space,
+  Pagination,
 } from "antd";
 import { Content } from "antd/es/layout/layout";
 import Orders from "./Orders";
-
-const data = [
-  {
-    id: "-5GihhRgK_w184ouP-Dt",
-    name: "Dr. Bill Ernser",
-    country: "PCN",
-    city: "West Jaunitaborough",
-    state: "WI",
-    address: "9848 Jenifer Club Suite 127",
-    zip: "63029-5878",
-    status: 1,
-  },
-  {
-    id: "i8fogxNaLMGVHpgTC1TY",
-    name: "Brandy Borer",
-    country: "TGO",
-    city: "Tiabury",
-    state: "AZ",
-    address: "3592 Hill Street Suite 865",
-    zip: "76869-8307",
-    status: 0,
-  },
-];
-for (let i = 0; i < 100; i++) {
-  data.push({
-    id: i,
-    name: "Brandy Borer",
-    country: "TGO",
-    city: "Tiabury",
-    state: "AZ",
-    address: "3592 Hill Street Suite 865",
-    zip: "76869-8307",
-    status: 0,
-  });
-}
+import Create from "../Components/Create"
 
 const columns = [
   {
@@ -93,17 +60,29 @@ const columns = [
   },
 ];
 
+function removeBlankAttributes(obj) {
+  const result = {}
+  for (const key in obj) {
+    if (obj[key] !== "" && obj[key] !==undefined) {
+      result[key] = obj[key]
+    }
+  }
+  return result
+}
+
 export default function Customers() {
-  const [search, setSearch] = useState({
-    id: "",
-    name: "",
-    country: "",
-    city: "",
-    state: "",
-    address: "",
-    zip: "",
-    status: 1,
-  });
+
+  const url = 'http://localhost:3000/customers?status=1'
+  const [data, setData] = useState([]);
+  const [search, setSearch] = useState({});
+
+  useEffect(() => {
+    fetch('http://localhost:3000/customers?status=1&_start=0&_limit=30')
+      .then(res => res.json())
+      .then(json => setData(json))
+      // .then(data => console.log(data))
+      .catch(err => console.error(err))
+  }, [])
 
   const handleSearchInputChange = (e) => {
     const { name, value } = e.target;
@@ -115,6 +94,12 @@ export default function Customers() {
 
   const submit = () => {
     console.table(search);
+    const inputString = new URLSearchParams(removeBlankAttributes(search)).toString()
+    const query = inputString !== "" ? `${url}&${inputString}` : url
+    fetch(query)
+      .then(res => res.json())
+      .then(data => setData(data))
+      .catch(err => console.error(err))
   };
   return (
     <>
@@ -122,34 +107,89 @@ export default function Customers() {
         <Content>
           <Card>
             {/* <Orders></Orders> */}
-            <p>只顯示 Status = Active 的客戶</p>
-            <p>
-              Customer.ID, Name, Country, State, City, Address, Zip
-              做單一或多欄位模糊查詢
-            </p>
             <p>列表可檢視該客戶近三年的各年度銷售總金額</p>
           </Card>
           <Card>
-            <Row justify="start" gutter={16}>
-              <Col span={3}>
-                <p>Customer ID</p>
-                <Input
-                  onChange={handleSearchInputChange}
-                  maxLength={20}
-                ></Input>
+            <Row justify="start" align="bottom" gutter={16}>
+              <Col span={2}>
+                <label>
+                  Customer ID :
+                  <Input
+                    name="id"
+                    onChange={handleSearchInputChange}
+                    maxLength={20}
+                  />
+                </label>
+              </Col>
+              <Col span={2}>
+                <label>
+                  Name :
+                  <Input
+                    name="name"
+                    onChange={handleSearchInputChange}
+                    maxLength={50}
+                  />
+                </label>
+              </Col>
+              <Col span={2}>
+                <label>
+                  Country :
+                  <Input
+                    name="country"
+                    onChange={handleSearchInputChange}
+                    maxLength={3}
+                  />
+                </label>
+              </Col>
+              <Col span={2}>
+                <label>
+                  State :
+                  <Input
+                    name="state"
+                    onChange={handleSearchInputChange}
+                    maxLength={2}
+                  />
+                </label>
+              </Col>
+              <Col span={2}>
+                <label>
+                  City :
+                  <Input
+                    name="city"
+                    onChange={handleSearchInputChange}
+                    maxLength={50}
+                  />
+                </label>
+              </Col>
+              <Col span={2}>
+                <label>
+                  Address :
+                  <Input
+                    name="address"
+                    onChange={handleSearchInputChange}
+                    maxLength={100}
+                  />
+                </label>
+              </Col>
+              <Col span={2}>
+                <label>
+                  Zip :
+                  <Input
+                    name="zip"
+                    onChange={handleSearchInputChange}
+                    maxLength={20}
+                  />
+                </label>
+              </Col>
+              <Col flex="auto">
+                <Flex justify="space-between">
+                  <Button type="primary" onClick={submit}>
+                    Submit
+                  </Button>
+                  <Create />
+                </Flex>
               </Col>
             </Row>
-            <p>State</p>
-            <Input maxLength={0}></Input>
-            <p>City</p>
-            <Input></Input>
-            <p>Address</p>
-            <Input></Input>
-            <p>Zip</p>
-            <Input></Input>
-            <Button type="primary" onClick={submit}>
-              Button
-            </Button>
           </Card>
           <Card>
             <Table
@@ -157,8 +197,9 @@ export default function Customers() {
               columns={columns}
               dataSource={data}
               pagination={{ pageSize: 30 }}
-              scroll={{ y: 240 }}
+              scroll={{ y: 340 }}
             />
+            <Pagination  />
           </Card>
         </Content>
       </Layout>
