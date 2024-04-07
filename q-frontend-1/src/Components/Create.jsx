@@ -1,12 +1,12 @@
-import { useState } from "react";
-import { Button, Modal, Input, Flex, Col } from "antd";
+import { useState, useEffect } from "react";
+import { Button, Modal, Input, Flex, Col, Form, Space } from "antd";
 
 export default function Create() {
-
+  const [form] = Form.useForm();
   const [open, setOpen] = useState(false);
   const [confirmLoading, setConfirmLoading] = useState(false);
-  const [modalText, setModalText] = useState('Content of the modal');
-  const [input, setInput] = useState({})
+  const [modalText, setModalText] = useState("Content of the modal");
+  const [input, setInput] = useState({});
 
   const showModal = () => {
     setOpen(true);
@@ -19,22 +19,22 @@ export default function Create() {
       [name]: value,
     }));
   };
-  
-  const url = 'http://localhost:3000/customers'
+
+  const url = "http://localhost:3000/customers";
   const handleOk = () => {
     setConfirmLoading(true);
     fetch(url, {
       method: "POST",
       headers: {
-        'Content-Type': 'application/json'
+        "Content-Type": "application/json",
       },
-      body: JSON.stringify(input)
+      body: JSON.stringify(input),
     })
-      .then(res => res.json())
-      .then(data => console.log('Data sussfully posted', data))
-      .catch(err => console.error('error posting data', err))
+      .then((res) => res.json())
+      .then((data) => console.log("Data sussfully posted", data))
+      .catch((err) => console.error("error posting data", err))
       .finally(() => {
-        console.log('finally')
+        console.log("finally");
         setInput({
           id: "",
           name: "",
@@ -42,11 +42,11 @@ export default function Create() {
           state: "",
           city: "",
           address: "",
-          zip: ""
-        })
+          zip: "",
+        });
         setConfirmLoading(false);
         setOpen(false);
-      })
+      });
   };
   const handleCancel = () => {
     setOpen(false);
@@ -54,7 +54,7 @@ export default function Create() {
   return (
     <>
       <Button type="primary" onClick={showModal}>
-       Create
+        Create
       </Button>
       <Modal
         centered
@@ -65,7 +65,101 @@ export default function Create() {
         confirmLoading={confirmLoading}
         onCancel={handleCancel}
       >
-        <Flex vertical gap={16} style={{margin: '32px 0'}}>
+        <Form
+          form={form}
+          style={{ margin: "44px 0" }}
+          labelCol={{ span: 8 }}
+          wrapperCol={{ span: 12 }}
+        >
+          <Form.Item
+            label="Customer ID"
+            name="id"
+            rules={[
+              {
+                required: true,
+              },
+            ]}
+          >
+            <Input />
+          </Form.Item>
+          <Form.Item
+            label="Name"
+            name="name"
+            rules={[
+              {
+                required: true,
+                message: "Please input your name!",
+              },
+            ]}
+          >
+            <Input />
+          </Form.Item>
+          <Form.Item
+            label="Country"
+            name="country"
+            rules={[
+              {
+                required: true,
+                message: "Please input your country!",
+              },
+            ]}
+          >
+            <Input />
+          </Form.Item>
+          <Form.Item
+            label="State"
+            name="state"
+            rules={[
+              {
+                required: true,
+                message: "Please input your state!",
+              },
+            ]}
+          >
+            <Input />
+          </Form.Item>
+          <Form.Item
+            label="City"
+            name="city"
+            rules={[
+              {
+                message: "Please input your city!",
+              },
+            ]}
+          >
+            <Input />
+          </Form.Item>
+          <Form.Item
+            label="Address"
+            name="address"
+            rules={[
+              {
+                required: true,
+                message: "Please input your address!",
+              },
+            ]}
+          >
+            <Input />
+          </Form.Item>
+          <Form.Item
+            label="Zip"
+            name="zip"
+            rules={[
+              {
+                message: "Please input your zip!",
+              },
+            ]}
+          >
+            <Input />
+          </Form.Item>
+          <Form.Item>
+            <Space>
+              <SubmitButton form={form}>Submit</SubmitButton>
+              <Button htmlType="reset">Reset</Button>
+            </Space>
+          </Form.Item>
+        </Form>
+        {/* <Flex vertical gap={16} style={{ margin: "32px 0" }}>
           <label>
             Customer ID :
             <Input
@@ -129,8 +223,28 @@ export default function Create() {
               required
             />
           </label>
-        </Flex>
+        </Flex> */}
       </Modal>
     </>
-  )
+  );
 }
+
+const SubmitButton = ({ form, children }) => {
+  const [submittable, setSubmittable] = useState(false);
+
+  // Watch all values
+  const values = Form.useWatch([], form);
+  useEffect(() => {
+    form
+      .validateFields({
+        validateOnly: true,
+      })
+      .then(() => setSubmittable(true))
+      .catch(() => setSubmittable(false));
+  }, [form, values]);
+  return (
+    <Button type="primary" htmlType="submit" disabled={!submittable}>
+      {children}
+    </Button>
+  );
+};

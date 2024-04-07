@@ -15,7 +15,9 @@ import {
 } from "antd";
 import { Content } from "antd/es/layout/layout";
 import Orders from "./Orders";
-import Create from "../Components/Create"
+import Create from "../Components/Create";
+import CreateModal from "../Components/CreateModal";
+import SearchForm from "../Components/SearchForm";
 
 const columns = [
   {
@@ -61,28 +63,27 @@ const columns = [
 ];
 
 function removeBlankAttributes(obj) {
-  const result = {}
+  const result = {};
   for (const key in obj) {
-    if (obj[key] !== "" && obj[key] !==undefined) {
-      result[key] = obj[key]
+    if (obj[key] !== "" && obj[key] !== undefined) {
+      result[key] = obj[key];
     }
   }
-  return result
+  return result;
 }
 
 export default function Customers() {
-
-  const url = 'http://localhost:3000/customers?status=1'
+  const url = "http://localhost:3000/customers?status=1";
   const [data, setData] = useState([]);
   const [search, setSearch] = useState({});
 
   useEffect(() => {
-    fetch('http://localhost:3000/customers?status=1&_start=0&_limit=30')
-      .then(res => res.json())
-      .then(json => setData(json))
+    fetch("http://localhost:3000/customers?status=1&_start=0&_limit=30")
+      .then((res) => res.json())
+      .then((json) => setData(json))
       // .then(data => console.log(data))
-      .catch(err => console.error(err))
-  }, [])
+      .catch((err) => console.error(err));
+  }, []);
 
   const handleSearchInputChange = (e) => {
     const { name, value } = e.target;
@@ -94,12 +95,14 @@ export default function Customers() {
 
   const submit = () => {
     console.table(search);
-    const inputString = new URLSearchParams(removeBlankAttributes(search)).toString()
-    const query = inputString !== "" ? `${url}&${inputString}` : url
+    const inputString = new URLSearchParams(
+      removeBlankAttributes(search)
+    ).toString();
+    const query = inputString !== "" ? `${url}&${inputString}` : url;
     fetch(query)
-      .then(res => res.json())
-      .then(data => setData(data))
-      .catch(err => console.error(err))
+      .then((res) => res.json())
+      .then((data) => setData(data))
+      .catch((err) => console.error(err));
   };
   return (
     <>
@@ -110,6 +113,9 @@ export default function Customers() {
             <p>列表可檢視該客戶近三年的各年度銷售總金額</p>
           </Card>
           <Card>
+            <Row>
+              <SearchForm />
+            </Row>
             <Row justify="start" align="bottom" gutter={16}>
               <Col span={2}>
                 <label>
@@ -186,7 +192,7 @@ export default function Customers() {
                   <Button type="primary" onClick={submit}>
                     Submit
                   </Button>
-                  <Create />
+                  <CreateModal />
                 </Flex>
               </Col>
             </Row>
@@ -199,7 +205,7 @@ export default function Customers() {
               pagination={{ pageSize: 30 }}
               scroll={{ y: 340 }}
             />
-            <Pagination  />
+            <Pagination />
           </Card>
         </Content>
       </Layout>
