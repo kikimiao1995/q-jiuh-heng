@@ -23,26 +23,6 @@
   ],
   "customers": [
     {
-      "id": "e-ST59iyI8BGL2wXFwaI",
-      "name": "Mr. Devin Littel",
-      "country": "KEN",
-      "city": "Canton",
-      "state": "MS",
-      "address": "3660 Leuschke Islands Apt. 704",
-      "zip": "03115",
-      "status": 1
-    },
-    {
-      "id": "mXuNwO1JtUHHy1FDasGz",
-      "name": "Kimberly Grimes",
-      "country": "MLT",
-      "city": "North Dave",
-      "state": "OH",
-      "address": "38046 Giovani Views Apt. 749",
-      "zip": "59549-7947",
-      "status": 1
-    },
-    {
       "id": "JiYScuEsqmnHgblT-fCT",
       "name": "Chris Altenwerth",
       "country": "LUX",
@@ -51,56 +31,6 @@
       "address": "4461 Bosco Falls Apt. 832",
       "zip": "51792-2852",
       "status": 0
-    },
-    {
-      "id": "hn5NIMynJhqjVwc0Xr1u",
-      "name": "Linda Hoeger",
-      "country": "GEO",
-      "city": "South Elliot",
-      "state": "NY",
-      "address": "9021 Roob Underpass Suite 531",
-      "zip": "38214-1472",
-      "status": 1
-    },
-    {
-      "id": "WaWFh8T3tvmM3ZLyKkDf",
-      "name": "Blake Rolfson",
-      "country": "SPM",
-      "city": "North Elliot",
-      "state": "NY",
-      "address": "13829 Cremin Summit Apt. 806",
-      "zip": "00041-5477",
-      "status": 1
-    },
-    {
-      "id": "aS-TfrneJIPetdVQJl8J",
-      "name": "Terry Fadel",
-      "country": "VIR",
-      "city": "Kaylahstad",
-      "state": "AK",
-      "address": "13502 Dietrich Way Apt. 104",
-      "zip": "76920",
-      "status": 1
-    },
-    {
-      "id": "Ue0cz0nlAGPbHGf76fUF",
-      "name": "Marion Erdman",
-      "country": "BEN",
-      "city": "Hagenesfort",
-      "state": "NV",
-      "address": "922 Enos Parkway Suite 657",
-      "zip": "21217-1408",
-      "status": 1
-    },
-    {
-      "id": "biCI4uglddtdxtp8xUID",
-      "name": "Milton Hintz",
-      "country": "PRT",
-      "city": "Cleveland Heights",
-      "state": "TN",
-      "address": "151 Jones Field Apt. 926",
-      "zip": "22411",
-      "status": 1
     },
     {
       "id": "XX1rkMGZnHvQ8LIobSdR",
@@ -129,7 +59,7 @@
       "city": "Strongsville",
       "state": "NC",
       "address": "36807 N 4th Street Apt. 575",
-      "zip": "45621-5345",
+      "zip": "45621-5340",
       "status": 1
     },
     {
@@ -139,7 +69,7 @@
       "city": "Metzville",
       "state": "NE",
       "address": "14888 Avery Valleys Suite 504",
-      "zip": "66074-7660",
+      "zip": "66074-7661",
       "status": 1
     },
     {
@@ -179,7 +109,7 @@
       "city": "Carolyneburgh",
       "state": "AL",
       "address": "74409 Upton Estates Apt. 138",
-      "zip": "49075-5513",
+      "zip": "49075-5514",
       "status": 1
     },
     {
@@ -399,7 +329,7 @@
       "city": "Millerfurt",
       "state": "NJ",
       "address": "76972 Sporer Flat Suite 456",
-      "zip": "44203-5588",
+      "zip": "44203-5580",
       "status": 1
     },
     {
@@ -409,7 +339,7 @@
       "city": "West Stuartton",
       "state": "WA",
       "address": "546 Schmidt Crossing Apt. 526",
-      "zip": "65966-4240",
+      "zip": "65966-4241",
       "status": 1
     },
     {
@@ -419,7 +349,7 @@
       "city": "Logan",
       "state": "WY",
       "address": "67482 Milton Avenue Apt. 329",
-      "zip": "77526",
+      "zip": "77527",
       "status": 1
     },
     {
@@ -531,16 +461,6 @@
       "address": "8057 First Street Apt. 375",
       "zip": "43044",
       "status": 0
-    },
-    {
-      "id": "lRrkA_E_u5rmakVQV-aQ",
-      "name": "Devin Herzog",
-      "country": "JAM",
-      "city": "Lake Kasandra",
-      "state": "IL",
-      "address": "38492 Milton Road Apt. 693",
-      "zip": "35440",
-      "status": 1
     },
     {
       "id": "V2OuUChpJ9cd1pZu9V-5",
