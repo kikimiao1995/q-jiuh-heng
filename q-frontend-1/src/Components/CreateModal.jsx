@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { Button, Form, Input, Modal, Radio } from "antd";
+import { Button, Form, Input, Modal, Select } from "antd";
 const CollectionCreateForm = ({ initialValues, onFormInstanceReady }) => {
   const [form] = Form.useForm();
   useEffect(() => {
@@ -34,6 +34,23 @@ const CollectionCreateForm = ({ initialValues, onFormInstanceReady }) => {
         ]}
       >
         <Input />
+      </Form.Item>
+      <Form.Item
+        label="Status"
+        name="status"
+        initialValue={0}
+        rules={[
+          {
+            required: true,
+            message: "Please input your address!",
+          },
+        ]}
+      >
+        <Select
+        >
+          <Select.Option value="0">0: void</Select.Option>
+          <Select.Option value="1">1: active</Select.Option>
+        </Select>
       </Form.Item>
       <Form.Item
         label="Country"
