@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { Button, Form, Input, Modal, Select } from "antd";
+import { Button, Form, Input, Modal, Select, DatePicker } from "antd";
 const CollectionCreateForm = ({ initialValues, onFormInstanceReady }) => {
   const [form] = Form.useForm();
   useEffect(() => {
@@ -13,23 +13,36 @@ const CollectionCreateForm = ({ initialValues, onFormInstanceReady }) => {
       initialValues={initialValues}
     >
       <Form.Item
-        label="Customer ID"
+        label="ID"
         name="id"
         rules={[
           {
             required: true,
+            message: "Please input ID!",
           },
         ]}
       >
         <Input />
       </Form.Item>
       <Form.Item
-        label="Name"
-        name="name"
+        label="Customer ID"
+        name="customerID"
         rules={[
           {
             required: true,
-            message: "Please input your name!",
+            message: "Please input Customer ID!",
+          },
+        ]}
+      >
+        <Input />
+      </Form.Item>
+      <Form.Item
+        label="Total Amount"
+        name="totalAmount"
+        rules={[
+          {
+            required: true,
+            message: "Please input Total Amount!",
           },
         ]}
       >
@@ -42,73 +55,42 @@ const CollectionCreateForm = ({ initialValues, onFormInstanceReady }) => {
         rules={[
           {
             required: true,
-            message: "Please input your address!",
+            message: "Please input your status!",
           },
         ]}
       >
         <Select
         >
           <Select.Option value="0">0: void</Select.Option>
-          <Select.Option value="1">1: active</Select.Option>
+          <Select.Option value="1">1: Open</Select.Option>
+          <Select.Option value="2">2: Completed</Select.Option>
+          <Select.Option value="3">3: Invoice</Select.Option>
         </Select>
       </Form.Item>
       <Form.Item
-        label="Country"
-        name="country"
+        label="Sale Name"
+        name="saleName"
         rules={[
           {
             required: true,
-            message: "Please input your country!",
+            message: "Please input your sale name!",
           },
         ]}
       >
         <Input />
       </Form.Item>
       <Form.Item
-        label="State"
-        name="state"
+        label="Date"
+        name="date"
         rules={[
           {
             required: true,
-            message: "Please input your state!",
+            message: "'Please select date!",
+            type: 'object'
           },
         ]}
       >
-        <Input />
-      </Form.Item>
-      <Form.Item
-        label="City"
-        name="city"
-        rules={[
-          {
-            message: "Please input your city!",
-          },
-        ]}
-      >
-        <Input />
-      </Form.Item>
-      <Form.Item
-        label="Address"
-        name="address"
-        rules={[
-          {
-            required: true,
-            message: "Please input your address!",
-          },
-        ]}
-      >
-        <Input />
-      </Form.Item>
-      <Form.Item
-        label="Zip"
-        name="zip"
-        rules={[
-          {
-            message: "Please input your zip!",
-          },
-        ]}
-      >
-        <Input />
+        <DatePicker />
       </Form.Item>
     </Form>
   );
@@ -153,20 +135,26 @@ const CollectionCreateFormModal = ({
 const CreateModal = ({ refresh }) => {
   const [open, setOpen] = useState(false);
   const onCreate = (values) => {
+    const request = {
+      ...values,
+      unixSecDate:  Math.floor(new Date(values.date).getTime() / 1000)
+    }
     
+    console.log(request)
+
     const url = "http://localhost:3000";
-    fetch(`${url}/customers`, {
+    fetch(`${url}/orders`, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
       },
-      body: JSON.stringify(values),
+      body: JSON.stringify(request),
     })
       .then((res) => res.json())
       .then((data) => console.log("Data sucessfully posted", data))
       .catch((err) => console.error("error posting data", err))
       .finally(() => {
-        console.log("Received values of form: ", values);
+        // console.log("Received request of form: ", request);
         setOpen(false);
         refresh()
       });

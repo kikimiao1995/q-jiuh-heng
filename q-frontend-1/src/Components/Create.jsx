@@ -20,10 +20,10 @@ export default function Create() {
     }));
   };
 
-  const url = "http://localhost:3000/customers";
+  const url = "http://localhost:3000";
   const handleOk = () => {
     setConfirmLoading(true);
-    fetch(url, {
+    fetch(`${url}/customers`, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",

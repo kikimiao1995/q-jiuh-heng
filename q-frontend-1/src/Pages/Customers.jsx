@@ -21,7 +21,6 @@ import { Content } from "antd/es/layout/layout";
 import Orders from "./Orders";
 import Create from "../Components/Create";
 import CreateModal from "../Components/CreateModal";
-import SearchForm from "../Components/SearchForm";
 
 function removeBlankAttributes(obj) {
   const result = {};
@@ -40,8 +39,7 @@ export default function Customers() {
   
   const [form] = Form.useForm();
   const [data, setData] = useState([]);
-  const [order, setOrder] = useState([]);
-
+  const [orders, setOrders] = useState([])
   const [search, setSearch] = useState({});
 
   
@@ -83,6 +81,32 @@ export default function Customers() {
       dataIndex: "zip",
       key: "zip",
       editable: true,
+    },
+    {
+      title: "Sales",
+      dataIndex: "sales",
+      key: "sales",
+      render: (_, record) => {
+        const currentYear = new Date().getFullYear();
+        // const nearestYears = [currentYear - 1, currentYear - 2, currentYear - 3].map( i => ({[i]: null}));
+        const nearestYears = [currentYear, currentYear - 1, currentYear - 2];
+        return (
+          <>
+            {nearestYears.map((year, index) => {
+              const yearOrder = record.orders.filter(order => new Date(order.unixSecDate * 1000).getFullYear() === year)
+              const yearTotal = yearOrder.reduce((acc, cur) => acc + cur.totalAmount, 0)
+              return (
+                <div key={index}>{year}: { 
+                  yearTotal === 0 ? 0
+                    : Number.isInteger(yearTotal) ? yearTotal
+                    : Math.round(yearTotal * 100) / 100            // : yearTotal.toFixed(2)
+                    }
+                </div>
+              )
+            })}
+          </>
+        )
+      }
     },
     {
       title: "Action",
@@ -157,7 +181,7 @@ export default function Customers() {
       seteditingID('');
 
     } catch (errInfo) {
-      console.log('Validate Failed:', errInfo);
+      console.err('Validate Failed:', errInfo);
     }
   };
 
@@ -178,42 +202,39 @@ export default function Customers() {
     
   }
 
-  const refreshData = () => {
+  const refreshData = async () => {
     // fetch("http://localhost:3000/customers?status=1&_start=0&_limit=30")
-    fetch("http://localhost:3000/customers?status=1")
-      .then((res) => res.json())
-      .then((json) => setData(json))
-      // .then(data => console.log(data))
-      .catch((err) => console.error(err));
-  }
+    // fetch("http://localhost:3000/customers?status=1")
+    //   .then((res) => res.json())
+    //   .then((json) => setData(json))
+    //   // .then(data => console.log(data))
+    //   .catch((err) => console.error(err));
 
-  const calSales = () => {
-    fetch("http://localhost:3000/orders")
-      .then((res) => res.json())
-      // .then((json) => setOrder(json))
-      .then(orders => 
-        orders.forEach(order => {
-          const { customerID, totalAmount, unixSecDate } = order
-          const matchCustomer = data.find(customer => customer.id === customerID)
-          if(matchCustomer){
-            setData((preState) => ({
-              ...preState,
-              order: [{
-                totalAmount,
-                unixSecDate
-              }]
-            }));
-          }
+      try {
+        const baseUrl = 'http://localhost:3000'
+      
+        const p1 = fetch(`${baseUrl}/customers?status=1`).then(res => res.json())
+        const p2 = fetch(`${baseUrl}/orders`).then(res => res.json())
+
+        const  [ customers, orders ] = await Promise.all([p1, p2])
+
+        customers.forEach(customer => {
+          const customerOrders = orders.filter(order => order.customerID === customer.id)
+          customer.orders = customerOrders
         })
 
+        setData(customers)
+        setOrders(orders)
 
-      )
-      .catch((err) => console.log(err))
+      } catch (err) {
+        console.error(err)
+      }
+
+
   }
 
   useEffect(() => {
     refreshData()
-    calSales()
   }, []);
 
   const handleSearchInputChange = (e) => {
@@ -231,10 +252,16 @@ export default function Customers() {
     ).toString();
 
     const query = inputString !== "" ? `${url}&${inputString}` : orinigalUrl;
-    console.log(query)
+    // console.log(query)
     fetch(query)
       .then((res) => res.json())
-      .then((data) => setData(data))
+      .then((data) =>{ 
+        data.forEach(customer => {
+          const customerOrders = orders.filter(order => order.customerID === customer.id)
+          customer.orders = customerOrders
+        })
+        setData(data)
+      })
       .catch((err) => console.error(err));
   };
 
@@ -257,12 +284,8 @@ export default function Customers() {
 
   return (
     <>
-      <Layout style={{ padding: "40px" }}>
+      <Layout style={{ padding: "60px 40px" }}>
         <Content>
-          <Card>
-            {/* <Orders></Orders> */}
-            <p>列表可檢視該客戶近三年的各年度銷售總金額</p>
-          </Card>
           <Card>
             <Row justify="start" align="bottom" gutter={16}>
               <Col span={2}>
@@ -340,7 +363,7 @@ export default function Customers() {
                   <Button type="primary" onClick={submit}>
                     Submit
                   </Button>
-                  <CreateModal />
+                  <CreateModal refresh={refreshData} />
                 </Flex>
               </Col>
             </Row>
